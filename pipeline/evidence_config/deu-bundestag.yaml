@@ -1,0 +1,60 @@
+# Evidence Configuration for Germany - Bundestag (deu-bundestag-21)
+# Methodology version: 1.0 (calibrated)
+
+legislature:
+  country_code: DEU
+  name: Bundestag
+  level: federal
+  term: 21
+
+constants:
+  # Recency decay parameter lambda = ln(2)/4 (half-life of 4 years / one legislative period)
+  lambda: 0.17328679513  # ln(2) / 4
+  
+  # Saturation weight W_0: Derived to reach 90% volume confidence with 3 active T1/T2 items
+  # W_0 = -3 / ln(1 - 0.90) = -3 / -2.302585 = 1.302883
+  W_0: 1.3028834457
+
+tiers:
+  T1:
+    weight: 1.0
+    label: Revealed Behavior
+    sources:
+      - name: namentliche_abstimmungen
+        type: xml_dumps
+        url: https://www.bundestag.de/parlament/plenum/abstimmung/liste
+        description: Bundestag roll-call vote XML records
+      - name: dip_api
+        type: rest_api
+        url: https://dip.bundestag.de/
+        description: Document information system for Fraktion bill sponsorship and motions
+  T2:
+    weight: 0.8
+    label: Formal Self-Declaration
+    sources:
+      - name: wahl_o_mat
+        type: document_extract
+        description: Published thesis and answer statements by bpb
+      - name: manifesto_party
+        type: document_extract
+        description: Official Wahlprogramme, Grundsatzprogramme, or signed coalition agreements
+  T3:
+    weight: 0.6
+    label: Expert-Coded Programme Data
+    sources:
+      - name: manifesto_project
+        type: api_dataset
+        description: Coded quasi-sentence database from Manifesto Project (WZB Berlin)
+      - name: abgeordnetenwatch
+        type: rest_api
+        description: Candidate and party survey response matches
+  T4:
+    weight: 0.3
+    label: Attributed Public Statements
+    sources:
+      - name: plenary_speeches
+        type: transcription_extract
+        description: Official speeches by leadership in Plenarprotokolle
+      - name: press_releases
+        type: press_feed
+        description: Official party press releases

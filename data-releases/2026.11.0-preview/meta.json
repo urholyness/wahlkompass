@@ -1,0 +1,14 @@
+{
+  "release": "2026.11.0-preview",
+  "legislature": "deu-bundestag-21",
+  "methodology_version": "1.0",
+  "as_of": "2026-11-01",
+  "statement_count": 15,
+  "frozen_at": null,
+  "preview": true,
+  "preview_label_de": "technische Vorschau — Belege synthetisch, noch nicht vom Beirat geprüft",
+  "signature_verified": true,
+  "signed_payload": "2026.11.0-preview|5b736d0c8c58106cec41470741071b249494bc005ce71468ee3e5e03360776ac|35ea81926754264195603b17cbfcf6d24a63bc318e06c34b85407d9b598d6d3b",
+  "signature_b64": "NFXSXJz2GASynPQ0LdfeBWEkdUjwUNa15wAc1aoZPfRAV7xAz6UC4Fir/dTXkTLuEXX1SyLuWfTofxjSgyN4Cw==",
+  "pubkey_b64": "Is2epgonjZTgeLFSZ1u7uMm+ZMVtzQfYK6QX9/lV6qU="
+}
