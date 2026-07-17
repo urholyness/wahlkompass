@@ -1,0 +1,46 @@
+# Secrets — NEVER commit
+.env
+*.env
+*.key
+*.pem
+*.p8
+*.sig
+release_seckey.*
+release.sig
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.mypy_cache/
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# Node / frontend
+node_modules/
+.astro/
+dist/
+
+# Test artifacts
+test_portal.db
+*.db-shm
+*.db-wal
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# CI / release scratch
+diff/
+*.log
