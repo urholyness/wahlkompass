@@ -1,0 +1,517 @@
+{
+  "afd:schuldenbremse": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "bsw:schuldenbremse": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "cdu:schuldenbremse": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "fdp:schuldenbremse": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "gruene:schuldenbremse": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "linke:schuldenbremse": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "spd:schuldenbremse": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "volt:schuldenbremse": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "afd:mindestlohn-15": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "bsw:mindestlohn-15": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "cdu:mindestlohn-15": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "fdp:mindestlohn-15": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "gruene:mindestlohn-15": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "linke:mindestlohn-15": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "spd:mindestlohn-15": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "volt:mindestlohn-15": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "afd:tempolimit": {
+    "p": -1.0,
+    "confidence": 0.5165,
+    "p_said": null,
+    "p_did": -1.0,
+    "divergent": false,
+    "evidence_ids": [
+      "t1-2026-07-09-s89-a1-afd-tempolimit"
+    ],
+    "salience": "hoch"
+  },
+  "bsw:tempolimit": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "cdu:tempolimit": {
+    "p": -1.0,
+    "confidence": 0.5165,
+    "p_said": null,
+    "p_did": -1.0,
+    "divergent": false,
+    "evidence_ids": [
+      "t1-2026-07-09-s89-a1-cdu-tempolimit"
+    ],
+    "salience": "hoch"
+  },
+  "fdp:tempolimit": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "gruene:tempolimit": {
+    "p": 1.0,
+    "confidence": 0.5165,
+    "p_said": null,
+    "p_did": 1.0,
+    "divergent": false,
+    "evidence_ids": [
+      "t1-2026-07-09-s89-a1-gruene-tempolimit"
+    ],
+    "salience": "hoch"
+  },
+  "linke:tempolimit": {
+    "p": 1.0,
+    "confidence": 0.5165,
+    "p_said": null,
+    "p_did": 1.0,
+    "divergent": false,
+    "evidence_ids": [
+      "t1-2026-07-09-s89-a1-linke-tempolimit"
+    ],
+    "salience": "hoch"
+  },
+  "spd:tempolimit": {
+    "p": -1.0,
+    "confidence": 0.5165,
+    "p_said": null,
+    "p_did": -1.0,
+    "divergent": false,
+    "evidence_ids": [
+      "t1-2026-07-09-s89-a1-spd-tempolimit"
+    ],
+    "salience": "hoch"
+  },
+  "volt:tempolimit": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "afd:klima-2035": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "bsw:klima-2035": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "cdu:klima-2035": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "fdp:klima-2035": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "gruene:klima-2035": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "linke:klima-2035": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "spd:klima-2035": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "volt:klima-2035": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "afd:buergergeld": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "bsw:buergergeld": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "cdu:buergergeld": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "fdp:buergergeld": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "gruene:buergergeld": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "linke:buergergeld": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "spd:buergergeld": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "volt:buergergeld": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "afd:rente-63": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "bsw:rente-63": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "cdu:rente-63": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "fdp:rente-63": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "gruene:rente-63": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "linke:rente-63": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "spd:rente-63": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "volt:rente-63": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "afd:wehrpflicht": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "bsw:wehrpflicht": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "cdu:wehrpflicht": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "fdp:wehrpflicht": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "gruene:wehrpflicht": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "linke:wehrpflicht": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "spd:wehrpflicht": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "volt:wehrpflicht": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "afd:waffen-ukraine": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "bsw:waffen-ukraine": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "cdu:waffen-ukraine": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "fdp:waffen-ukraine": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "gruene:waffen-ukraine": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "linke:waffen-ukraine": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "spd:waffen-ukraine": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "volt:waffen-ukraine": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "afd:asyl-drittstaaten": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "bsw:asyl-drittstaaten": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "cdu:asyl-drittstaaten": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "fdp:asyl-drittstaaten": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "gruene:asyl-drittstaaten": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "linke:asyl-drittstaaten": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "spd:asyl-drittstaaten": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "volt:asyl-drittstaaten": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "afd:fachkraefte": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "bsw:fachkraefte": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "cdu:fachkraefte": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "fdp:fachkraefte": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "gruene:fachkraefte": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "linke:fachkraefte": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "spd:fachkraefte": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "volt:fachkraefte": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "afd:vermoegensteuer": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "bsw:vermoegensteuer": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "cdu:vermoegensteuer": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "fdp:vermoegensteuer": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "gruene:vermoegensteuer": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "linke:vermoegensteuer": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "spd:vermoegensteuer": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "volt:vermoegensteuer": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "afd:cannabis": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "bsw:cannabis": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "cdu:cannabis": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "fdp:cannabis": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "gruene:cannabis": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "linke:cannabis": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "spd:cannabis": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "volt:cannabis": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "afd:eurobonds": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "bsw:eurobonds": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "cdu:eurobonds": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "fdp:eurobonds": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "gruene:eurobonds": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "linke:eurobonds": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "spd:eurobonds": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "volt:eurobonds": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "afd:vorratsdaten": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "bsw:vorratsdaten": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "cdu:vorratsdaten": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "fdp:vorratsdaten": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "gruene:vorratsdaten": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "linke:vorratsdaten": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "spd:vorratsdaten": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "volt:vorratsdaten": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "afd:heizungsgesetz": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "bsw:heizungsgesetz": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "cdu:heizungsgesetz": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "fdp:heizungsgesetz": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "gruene:heizungsgesetz": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "linke:heizungsgesetz": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "spd:heizungsgesetz": {
+    "p": null,
+    "evidence_ids": []
+  },
+  "volt:heizungsgesetz": {
+    "p": null,
+    "evidence_ids": []
+  }
+}

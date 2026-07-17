@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "wahlkompass-dist",
+      "runtimeExecutable": "C:\\Users\\georg\\WID\\wahlkompass\\.venv\\Scripts\\python.exe",
+      "runtimeArgs": ["-m", "http.server", "8791", "--bind", "127.0.0.1", "--directory", "C:\\Users\\georg\\WID\\wahlkompass\\frontend\\dist"],
+      "port": 8791
+    }
+  ]
+}

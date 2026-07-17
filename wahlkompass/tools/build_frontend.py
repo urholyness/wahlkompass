@@ -1,34 +1,58 @@
 """
-Wahlkompass frontend build (v1 — mobile core flow).
+Wahlkompass frontend build (v2 — production, fetch + in-browser verify).
 
-Reads a data-release directory and emits a single self-contained
-frontend/dist/index.html with the signed bundle INLINED and the client-side
-v1.2 scorer embedded (a byte-for-byte JS port of pipeline/src/scoring.py).
+Emits a static site into frontend/dist/:
+  * index.html          — self-contained app (design tokens, v1.2 JS scorer)
+  * release/<tag>/*.json — the signed data-release bundle, served same-origin
 
-PREVIEW NOTE: for the standalone preview the bundle is inlined so the page runs
-from file://. For the deployed site, replace the `RELEASE` const with a
-`fetch()` of the signed bundle from the CDN + in-browser Ed25519 verification
-(see GO-LIVE — the signature, payload and pubkey are already emitted).
+At runtime the page FETCHES the bundle from ./release/<tag>/ and verifies it in
+the browser before rendering a single number:
+  1. pinned pubkey (baked into the build) must equal meta.pubkey_b64
+  2. Ed25519 signature (SubtleCrypto) over meta.signed_payload must verify
+  3. every content file's SHA-256 must equal the hash in the signed manifest
+Only then does the Prüfsiegel render. Tamper (any mismatch) -> blocking
+"Signatur fehlt" state. If the browser can't run the check at all, the seal is
+withheld and a warning shows (design §5.1 / §8).
+
+The scorer embedded here is a byte-for-byte port of pipeline/src/scoring.py
+(no ML, no learned params, symmetric across parties — the only computation
+between the user's answers and the ranking).
 """
-import os
+import argparse
 import json
+import os
+import shutil
 
-REL = os.path.join(os.path.dirname(__file__), "..", "data-releases", "2026.11.0-preview")
-OUT = os.path.join(os.path.dirname(__file__), "..", "frontend", "dist")
+ROOT = os.path.normpath(os.path.join(os.path.dirname(__file__), ".."))
+OUT = os.path.join(ROOT, "frontend", "dist")
+DEFAULT_TAG = "2026.11.1-preview"
+CONTENT_FILES = ["meta.json", "methodology.json", "statements.json", "parties.json",
+                 "positions.json", "evidence.json", "seats.json", "exclusions.json"]
 
 
-def load(name):
-    with open(os.path.join(REL, name), "r", encoding="utf-8") as f:
-        return json.load(f)
+def main(tag: str = DEFAULT_TAG):
+    rel_dir = os.path.join(ROOT, "data-releases", tag)
+    with open(os.path.join(rel_dir, "meta.json"), "r", encoding="utf-8") as f:
+        meta = json.load(f)
+    pubkey = meta["pubkey_b64"]
 
+    # copy the signed bundle to dist/release/<tag>/ (served same-origin)
+    dst = os.path.join(OUT, "release", tag)
+    os.makedirs(dst, exist_ok=True)
+    for name in CONTENT_FILES + ["release.sig", "pubkey.ed25519"]:
+        src = os.path.join(rel_dir, name)
+        if os.path.exists(src):
+            shutil.copyfile(src, os.path.join(dst, name))
 
-def main():
-    bundle = {k: load(f"{k}.json") for k in ["meta", "statements", "parties", "positions", "evidence"]}
+    html = (TEMPLATE
+            .replace("__PUBKEY_B64__", pubkey)
+            .replace("__RELEASE_TAG__", tag))
     os.makedirs(OUT, exist_ok=True)
-    html = TEMPLATE.replace("/*__RELEASE__*/null", json.dumps(bundle, ensure_ascii=False))
     with open(os.path.join(OUT, "index.html"), "w", encoding="utf-8") as f:
         f.write(html)
     print(f"frontend built: {os.path.join(OUT, 'index.html')} ({len(html)//1024} KB)")
+    print(f"  bundle: {dst}")
+    print(f"  pinned pubkey: {pubkey[:16]}…")
 
 
 TEMPLATE = r"""<!DOCTYPE html>
@@ -67,10 +91,8 @@ button{font-family:inherit}
 .spacer{flex:1}
 .footer{border-top:1px solid var(--line);padding:12px 22px;font:400 11px "Public Sans";color:var(--graphite);display:flex;gap:8px;align-items:center;justify-content:space-between}
 .link{color:var(--petrol);font-weight:600;cursor:pointer;text-decoration:none}
-/* progress */
 .prog{height:3px;background:var(--line);border-radius:2px;overflow:hidden}
 .prog>i{display:block;height:100%;background:var(--petrol);transition:width .2s}
-/* scale */
 .scale{display:flex;gap:8px}
 .scale button{all:unset;flex:1;height:46px;border:1px solid #cfccc4;background:#fff;border-radius:10px;display:flex;align-items:center;justify-content:center;cursor:pointer;transition:.12s}
 .scale button.on{border:2px solid var(--petrol);background:var(--petrol)}
@@ -95,24 +117,65 @@ button{font-family:inherit}
 .extract{margin-top:8px;padding:8px 10px;background:var(--soft);border-radius:7px;font:400 11.5px/1.45 "JetBrains Mono";color:var(--ink)}
 .tag{padding:3px 8px;border-radius:7px;background:var(--soft);font:500 11px "JetBrains Mono";color:var(--graphite)}
 .warn{border:1px solid #e6c9a8;background:#fbf3e6;border-radius:12px;padding:12px 14px;font-size:13px;color:#7a5a2a}
+.fail{border:1px solid #e0b4b4;background:#fbe9e9;border-radius:12px;padding:14px 16px;font-size:13px;color:#8a2a2a}
+.skel{background:linear-gradient(90deg,#eee 25%,#f5f5f5 50%,#eee 75%);background-size:200% 100%;animation:sk 1.2s infinite;border-radius:8px}
+@keyframes sk{0%{background-position:200% 0}100%{background-position:-200% 0}}
+@media (prefers-reduced-motion: reduce){.skel{animation:none}.prog>i{transition:none}.scale button{transition:none}}
 </style>
 </head>
 <body>
 <div class="app" id="app"></div>
 <script>
-const RELEASE = /*__RELEASE__*/null;
-const {meta, statements, parties, positions, evidence} = RELEASE;
-const posOf = (pid,slug)=> positions[pid+":"+slug] || {p:null};
+const PINNED_PUBKEY = "__PUBKEY_B64__";
+const RELEASE_BASE  = "./release/__RELEASE_TAG__/";
 const MIN_ANSWERS = 10;
 
-// ---- storage (safe: falls back to memory if localStorage unavailable) ----
+let RELEASE=null, meta, statements, parties, positions, evidence;
+const posOf = (pid,slug)=> (positions[pid+":"+slug] || {p:null});
+
+// ---- storage ----
 const store = (()=>{ try{const k="wk";localStorage.setItem(k,localStorage.getItem(k)||"{}");
   return {get:()=>JSON.parse(localStorage.getItem(k)||"{}"),set:v=>localStorage.setItem(k,JSON.stringify(v))};}
   catch(e){let m={};return {get:()=>m,set:v=>m=v};}})();
-
-// ---- state ----
 let S = Object.assign({screen:"start", i:0, answers:{}, easy:false, openParty:null, openBeleg:{}}, store.get());
 function save(){ store.set({answers:S.answers, easy:S.easy}); }
+
+// ---- verification (SubtleCrypto Ed25519 + byte-exact SHA-256 manifest) ----
+function b64ToBytes(b64){ const bin=atob(b64); const u=new Uint8Array(bin.length); for(let i=0;i<bin.length;i++)u[i]=bin.charCodeAt(i); return u; }
+async function sha256hex(buf){ const h=await crypto.subtle.digest("SHA-256",buf);
+  return [...new Uint8Array(h)].map(b=>b.toString(16).padStart(2,"0")).join(""); }
+
+async function loadAndVerify(){
+  const dec = new TextDecoder();
+  const metaBytes = await (await fetch(RELEASE_BASE+"meta.json")).arrayBuffer();
+  const m = JSON.parse(dec.decode(metaBytes));
+
+  // 1. pinned pubkey
+  if(m.pubkey_b64 !== PINNED_PUBKEY)
+    return {ok:false, blocking:true, reason:"Der öffentliche Schlüssel des Bündels stimmt nicht mit dem in dieser Seite fest verankerten Schlüssel überein.", meta:m};
+
+  // 2. Ed25519 signature over the signed manifest
+  let sigOk=false;
+  try{
+    const key = await crypto.subtle.importKey("raw", b64ToBytes(m.pubkey_b64), {name:"Ed25519"}, false, ["verify"]);
+    sigOk = await crypto.subtle.verify({name:"Ed25519"}, key, b64ToBytes(m.signature_b64), new TextEncoder().encode(m.signed_payload));
+  }catch(e){
+    return {ok:false, blocking:false, reason:"Dieser Browser kann Ed25519-Signaturen nicht prüfen ("+(e.message||e)+"). Die Daten werden ungeprüft angezeigt.", meta:m, unsupported:true};
+  }
+  if(!sigOk)
+    return {ok:false, blocking:true, reason:"Die kryptografische Signatur des Bündels ist ungültig.", meta:m};
+
+  // 3. byte-exact content: every file hash must match the signed manifest
+  const manifest = JSON.parse(m.signed_payload);
+  const files = {};
+  for(const name of Object.keys(manifest.files)){
+    const bytes = await (await fetch(RELEASE_BASE+name)).arrayBuffer();
+    if(await sha256hex(bytes) !== manifest.files[name])
+      return {ok:false, blocking:true, reason:"Die Datei "+name+" weicht vom signierten Original ab (Hash stimmt nicht).", meta:m};
+    files[name.replace(".json","")] = JSON.parse(dec.decode(bytes));
+  }
+  return {ok:true, meta:m, files};
+}
 
 // ---- v1.2 scorer (port of pipeline/src/scoring.py) ----
 function matchScore(answers, pid){
@@ -132,12 +195,12 @@ function rankParties(answers){
   rankable.forEach((s,i)=>{ if(i===0){rank=1;} else { const prev=rankable[i-1];
     const bound=Math.max(s.hmax||0, prev.hmax||0); if(Math.abs(prev.S-s.S)>=bound) rank=i+1; }
     s.rank=rank; });
-  const noOverlap=scored.filter(s=>s.S==null).map(s=>(s.rank=null,s));
+  const noOverlap=scored.filter(s=>s.S==null).map(s=>(s.rank=null,s))
+    .sort((a,b)=>String(a.party.short_name).localeCompare(String(b.party.short_name)));
   return {ranked:rankable.concat(noOverlap), low:Object.keys(answers).length<MIN_ANSWERS};
 }
 const pct=x=>Math.round(x*100), pp=x=>Math.round(x*100);
 
-// ---- helpers ----
 const SCALE=[{u:-1,l:"lehne stark ab",s:16},{u:-0.5,l:"lehne ab",s:11},{u:0,l:"neutral",s:7},{u:0.5,l:"stimme zu",s:11},{u:1,l:"stimme stark zu",s:16}];
 const el=(h)=>{const t=document.createElement("template");t.innerHTML=h.trim();return t.content.firstChild;};
 function chip(p){return `<span class="chip"><span class="sw" style="background:${p.color_hex}"></span>${p.short_name}</span>`;}
@@ -146,23 +209,26 @@ function chip(p){return `<span class="chip"><span class="sw" style="background:$
 function render(){
   const app=document.getElementById("app"); app.innerHTML="";
   const banner = meta.preview ? `<div class="preview-banner"><b>VORSCHAU</b> ${meta.preview_label_de}</div>` : "";
-  if(S.screen==="start") app.append(el(banner+screenStart()));
-  else if(S.screen==="frage") app.append(el(banner+screenFrage()));
-  else if(S.screen==="ergebnis") app.append(el(banner+screenErgebnis()));
-  else if(S.screen==="methodik") app.append(el(banner+screenMethodik()));
+  const screen = S.screen==="frage" ? screenFrage()
+    : S.screen==="ergebnis" ? screenErgebnis()
+    : S.screen==="methodik" ? screenMethodik()
+    : screenStart();
+  const tpl=document.createElement("template"); tpl.innerHTML=(banner+screen).trim();
+  app.append(...tpl.content.childNodes);
   bind();
   window.scrollTo(0,0);
 }
 
 function sealHtml(){ return meta.signature_verified
   ? `<span class="seal"><span class="ring"><i></i></span>Signatur geprüft · ${meta.release}</span>`
-  : `<span class="seal" style="color:var(--signal)">Signatur fehlt</span>`; }
+  : `<span class="seal" style="color:var(--signal)">Signatur nicht geprüft</span>`; }
 
 function screenStart(){
+  const covered = Object.values(positions).filter(v=>v.p!=null).length;
   return `<div class="pad" style="display:flex;flex-direction:column;min-height:calc(100vh - 34px)">
     <div class="eyebrow">Wahlkompass · Release ${meta.release}</div>
     <h1 class="h1" style="margin-top:40px">${statements.length} Aussagen. Für jede Partei, wie nah sie Ihnen ist — mit Beleg.</h1>
-    <p class="sub" style="margin-top:16px">Jede Zahl ist einen Fingertipp von den Dokumenten entfernt, die sie erzeugt haben.</p>
+    <p class="sub" style="margin-top:16px">Jede Zahl ist einen Fingertipp von den Dokumenten entfernt, die sie erzeugt haben — echte namentliche Abstimmungen des Bundestags.</p>
     <div class="card pad" style="margin-top:22px;padding:16px">
       <div style="display:flex;gap:10px;align-items:flex-start">
         <span class="seal"><span class="ring"><i></i></span></span>
@@ -180,10 +246,10 @@ function screenStart(){
 
 function screenFrage(){
   const st=statements[S.i]; const a=S.answers[st.id];
-  const scale=SCALE.map(o=>`<button data-u="${o.u}" class="${a&&a.u===o.u?'on':''}"><span class="dot" style="width:${o.s}px;height:${o.s}px"></span></button>`).join("");
+  const scale=SCALE.map(o=>`<button data-u="${o.u}" class="${a&&a.u===o.u?'on':''}" aria-label="${o.l}"><span class="dot" style="width:${o.s}px;height:${o.s}px"></span></button>`).join("");
   return `<div style="display:flex;flex-direction:column;min-height:calc(100vh - 34px)">
     <div class="pad" style="padding-bottom:0">
-      <div style="display:flex;justify-content:space-between;align-items:center" class="mono" style="color:var(--graphite)">
+      <div style="display:flex;justify-content:space-between;align-items:center">
         <span class="mono" style="font-size:12px;color:var(--graphite)">${S.i+1} / ${statements.length}</span>
         <span class="eyebrow">${st.topic}</span></div>
       <div class="prog" style="margin-top:8px"><i style="width:${(S.i+1)/statements.length*100}%"></i></div>
@@ -217,7 +283,7 @@ function screenErgebnis(){
   let rows="";
   let prevRank=null;
   for(const r of ranked){
-    if(r.S==null){ // keine Überschneidung
+    if(r.S==null){
       rows+=`<div class="pad" style="padding:12px 22px;opacity:.7;display:flex;align-items:center;gap:10px">
         ${chip(r.party)}<span class="kbp" style="margin-left:auto">keine belegbare Überschneidung</span></div>`;
       continue;
@@ -279,12 +345,15 @@ function belegZug(pos){
   for(const e of ev){
     const tclass= e.tier===1?"t1":e.tier===2?"t2":"t3";
     const tlabel= e.tier===1?"T1 ▮ Abstimmung":e.tier===2?"T2 ● Programm":"T3 ◆ Kodierung";
+    const src = e.source_url && e.source_url.startsWith("http")
+      ? `<a class="link" href="${e.source_url}" target="_blank" rel="noopener">Quelle →</a>` : `<span class="kbp">Quelle folgt</span>`;
     cards+=`<div class="evcard">
       <div style="display:flex;align-items:center;gap:8px"><span class="tier ${tclass}">${tlabel}</span>
         <span class="mono" style="margin-left:auto;font-size:11px;color:var(--graphite)">${e.date}</span></div>
+      <div style="font:600 11.5px 'Public Sans';margin-top:8px">${(e.title_de||"").replace(/</g,"&lt;")}</div>
       <div class="extract">${(e.extract||"").replace(/</g,"&lt;")}</div>
-      <div style="margin-top:8px;display:flex;gap:12px;align-items:center" class="mono" style="font-size:11px">
-        <span class="link">Quelle →</span><span style="color:#9A8E7F">#${(e.sha256||"").slice(0,6)}…</span></div>
+      <div style="margin-top:8px;display:flex;gap:12px;align-items:center" class="mono">
+        ${src}<span style="color:#9A8E7F;font-size:11px">#${(e.sha256||"").slice(0,10)}…</span></div>
     </div>`;
   }
   const div = pos.divergent ? `<div style="margin-top:8px;font-size:11px;color:var(--signal)">Sagen ≠ Tun: sagt ${pos.p_said}, tut ${pos.p_did} (Regel: |gesagt − getan| > 0,5, für alle Parteien gleich).</div>`:"";
@@ -299,6 +368,10 @@ function screenMethodik(){
       <div class="mono" style="font-size:13px">S(P) = 1 − Σ wᵢ·|uᵢ − pᵢ| / (2·Σ wᵢ)</div>
       <div class="mono" style="font-size:12px;color:var(--graphite);margin-top:8px">τ = (1.0, 0.8, 0.6, 0.3) · λ = ln2/4 · W₀ ≈ 1.30</div>
     </div>
+    <div class="card pad" style="padding:14px">
+      <div class="eyebrow" style="margin-bottom:8px">Signatur</div>
+      <div class="sub" style="font-size:12px">${sealHtml()}. Das Bündel wird im Browser geprüft: fest verankerter Schlüssel → Ed25519-Signatur → SHA-256 jeder Datei gegen das signierte Manifest. Bei Abweichung wird nichts angezeigt.</div>
+    </div>
     <p class="sub"><b>Sagen vs. Tun:</b> weicht die schriftliche Position (T2) vom Abstimmungsverhalten (T1) um mehr als 0,5 ab, wird die Zelle markiert — mechanisch, für jede Partei gleich.</p>
     <p class="sub"><b>Keine belegbare Position:</b> ohne ausreichenden Beleg wird nichts erfunden — die Zelle wird aus Zähler und Nenner entfernt, nicht als 0 gewertet.</p>
     <p class="sub"><b>Reproduzierbar:</b> jede Zahl lässt sich aus <span class="mono">evidence.json</span> mit den veröffentlichten Formeln nachrechnen (<span class="mono">reproduce.py</span>).</p>
@@ -307,7 +380,6 @@ function screenMethodik(){
   </div>`;
 }
 
-// ---- events ----
 function bind(){
   document.querySelectorAll("[data-go]").forEach(b=>b.onclick=()=>{S.screen=b.dataset.go;render();});
   document.querySelectorAll("[data-u]").forEach(b=>b.onclick=()=>{
@@ -324,11 +396,59 @@ function bind(){
   document.querySelectorAll("[data-party]").forEach(b=>b.onclick=(e)=>{e.stopPropagation();const pid=b.dataset.party;S.openParty=S.openParty===pid?null:pid;render();});
   document.querySelectorAll("[data-beleg]").forEach(b=>b.onclick=(e)=>{e.stopPropagation();const k=b.dataset.beleg;S.openBeleg[k]=!S.openBeleg[k];render();});
 }
-render();
+
+function renderLoading(){
+  document.getElementById("app").innerHTML=`<div class="pad" style="min-height:100vh">
+    <div class="eyebrow">Wahlkompass</div>
+    <div class="skel" style="height:38px;margin-top:40px"></div>
+    <div class="skel" style="height:38px;margin-top:10px;width:80%"></div>
+    <div class="skel" style="height:80px;margin-top:24px"></div>
+    <div class="sub" style="margin-top:24px;font-size:12px">Bündel wird geladen und im Browser geprüft …</div>
+  </div>`;
+}
+function renderFailed(res){
+  const blocking = res.blocking;
+  document.getElementById("app").innerHTML=`<div class="pad" style="min-height:100vh;display:flex;flex-direction:column;gap:14px">
+    <div class="eyebrow">Wahlkompass · ${(res.meta&&res.meta.release)||"__RELEASE_TAG__"}</div>
+    <div class="h2" style="color:${blocking?'#8a2a2a':'var(--signal)'}">${blocking?'Signatur fehlt':'Signatur nicht geprüft'}</div>
+    <div class="${blocking?'fail':'warn'}">${res.reason}</div>
+    <div class="sub" style="font-size:13px">${blocking
+      ? 'Die Daten stammen möglicherweise nicht vom signierten Original. Aus Sicherheitsgründen werden keine Ergebnisse angezeigt.'
+      : 'Sie können die Daten ansehen, aber die Echtheit wurde nicht bestätigt.'}</div>
+    <div style="display:flex;gap:10px;margin-top:6px">
+      <button class="btn ghost" style="flex:1" onclick="location.reload()">Neu laden</button>
+      <a class="btn ghost" style="flex:1" href="https://github.com/urholyness/wahlkompass" target="_blank" rel="noopener">Quelle prüfen</a>
+    </div>
+    ${!blocking?`<button class="btn primary" id="anyway">Ungeprüft fortfahren</button>`:''}
+  </div>`;
+  const a=document.getElementById("anyway");
+  if(a) a.onclick=()=>{ boot(res, true); };
+}
+
+function boot(res, force){
+  const f=res.files;
+  RELEASE={meta:Object.assign({}, res.meta, {signature_verified: !!res.ok}), statements:f.statements, parties:f.parties, positions:f.positions, evidence:f.evidence};
+  ({meta, statements, parties, positions, evidence} = RELEASE);
+  render();
+}
+
+(async ()=>{
+  renderLoading();
+  let res;
+  try{ res = await loadAndVerify(); }
+  catch(e){ res={ok:false, blocking:true, reason:"Das Bündel konnte nicht geladen werden ("+(e.message||e)+")."}; }
+  if(res.ok){ boot(res); }
+  else if(res.unsupported && res.files){ boot(res); }   // can't verify -> show with seal withheld
+  else if(res.unsupported){ /* meta only, refetch files unverified */ renderFailed(res); }
+  else { renderFailed(res); }
+})();
 </script>
 </body>
 </html>
 """
 
 if __name__ == "__main__":
-    main()
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--tag", default=DEFAULT_TAG)
+    a = ap.parse_args()
+    main(tag=a.tag)

@@ -1,0 +1,4916 @@
+[
+ {
+  "poll_id": 6147,
+  "date": "2025-06-25",
+  "label": "Fortsetzung des Bundeswehreinsatzes in Bosnien und Herzegowina (EUFOR ALTHEA)",
+  "accepted": true,
+  "topics": [
+   "Außenpolitik und internationale Beziehungen",
+   "Verteidigung"
+  ],
+  "intro": "Die Bundesregierung hat einen Antrag vorgelegt, der die Fortführung der Beteiligung bewaffneter deutscher Streitkräfte an der EU-geführten Mission EUFOR ALTHEA in Bosnien und Herzegowina bis Juni 2026 vorsieht. Das bestehende Mandat war zuletzt am 27. Juni 2024 durch eine namentliche Abstimmung verlängert worden. Auch künftig sollen bis zu 50 Soldat:innen entsendet werden, um vor Ort zur Schaffung eines sicheren und stabilen Umfelds beizutragen sowie die Ausbildung der bosnisch-herzegowinischen Streitkräfte zu koordinieren. Die einsatzbedingten Zusatzausgaben beziffert die Bundesregierung im A",
+  "drucksachen": [
+   "21/228",
+   "21/443",
+   "21/466"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/fortsetzung-des-bundeswehreinsatzes-in-bosnien-und-herzegowina-eufor-althea",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 114,
+     "nein": 0,
+     "enthalten": 1,
+     "nicht_abgegeben": 5
+    },
+    "direction": 1.0,
+    "participation": 0.9913,
+    "item_weight": 0.9913,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 192,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 16
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 54,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 79,
+     "nein": 0,
+     "enthalten": 2,
+     "nicht_abgegeben": 4
+    },
+    "direction": 1.0,
+    "participation": 0.9753,
+    "item_weight": 0.9753,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 133,
+     "enthalten": 1,
+     "nicht_abgegeben": 17
+    },
+    "direction": -1.0,
+    "participation": 0.9925,
+    "item_weight": 0.9925,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6165,
+  "date": "2025-06-25",
+  "label": "Ablehnung des Grünen-Antrags gegen die Weiterführung der Nord-Stream-Pipelines",
+  "accepted": true,
+  "topics": [
+   "Energie",
+   "Wirtschaft"
+  ],
+  "intro": "Im Bundestag wurde über einen Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN debattiert, der sich gegen eine Rückkehr zu Energieimporten aus Russland richtet. Der Antrag fordert unter anderem, die Inbetriebnahme der Nord-Stream-Pipelines dauerhaft auszuschließen, kritische Infrastruktur in europäischer Hand zu sichern, russische Energieimporte bis spätestens 2027 zu beenden und die Energieabhängigkeit von Autokratien weltweit zu reduzieren. Zudem soll die Energiewende durch den Ausbau erneuerbarer Energien, grünen Wasserstoffs und mehr Energieeffizienz beschleunigt werden, um Sicherheit, Klimaschut",
+  "drucksachen": [
+   "21/468"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/ablehnung-des-gruenen-antrags-gegen-die-weiterfuehrung-der-nord-stream-pipelines",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 114,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 195,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 1,
+     "enthalten": 55,
+     "nicht_abgegeben": 8
+    },
+    "direction": -1.0,
+    "participation": 0.0179,
+    "item_weight": 0.0,
+    "excluded_unified_abstention": true
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 82,
+     "enthalten": 0,
+     "nicht_abgegeben": 3
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 134,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 16
+    },
+    "direction": 0.9852,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6146,
+  "date": "2025-06-26",
+  "label": "Fortsetzung des Bundeswehreinsatzes vor der libanesischen Küste (UNIFIL)",
+  "accepted": true,
+  "topics": [
+   "Außenpolitik und internationale Beziehungen",
+   "Verteidigung"
+  ],
+  "intro": "Der Bundestag hat über einen Antrag der Bundesregierung abgestimmt, der die Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der „United Nations Interim Force in Lebanon“ (UNIFIL) zum Ziel hat. Das Mandat war zuletzt im Juni 2024 per namentlicher Abstimmung um ein Jahr verlängert worden. Mit dem neuen Beschluss soll es bis Ende Juni 2026 fortgesetzt werden. Die einsatzbedingten Zusatzausgaben sollen laut Bundesregierung bei ca. 61,6 Millionen Euro liegen. Wie bisher sollen bis zu 300 Soldat:innen der Bundeswehr entsendet werden, um insbesondere seegestützte Aufgaben, wie die Ü",
+  "drucksachen": [
+   "21/229",
+   "21/442",
+   "21/465"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/fortsetzung-des-bundeswehreinsatzes-vor-der-libanesischen-kueste-unifil",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 114,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 196,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 12
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 52,
+     "enthalten": 0,
+     "nicht_abgegeben": 12
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 79,
+     "nein": 0,
+     "enthalten": 2,
+     "nicht_abgegeben": 4
+    },
+    "direction": 1.0,
+    "participation": 0.9753,
+    "item_weight": 0.9753,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 127,
+     "enthalten": 0,
+     "nicht_abgegeben": 24
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6148,
+  "date": "2025-06-26",
+  "label": "Weitere Beteiligung der Bundeswehr im Kosovo (KFOR)",
+  "accepted": true,
+  "topics": [
+   "Außenpolitik und internationale Beziehungen",
+   "Verteidigung"
+  ],
+  "intro": "Die Bundesregierung schlägt in ihrem Antrag die Verlängerung des Bundeswehreinsatzes im Kosovo um ein weiteres Jahr vor. Zuletzt hatte der Bundestag im Juni 2024 darüber abgestimmt . Wie bisher sollen bis zu 400 deutsche Soldat:innen die NATO-geführte KFOR-Mission unterstützen. Zu ihren Aufgaben zählen laut Antrag die Aufrechterhaltung von Sicherheit und Ordnung, die Koordination internationaler humanitärer Hilfe, die Unterstützung ziviler Missionen sowie die Ausbildung lokaler Sicherheitskräfte zur Förderung eines stabilen, demokratischen und multiethnischen Kosovos.&nbsp; Zentrales Anliegen ",
+  "drucksachen": [
+   "21/230",
+   "21/444",
+   "21/467"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/weitere-beteiligung-der-bundeswehr-im-kosovo-kfor",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 114,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "direction": 0.9826,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 196,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 12
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 56,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 80,
+     "nein": 0,
+     "enthalten": 2,
+     "nicht_abgegeben": 3
+    },
+    "direction": 1.0,
+    "participation": 0.9756,
+    "item_weight": 0.9756,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 132,
+     "enthalten": 0,
+     "nicht_abgegeben": 19
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6151,
+  "date": "2025-06-26",
+  "label": "Änderung des Allgemeinen Eisenbahngesetzes",
+  "accepted": true,
+  "topics": [
+   "Raumordnung, Bau- und Wohnungswesen",
+   "Verkehr"
+  ],
+  "intro": "Der Bundestag hat namentlich über einen Gesetzentwurf der Fraktionen von CDU/CSU und SPD zur Änderung des Allgemeinen Eisenbahngesetzes abgestimmt. Ziel des Gesetzes ist es, die im Jahr 2023 verschärften Bedingungen für die Freistellung von Bahnflächen vom Bahnbetriebszweck zu lockern. Künftig soll das überragende öffentliche Interesse am Bahnbetriebszweck nur dann bestehen, wenn ein tatsächliches Verkehrsbedürfnis oder langfristiger Nutzungsbedarf erkennbar ist. Damit sollen insbesondere kommunale Vorhaben wie Wohnungsbauprojekte erleichtert werden, die bislang an den strengen Freistellungsvo",
+  "drucksachen": [
+   "21/326",
+   "21/642"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/aenderung-des-allgemeinen-eisenbahngesetzes",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 112,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 193,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 15
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 52,
+     "enthalten": 0,
+     "nicht_abgegeben": 12
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 66,
+     "nicht_abgegeben": 19
+    },
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "excluded_unified_abstention": true
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 120,
+     "enthalten": 0,
+     "nicht_abgegeben": 31
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6155,
+  "date": "2025-06-27",
+  "label": "Aussetzung des Familiennachzugs für subsidiär Schutzberechtigte",
+  "accepted": true,
+  "topics": [
+   "Gesellschaftspolitik, soziale Gruppen",
+   "Migration und Aufenthaltsrecht"
+  ],
+  "intro": "Der Bundestag hat über einen Gesetzentwurf der Fraktionen von CDU/CSU und SPD zur vorübergehenden Aussetzung des Familiennachzugs für subsidiär Schutzberechtigte* abgestimmt. Der Gesetzentwurf sieht vor, den Familiennachzug für zwei Jahre auszusetzen, um die Aufnahme- und Integrationskapazitäten von Ländern und Kommunen zu entlasten. Hintergrund seien laut Entwurf die konstant hohen Zahlen an Schutzsuchenden und die vollständige Ausschöpfung des bisherigen Kontingents von monatlich 1.000 Visa. In Härtefällen soll es weiterhin möglich bleiben Ehepartner:innen, minderjährige Kinder und im Fall u",
+  "drucksachen": [
+   "21/321",
+   "21/634"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/aussetzung-des-familiennachzugs-fuer-subsidiaer-schutzberechtigte",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 117,
+     "nein": 2,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "direction": 0.9664,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 202,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 51,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 80,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 125,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 26
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6170,
+  "date": "2025-07-10",
+  "label": "Keinen Untersuchungsausschuss zur Aufarbeitung der Corona-Pandemie einsetzen (Beschlussempfehlung)",
+  "accepted": true,
+  "topics": [
+   "Bundestag",
+   "Gesundheit"
+  ],
+  "intro": "Im Bundestag wurde der Antrag der AfD-Fraktion behandelt, worin die Einsetzung eines parlamentarischen Untersuchungsausschusses zur Aufarbeitung der Corona-Pandemie gefordert wird. Ziel des Ausschusses sei es laut Fraktion, die politischen Entscheidungen und Maßnahmen während der Pandemie, insbesondere hinsichtlich ihrer Verhältnismäßigkeit und Auswirkungen auf die Gesellschaft, zu untersuchen. Die Antragsteller:innen betonen die Notwendigkeit einer umfassenden Aufklärung, um Lehren für zukünftige Krisen zu ziehen. Gemäß Artikel 44 des Grundgesetzes kann der Bundestag einen Untersuchungsaussch",
+  "drucksachen": [
+   "21/573",
+   "21/805"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/keinen-untersuchungsausschuss-zur-aufarbeitung-der-corona-pandemie-einsetzen-beschlussempfehlung",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 112,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "direction": 0.9823,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 200,
+     "nein": 0,
+     "enthalten": 1,
+     "nicht_abgegeben": 7
+    },
+    "direction": 1.0,
+    "participation": 0.995,
+    "item_weight": 0.995,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 54,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 83,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 145,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6249,
+  "date": "2025-09-11",
+  "label": "Kein Stopp des Rückbaus abgeschalteter Kernkraftwerke (Beschlussempfehlung)",
+  "accepted": true,
+  "topics": [
+   "Energie"
+  ],
+  "intro": "Die AfD-Fraktion hat im Bundestag einen Antrag eingebracht, worin die Fraktion fordert, den Rückbau stillgelegter Atomkraftwerke sofort zu stoppen und die Reaktoren möglichst schnell wieder in Betrieb zu nehmen. In dem Antrag wird der Atomausstieg als Fehler bezeichnet, der die Stromversorgung unsicher mache. Die Fraktion will das Atomgesetz daher so ändern, dass die Stromproduktion aus Kernkraft wieder erlaubt wird. Außerdem solle Deutschland der internationalen „Atomallianz“ für mehr Atomstrom beitreten. Zu dem Antrag lag eine Beschlussempfehlung des Ausschusses für Umwelt, Klimaschutz, Natu",
+  "drucksachen": [
+   "21/220",
+   "21/386"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/kein-stopp-des-rueckbaus-abgeschalteter-kernkraftwerke-beschlussempfehlung",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 114,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 199,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 56,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 79,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 131,
+     "enthalten": 0,
+     "nicht_abgegeben": 20
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6250,
+  "date": "2025-09-17",
+  "label": "Etat von Bundeskanzler und Bundeskanzleramt",
+  "accepted": true,
+  "topics": [
+   "Bundestag",
+   "Öffentliche Finanzen, Steuern und Abgaben"
+  ],
+  "intro": "Namentlich abgestimmt wurde im Rahmen der Abschlussberatungen zum Bundeshaushalt 2025 über den Etat von Bundeskanzler und Bundeskanzleramt. Vorgesehen sind unter anderem Ausgaben in Höhe von 4,04 Milliarden Euro, während es im Jahr 2024 noch 3,87 Milliarden Euro waren. 2,03 Milliarden Euro davon soll der Beauftragte der Bundesregierung für Kultur und Medien, Wolfram Weimer, erhalten sowie 18,22 Millionen Euro die Beauftragte der Bundesregierung für Ostdeutschland, Elisabeth Kaiser. Der Zuschuss an den Bundesnachrichtendienst soll 1,19 Milliarden Euro betragen, während die Ausgaben der Beauftra",
+  "drucksachen": [
+   "21/1062",
+   "21/1064",
+   "21/500"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/etat-von-bundeskanzler-und-bundeskanzleramt",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 118,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 203,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 59,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 78,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 136,
+     "enthalten": 0,
+     "nicht_abgegeben": 15
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6251,
+  "date": "2025-09-18",
+  "label": "Haushaltsgesetz 2025",
+  "accepted": true,
+  "topics": [
+   "Öffentliche Finanzen, Steuern und Abgaben"
+  ],
+  "intro": "Im Bundestag wurde namentlich über den Gesetzentwurf der Bundesregierung zum Haushaltsgesetz 2025 abgestimmt. Darin vorgesehen sind insgesamt Ausgaben des Bundes in Höhe von 502,55 Milliarden Euro. Für Investitionen sollen unter anderem 62,73 Milliarden Euro ausgegeben werden dürfen, die Nettokreditaufnahme soll bei 81,8 Milliarden Euro liegen. Vor allem möchte die Bundesregierung zukünftig in die Bereiche Mobilität, Digitalisierung, Innovation, Bildung und Forschung sowie Klimaschutz investieren. Dafür soll unter anderem auch ein Sondervermögen Infrastruktur und Klimaneutralität in Höhe von 3",
+  "drucksachen": [
+   "21/1062",
+   "21/500",
+   "21/501"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/haushaltsgesetz-2025",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 118,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 205,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 3
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 59,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 76,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 133,
+     "enthalten": 0,
+     "nicht_abgegeben": 18
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6280,
+  "date": "2025-10-08",
+  "label": "Änderung des Staatsangehörigkeitsgesetzes",
+  "accepted": true,
+  "topics": [
+   "Migration und Aufenthaltsrecht"
+  ],
+  "intro": "Der Bundestag hat über die von der Bundesregierung geplante Änderung des Staatsangehörigkeitsgesetzes abgestimmt. Zentral ist dabei die Rücknahme der durch die Ampel-Regierung eingeführten \"Tourboeinbürgerung\". Demnach ist eine Einbürgerung ausländischer Staatsbürger:innen bei Erfüllung bestimmter Voraussetzungen wie besonderer Integrationsleistungen bereits nach drei Jahren regulären Aufenthalts in Deutschland möglich. Der Gesetzentwurf der Bundesregierung sieht vor, dass künftig keine Verkürzung der Aufenthaltszeit mehr möglich ist und somit mindestens fünf Jahre regulärer Aufenthalt in Deut",
+  "drucksachen": [
+   "21/1634",
+   "21/537"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/aenderung-des-staatsangehoerigkeitsgesetzes",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 114,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 201,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 57,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 76,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 135,
+     "nein": 0,
+     "enthalten": 2,
+     "nicht_abgegeben": 14
+    },
+    "direction": 1.0,
+    "participation": 0.9854,
+    "item_weight": 0.9854,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6284,
+  "date": "2025-10-16",
+  "label": "Fortsetzung des Bundeswehreinsatzes im Roten Meer (EUNAVFOR ASPIDES)",
+  "accepted": true,
+  "topics": [
+   "Außenpolitik und internationale Beziehungen",
+   "Verteidigung"
+  ],
+  "intro": "Der Bundestag hat die Verlängerung der Bundeswehrbeteiligung an der EU-geführten Operation EUNAVFOR ASPIDES im Roten Meer angenommen. Das Mandat ist befristet bis Oktober 2026 und war in namentlicher Abstimmung zuletzt im Januar 2025 verlängert worden. In ihrem Antrag schlägt die Bundesregierung vor, dass sich die Bundeswehr zukünftig nur noch mit bis zu 350 Soldat:innen beteiligt statt wie bisher mit bis zu 700 Soldat:innen. Das Einsatzgebiet umfasst die Meerenge von Bab al-Mandab, die Straße von Hormus sowie internationale Gewässer im Roten Meer, im Golf von Aden, im Arabischen Meer, im Golf",
+  "drucksachen": [
+   "21/1372",
+   "21/2119",
+   "21/2120"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/fortsetzung-des-bundeswehreinsatzes-im-roten-meer-eunavfor-aspides",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 110,
+     "nein": 0,
+     "enthalten": 2,
+     "nicht_abgegeben": 8
+    },
+    "direction": 1.0,
+    "participation": 0.9821,
+    "item_weight": 0.9821,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 203,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 54,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 73,
+     "nicht_abgegeben": 12
+    },
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "excluded_unified_abstention": true
+   },
+   "afd": {
+    "counts": {
+     "ja": 122,
+     "nein": 15,
+     "enthalten": 2,
+     "nicht_abgegeben": 12
+    },
+    "direction": 0.781,
+    "participation": 0.9856,
+    "item_weight": 0.9856,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6285,
+  "date": "2025-10-16",
+  "label": "Verlängerung des Bundeswehreinsatzes im Südsudan (UNMISS)",
+  "accepted": true,
+  "topics": [
+   "Außenpolitik und internationale Beziehungen",
+   "Verteidigung"
+  ],
+  "intro": "Der Bundestag hat der Fortsetzung der Bundeswehrbeteiligung mit bis zu 50 Soldat:innen an der von den Vereinten Nationen geführten Mission im Südsudan (UNMISS) zugestimmt. Das Mandat ist bis Ende Oktober 2026 befristet und war zuletzt in namentlicher Abstimmung im Januar 2025 verlängert worden. Ziel der Mission sei es laut Antrag , Zivilpersonen zu schützen, die Menschenrechtslage zu überwachen sowie die Umsetzung des Friedensabkommens und den Friedensprozess zu unterstützen. Für den Zeitraum belaufen sich die einsatzbedingten Zusatzkosten auf rund eine Million Euro. Der Auswärtige Ausschuss e",
+  "drucksachen": [
+   "21/1371",
+   "21/2117",
+   "21/2118"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/verlaengerung-des-bundeswehreinsatzes-im-suedsudan-unmiss",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 108,
+     "nein": 0,
+     "enthalten": 1,
+     "nicht_abgegeben": 11
+    },
+    "direction": 1.0,
+    "participation": 0.9908,
+    "item_weight": 0.9908,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 196,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 12
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 53,
+     "enthalten": 0,
+     "nicht_abgegeben": 11
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 72,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 12
+    },
+    "direction": 0.9726,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 117,
+     "nein": 18,
+     "enthalten": 3,
+     "nicht_abgegeben": 13
+    },
+    "direction": 0.7333,
+    "participation": 0.9783,
+    "item_weight": 0.9783,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6286,
+  "date": "2025-10-16",
+  "label": "Keine Abschaffung des Verbrenner-Verbots (Beschlussempfehlung)",
+  "accepted": true,
+  "topics": [
+   "Umwelt",
+   "Verkehr",
+   "Wirtschaft"
+  ],
+  "intro": "Die AfD-Fraktion hat im Bundestag einen Antrag eingebracht, der die Rücknahme des sogenannten Verbrenner-Verbots fordert. Ab 2035 sollen in der gesamten EU nur noch emissionsfreie PKW neu zugelassen werden, um die Schadstoffbelastung, insbesondere durch CO2-Ausstoß, im Verkehrssektor zu senken. Derzeit gibt es Diskussionen über das Aufweichen der strikten Vorschriften auf EU-Ebene. Die AfD-Fraktion sieht im Verbrenner-Verbot die Ursache für sinkende Produktion und die Gefährdung von Arbeitsplätzen in Deutschland. Der Antrag sieht die vollständige Abschaffung des Verbrenner-Verbots vor, um die ",
+  "drucksachen": [
+   "21/225",
+   "21/476",
+   "21/604"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/keine-abschaffung-des-verbrenner-verbots-beschlussempfehlung",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 109,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 11
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 199,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 52,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 12
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 72,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 138,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6278,
+  "date": "2025-11-06",
+  "label": "Keine Wiedereinführung der Agrardieselrückerstattung (Beschlussempfehlung)",
+  "accepted": true,
+  "topics": [
+   "Landwirtschaft und Ernährung"
+  ],
+  "intro": "Die AfD-Fraktion hat im Bundestag einen Antrag eingebracht, in dem eine Wiedereinführung der Agrardieselrückerstattung gefordert wird. So soll rückwirkend zum 1. Januar 2024 die Agrardieselrückerstattung von 21,48 Cent pro Liter ausgezahlt werden. Außerdem soll die CO2-Bepreisung auf Diselkraftstoffe ersatzlos gestrichen werden. Durch die Maßnahmen soll die Wettebewerbsfähigkeit der deutschen Landwirtschaft im europäischen Binnenmarkt gestärkt werden. Aufgrund der im Jahr 2023 beschlossenen schrittweisen Reduktion der Rückvergütung bis 2026, gerieten mittlerweile laut Antrag vor allem kleine u",
+  "drucksachen": [
+   "21/2632",
+   "21/604"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/keine-wiedereinfuehrung-der-agrardieselrueckerstattung-beschlussempfehlung",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 115,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 194,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 14
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 52,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 12
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 74,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 11
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 126,
+     "enthalten": 0,
+     "nicht_abgegeben": 25
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6311,
+  "date": "2025-11-06",
+  "label": "Mietwuchergesetz",
+  "accepted": false,
+  "topics": [
+   "Raumordnung, Bau- und Wohnungswesen",
+   "Recht"
+  ],
+  "intro": "Der Gesetzentwurf der Fraktion Die Linke für ein \"Mietwuchergesetz“ wurde im Bundestag abgelehnt. Empfohlen wurde die Ablehnung auch in einer entsprechenden Beschlussempfehlung des Ausschusses für Recht und Verbraucherschutz .&nbsp; Die Linksfraktion begründet den Gesetzentwurf mit der anhaltend hohen Wohnungsnachfrage vor allem in Ballungsräumen, die vielerorts zu Mieten deutlich oberhalb der ortsüblichen Vergleichsmiete führe und Mieter:innen mangels Alternativen in Verträge mit unangemessen hohen Mietpreisen dränge. Da die bisherigen zivilrechtlichen Mittel nicht ausreichen würden, müsse un",
+  "drucksachen": [
+   "21/134",
+   "21/2168"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/mietwuchergesetz",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 0,
+     "nein": 116,
+     "enthalten": 0,
+     "nicht_abgegeben": 4
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 0,
+     "nein": 196,
+     "enthalten": 0,
+     "nicht_abgegeben": 12
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 55,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 75,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 128,
+     "enthalten": 0,
+     "nicht_abgegeben": 23
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6315,
+  "date": "2025-11-06",
+  "label": "Änderung der internationalen Gesundheitsvorschriften",
+  "accepted": true,
+  "topics": [
+   "Gesundheit"
+  ],
+  "intro": "Der Gesetzentwurf der Bundesregierung zur Änderung der Internationalen Gesundheitsvorschriften wurde im Bundestag angenommen. Zum Gesetzentwurf lag eine Beschlussempfehlung des Gesundheitsausschusses vor, der die Annahme des Gesetzentwurfs empfiehlt.&nbsp; Der Gesetzentwurf zielt darauf ab, dass Deutschland an die Änderungen der Internationalen Gesundheitsvorschriften (IGV) der Weltgesundheitsorganisation (WHO) rechtlich gebunden wird, die von der 77. Weltgesundheitsversammlung beschlossen wurden. Diese Vorschriften gelten als zentrales internationales Instrument zur Bekämpfung grenzüberschrei",
+  "drucksachen": [
+   "21/1508",
+   "21/2602"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/aenderung-der-internationalen-gesundheitsvorschriften",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 111,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 194,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "direction": 0.9897,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 51,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 71,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 14
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 130,
+     "enthalten": 0,
+     "nicht_abgegeben": 21
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6316,
+  "date": "2025-11-06",
+  "label": "Keine Einschränkung der medizinischen Versorgung von Ausländer:innen (Beschlussempfehlung)",
+  "accepted": true,
+  "topics": [
+   "Gesundheit",
+   "Migration und Aufenthaltsrecht"
+  ],
+  "intro": "Der Antrag der AfD-Fraktion mit dem Namen \"Zurückführung der medizinischen Versorgung von Ausländern auf das verfassungsrechtlich gebotene Minimum – Orientierung am dänischen Modell\" wurde vom Bundestag abgelehnt. Namentlich abgestimmt wurde über eine Beschlussempfehlung des Gesundheitsausschusses , in der die Ablehnung des Antrags empfohlen wurde. In ihrem Antrag fordert die AfD-Fraktion, dass Asylbewerber:innen künftig keine Gesundheitsleistungen mehr erhalten sollen, die über die Sicherung der Gesundheit in akuten Notfällen hinausgehen. Darunter fallen beispielsweise psychotherapeutische An",
+  "drucksachen": [
+   "21/1750",
+   "21/2603"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/keine-einschraenkung-der-medizinischen-versorgung-von-auslaenderinnen-beschlussempfehlung",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 113,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 194,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 14
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 53,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 11
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 73,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 12
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 126,
+     "enthalten": 0,
+     "nicht_abgegeben": 25
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6318,
+  "date": "2025-11-13",
+  "label": "Beteiligung der Bundeswehr an der Operation SEA GUARDIAN im Mittelmeer verlängern",
+  "accepted": true,
+  "topics": [
+   "Außenpolitik und internationale Beziehungen",
+   "Verteidigung"
+  ],
+  "intro": "Der Bundestag hat einer Verlängerung des Ende November auslaufenden Mandats für die weitere Beteiligung der Bundeswehr an der NATO-Operation SEA GUARDIAN im Mittelmeer zugestimmt. Zuletzt war über eine Verlängerung um ein Jahr im Januar 2025 namentlich abgestimmt worden. Wie bisher sollen bis zu 550 Soldat:innen für die Überwachung des Seegebiets im Mittelmeerraum, die Bekämpfung von Terrorismus und die Verhinderung von Waffenschmuggel eingesetzt werden. Zu dem Antrag der Bundesregierung lag eine Beschlussempfehlung des Auswärtigen Ausschusses vor, über die namentlich abgestimmt wurde. Die Bes",
+  "drucksachen": [
+   "21/2069",
+   "21/2650",
+   "21/2651"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/beteiligung-der-bundeswehr-an-der-operation-sea-guardian-im-mittelmeer-verlaengern",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 113,
+     "nein": 0,
+     "enthalten": 2,
+     "nicht_abgegeben": 5
+    },
+    "direction": 1.0,
+    "participation": 0.9826,
+    "item_weight": 0.9826,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 201,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 42,
+     "enthalten": 0,
+     "nicht_abgegeben": 22
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 72,
+     "nein": 1,
+     "enthalten": 1,
+     "nicht_abgegeben": 11
+    },
+    "direction": 0.9726,
+    "participation": 0.9865,
+    "item_weight": 0.9865,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 126,
+     "enthalten": 0,
+     "nicht_abgegeben": 25
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6319,
+  "date": "2025-11-13",
+  "label": "Weitere Bundeswehrbeteiligung an der EU-Mission EUNAVFOR MED IRINI im Mittelmeer",
+  "accepted": true,
+  "topics": [
+   "Außenpolitik und internationale Beziehungen",
+   "Verteidigung"
+  ],
+  "intro": "Der Bundestag hat der Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der durch die EU geführten Operation EUNAVFOR MED IRINI im Mittelmeer um ein weiteres Jahr zugestimmt. Das aktuelle Mandat läuft im November 2025 aus und war zuletzt im Januar 2025 in namentlicher Abstimmung verlängert worden. Ziel der Operation sei weiterhin die Durchsetzung des Waffenembargos der Vereinten Nationen gegen Libyen und die Unterbindung von Menschenschmuggel und illegalen Öl-Exporten. Außerdem soll die Bundeswehr mit bis zu 300 Soldat:innen Aufgaben wie die Seeraumüberwachung und -aufklärung ü",
+  "drucksachen": [
+   "21/2068",
+   "21/2648",
+   "21/2649"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/weitere-bundes-wehrbeteiligung-an-der-eu-mission-eunavfor-med-irini-im-mittelmeer",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 113,
+     "nein": 0,
+     "enthalten": 2,
+     "nicht_abgegeben": 5
+    },
+    "direction": 1.0,
+    "participation": 0.9826,
+    "item_weight": 0.9826,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 199,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 45,
+     "enthalten": 0,
+     "nicht_abgegeben": 19
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 9,
+     "enthalten": 67,
+     "nicht_abgegeben": 9
+    },
+    "direction": -1.0,
+    "participation": 0.1184,
+    "item_weight": 0.1184,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 128,
+     "enthalten": 0,
+     "nicht_abgegeben": 23
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6323,
+  "date": "2025-11-13",
+  "label": "Modernisierung und Digitalisierung der Bekämpfung von Schwarzarbeit",
+  "accepted": true,
+  "topics": [
+   "Arbeit und Beschäftigung",
+   "Innere Sicherheit",
+   "Wissenschaft, Forschung und Technologie"
+  ],
+  "intro": "Im Bundestag wurde ein Gesetzentwurf der Bundesregierung zur Modernisierung und Digitalisierung der Schwarzarbeitsbekämpfung verabschiedet. Der Gesetzentwurf zielt darauf ab, die Finanzkontrolle Schwarzarbeit (FKS) der Zollverwaltung effizienter und wirksamer zu gestalten. Kern soll dabei ein stärker risikobasierter Ansatz mit automatisiertem Datenabgleich sein, indem große Datenmengen ausgewertet werden, um mögliche Risiken für das Auftreten von Schwarzarbeit besser erkennen und rechtstreue Betriebe entlasten zu können. Dazu soll auch KI von den Behörden eingesetzt werden. Prüfungen und Ident",
+  "drucksachen": [
+   "21/1930",
+   "21/2670",
+   "21/2671"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/modernisierung-und-digitalisierung-der-bekaempfung-von-schwarzarbeit",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 117,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 3
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 204,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 4
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 48,
+     "enthalten": 0,
+     "nicht_abgegeben": 16
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 77,
+     "nicht_abgegeben": 8
+    },
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "excluded_unified_abstention": true
+   },
+   "afd": {
+    "counts": {
+     "ja": 1,
+     "nein": 2,
+     "enthalten": 128,
+     "nicht_abgegeben": 20
+    },
+    "direction": -0.3333,
+    "participation": 0.0229,
+    "item_weight": 0.0,
+    "excluded_unified_abstention": true
+   }
+  }
+ },
+ {
+  "poll_id": 6324,
+  "date": "2025-11-13",
+  "label": "Energiesteuer- und Stromsteuergesetz (Änderungsantrag)",
+  "accepted": false,
+  "topics": [
+   "Energie",
+   "Öffentliche Finanzen, Steuern und Abgaben"
+  ],
+  "intro": "Ein Änderungsantrag der Fraktion BÜNDNIS 90/DIE GRÜNEN zu dem Gesetzentwurf der Bundesregierung zur Änderung des Energiesteuer- und Stromsteuergesetzes wurde im Bundestag abgelehnt.&nbsp; Der ursprüngliche Gesetzentwurf der Bundesregierung sieht unter anderem vor, die Fortsetzung der Stromsteuersenkung auf das EU-rechtliche Minimum für Unternehmen des produzierenden Gewerbes und der Land- und Forstwirtschaft weiterhin zu gewährleisten. Außerdem sollen durch den Gesetzentwurf Vereinfachungen im Bereich der Elektromobilität ermöglicht werden. Viele Gesetzesänderungen werden damit begründet, Büro",
+  "drucksachen": [
+   "21/1866",
+   "21/2760"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/energiesteuer-und-stromsteuergesetz-aenderungsantrag",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 0,
+     "nein": 114,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 0,
+     "nein": 199,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 43,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 21
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 75,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 125,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 26
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6326,
+  "date": "2025-11-13",
+  "label": "Gesetz zur Beseitigung der Klimaschutzfolgen und Wiederherstellung der Energieinfrastruktur",
+  "accepted": false,
+  "topics": [
+   "Energie",
+   "Umwelt"
+  ],
+  "intro": "Zwei Gesetzentwürfe der AfD-Fraktion zur Beseitigung von Klimaschutzfolgen und Wiederherstellung der Energieinfrastruktur in Deutschland wurden im Bundestag in namentlicher Abstimmung abgelehnt. In einer entsprechenden Beschlussempfehlung des Ausschusses für Wirtschaft und Energie wurde die Ablehnung beider Entwürfe ebenfalls empfohlen. Der Gesetzentwurf der AfD für ein „Klimaschutzfolgenbereinigungsgesetz“ sieht vor, das Atomgesetz zu ändern sowie zahlreiche klima- und energiepolitische Gesetze aufzuheben, darunter das Erneuerbare-Energien-Gesetz (EEG), den Zertifikatehandel, das Gebäudeenerg",
+  "drucksachen": [
+   "21/1725",
+   "21/576"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/gesetz-zur-beseitigung-der-klimaschutzfolgen-und-wiederherstellung-der-energieinfrastruktur",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 0,
+     "nein": 114,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 0,
+     "nein": 204,
+     "enthalten": 0,
+     "nicht_abgegeben": 4
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 46,
+     "enthalten": 0,
+     "nicht_abgegeben": 18
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 77,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 131,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 20
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6327,
+  "date": "2025-11-13",
+  "label": "Änderung des Grundgesetzes zur Klimaschutzfolgenbereinigung",
+  "accepted": false,
+  "topics": [
+   "Energie",
+   "Recht",
+   "Umwelt"
+  ],
+  "intro": "Zwei Gesetzentwürfe der AfD-Fraktion zur Beseitigung von Klimaschutzfolgen und Wiederherstellung der Energieinfrastruktur in Deutschland wurden im Bundestag in namentlicher Abstimmung abgelehnt. In einer entsprechenden Beschlussempfehlung des Ausschusses für Wirtschaft und Energie wurde die Ablehnung beider Entwürfe ebenfalls empfohlen. Vorgelegt hat die AfD unter anderem einen Gesetzentwurf zur Änderung des Grundgesetzes . Artikel 143h, der erst seit einigen Monaten in Kraft ist, soll dabei ersetzt werden. Das Ziel der Klimaneutralität bis 2045 soll laut Entwurf gestrichen und die dafür vorge",
+  "drucksachen": [
+   "21/1725",
+   "21/575"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/aenderung-des-grundgesetzes-zur-klimaschutzfolgenbereinigung",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 0,
+     "nein": 109,
+     "enthalten": 0,
+     "nicht_abgegeben": 11
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 0,
+     "nein": 200,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 47,
+     "enthalten": 0,
+     "nicht_abgegeben": 17
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 74,
+     "enthalten": 0,
+     "nicht_abgegeben": 11
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 128,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 23
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6329,
+  "date": "2025-11-13",
+  "label": "Zuschuss zu den Übertragungsnetzkosten für das Jahr 2026",
+  "accepted": true,
+  "topics": [
+   "Energie",
+   "Öffentliche Finanzen, Steuern und Abgaben"
+  ],
+  "intro": "Der Bundestag hat einen Gesetzentwurf der Bundesregierung für einen Zuschuss zu den Übertragungsnetzkosten im Jahr 2026 angenommen. Netzbetreiber erhalten dafür insgesamt 6,5 Milliarden Euro aus dem Klima- und Transformationsfonds, damit die Entgelte für die Nutzung der Übertragungsnetze und damit auch die Strompreise für Verbraucher:innen sinken. Der Zuschuss wird durch einen neuen Paragrafen 24c im Energiewirtschaftsgesetz geregelt und soll die Kostenbelastung der Stromkund:innen spürbar dämpfen. Zu dem Gesetzentwurf lag eine Beschlussempfehlung des Ausschusses für Wirtschaft und Energie vor",
+  "drucksachen": [
+   "21/1863",
+   "21/2754",
+   "21/2755"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/zuschuss-zu-den-uebertragungsnetzkosten-fuer-das-jahr-2026",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 111,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 198,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 43,
+     "nicht_abgegeben": 21
+    },
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "excluded_unified_abstention": true
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 73,
+     "nicht_abgegeben": 12
+    },
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "excluded_unified_abstention": true
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 121,
+     "nicht_abgegeben": 30
+    },
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "excluded_unified_abstention": true
+   }
+  }
+ },
+ {
+  "poll_id": 6330,
+  "date": "2025-11-13",
+  "label": "Änderung des Tierarzneimittelgesetzes und des Apothekengesetzes",
+  "accepted": true,
+  "topics": [
+   "Gesundheit"
+  ],
+  "intro": "Der Bundestag hat einen Gesetzentwurf der Bundesregierung zur Änderung des Tierarzneimittelgesetzes und des Apothekengesetzes in geänderter Fassung angenommen. Kern des Gesetzes ist es, EU-Vorgaben zur Erfassung des Antibiotikaverbrauchs bei Tieren in Deutschland mit möglichst wenig zusätzlicher Bürokratie umzusetzen. So wird das bislang auf 2026 vorgezogene erste Erfassungsjahr für Antibiotikamengen bei Hunden und Katzen auf das von der EU vorgesehene Jahr 2029 verschoben. Außerdem werden die bisher halbjährlichen Mitteilungspflichten von Tierhalter:innen und Tierärzt:innen im Rahmen des deut",
+  "drucksachen": [
+   "21/1938",
+   "21/2668"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/aenderung-des-tierarzneimittelgesetzes-und-des-apothekengesetzes",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 86,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 34
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 151,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 57
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 28,
+     "nicht_abgegeben": 36
+    },
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "excluded_unified_abstention": true
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 41,
+     "enthalten": 0,
+     "nicht_abgegeben": 44
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 79,
+     "enthalten": 0,
+     "nicht_abgegeben": 72
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6346,
+  "date": "2025-11-26",
+  "label": "Etat von Bundeskanzler und Bundeskanzleramt 2026",
+  "accepted": true,
+  "topics": [
+   "Bundestag",
+   "Öffentliche Finanzen, Steuern und Abgaben"
+  ],
+  "intro": "Im Rahmen der viertägigen Schlussberatungen zum Bundeshaushalt 2026 fand auch die große Generaldebatte zur Regierungspolitik statt. In der anschließenden namentlichen Abstimmung nahm der Bundestag den Etat des Bundeskanzlers und des Bundeskanzleramts (Einzelplan 04) in namentlicher Abstimmung an. Der Haushalt solle demnach für das Jahr 2026 5,0 Milliarden Euro umfassen, rund 100 Millionen Euro mehr als ursprünglich vorgesehen. Der Beauftragte der Bundesregierung für Kultur und Medien, Wolfram Weimer, soll mit 2,2 Milliarden Euro knapp 200 Millionen mehr ausgeben können als 2025. Mit 18,3 Milli",
+  "drucksachen": [
+   "21/2061",
+   "21/2062",
+   "21/600"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/etat-von-bundeskanzler-und-bundeskanzleramt-2026",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 118,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 204,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 4
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 55,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 78,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 141,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6351,
+  "date": "2025-11-28",
+  "label": "Schlussabstimmung zum Haushaltsgesetz 2026",
+  "accepted": true,
+  "topics": [
+   "Öffentliche Finanzen, Steuern und Abgaben"
+  ],
+  "intro": "In der namentlichen Schlussabstimmung wurde das Haushaltsgesetz 2026 mit einigen Änderungen angenommen. Geplant sind für das Haushaltsjahr 2026 insgesamt Ausgaben in Höhe von 524,54 Milliarden Euro - ein Plus von 21,54 Milliarden Euro im Vergleich zu 2025 und 4,4 Prozent mehr als ursprünglich im Gesetzentwurf der Bundesregierung vorgesehen. 58,35 Milliarden Euro der geplanten Ausgaben sollen dabei auf Investitionen und 449,91 Milliarden Euro auf Verpflichtungsermächtigungen, also Auszahlungen, die erst in den kommenden Haushaltsjahren erfolgen, entfallen. Die Nettokreditaufnahme soll 2026 bei ",
+  "drucksachen": [
+   "21/2062",
+   "21/2063",
+   "21/600"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/schlussabstimmung-zum-haushaltsgesetz-2026",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 118,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 203,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 54,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 68,
+     "enthalten": 0,
+     "nicht_abgegeben": 17
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 130,
+     "enthalten": 0,
+     "nicht_abgegeben": 21
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6353,
+  "date": "2025-12-03",
+  "label": "Visa für afghanische Staatsangehörige mit Aufnahmezusage erteilen",
+  "accepted": false,
+  "topics": [
+   "Migration und Aufenthaltsrecht"
+  ],
+  "intro": "In einer namentlichen Abstimmung wurde ein Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN abgelehnt, in welchem die Bundesregierung dazu aufgefordert wurde, alle bestehenden Aufnahmezusagen für afghanische Staatsangehörige konsequent umzusetzen.&nbsp; Laut Antrag sollen Menschen, die über das Bundesaufnahmeprogramm, die Menschenrechtsliste, das Überbrückungsprogramm oder das Ortskräfteverfahren eine Zusage erhalten haben und sicherheitsgeprüft sind, umgehend ein Visum bekommen und nach Deutschland ausgeflogen werden. Auch Afghan:innen, die trotz Aufnahmezusage abgeschoben wurden, sollen nach Pakist",
+  "drucksachen": [
+   "21/3031"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/visa-fuer-afghanische-staatsangehoerige-mit-aufnahmezusage-erteilen",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 0,
+     "nein": 110,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 0,
+     "nein": 195,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 53,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 11
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 76,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 135,
+     "enthalten": 0,
+     "nicht_abgegeben": 16
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6354,
+  "date": "2025-12-04",
+  "label": "Besteuerung von Luxusflügen",
+  "accepted": false,
+  "topics": [
+   "Öffentliche Finanzen, Steuern und Abgaben",
+   "Umwelt"
+  ],
+  "intro": "Im Rahmen der Bundestagsdebatte zur Klimapolitik wurde in namentlicher Abstimmung ein Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN mit dem Titel „Luxusflüge besteuern – Klimaschutz-Lücke im Verkehr endlich angehen“ abgelehnt. In ihrem Antrag weist die Fraktion auf die große Klimaschutzlücke im Verkehrssektor hin. Besonders klimaschädlich seien demnach Luxusflüge und Privatjets, die von einem sehr kleinen Teil der Bevölkerung genutzt werden, aber einen erheblichen Anteil der Flugemissionen verursachen würden. Im Antrag heißt es, dass ein Langstreckenflug in der First Class ungefähr neunmal so klim",
+  "drucksachen": [
+   "21/3035"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/besteuerung-von-luxusfluegen",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 0,
+     "nein": 114,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 0,
+     "nein": 199,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 54,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 79,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 138,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6355,
+  "date": "2025-12-04",
+  "label": "Keine Abschaffung der CO2-Bepreisung (Beschlussempfehlung)",
+  "accepted": true,
+  "topics": [
+   "Energie",
+   "Öffentliche Finanzen, Steuern und Abgaben"
+  ],
+  "intro": "In einer namentlichen Abstimmung hat sich der Bundestag mit einem Antrag der AfD-Fraktion befasst, die das Gesetz zur Einsparung von Energie und zur Nutzung erneuerbarer Energien zur Wärme- und Kälteerzeugung in Gebäuden (Gebäudeenergiegesetz, GEG) vollständig abschaffen und die CO₂-Bepreisung von Heizöl und Gas ersatzlos streichen möchte. Auch die Umsetzung entsprechender EU-Vorgaben wie der Green Deal sowie der CO₂-Grenzausgleich sollen sofort beendet werden.&nbsp; Die AfD bezweifelt, dass es, wie von der Koalition angekündigt, tatsächlich zu seiner Abschaffung des Heizungsgesetzes kommen we",
+  "drucksachen": [
+   "21/227",
+   "21/3108"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/keine-abschaffung-der-co2-bepreisung-beschlussempfehlung",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 109,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 11
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 203,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 54,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 75,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 138,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6356,
+  "date": "2025-12-05",
+  "label": "Stabilisierung des Rentenniveaus und Gleichstellung der Kindererziehungszeiten",
+  "accepted": true,
+  "topics": [
+   "Gesellschaftspolitik, soziale Gruppen"
+  ],
+  "intro": "Im Bundestag wurde das Rentenpaket der Bundesregierung angenommen. Namentlich abgestimmt wurde dabei über einen Gesetzentwurf der Bundesregierung , der zentrale Elemente der gesetzlichen Rentenversicherung stabilisieren und weiterentwickeln soll. Hintergrund ist, dass die bisherige Haltelinie für das Rentenniveau (Verhältnis der Rente zum Durchschnittsverdienst) von 48 Prozent Ende 2025 ausläuft und ohne neue Regelung eine Absenkung des Rentenniveaus eintritt. Um dies zu verhindern, soll das Rentenniveau bis 2031 bei 48 Prozent gesichert bleiben. Die daraus entstehenden Mehrkosten soll der Bun",
+  "drucksachen": [
+   "21/1929",
+   "21/3112",
+   "21/3113"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/stabilisierung-des-rentenniveaus-und-gleichstellung-der-kindererziehungszeiten",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 120,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 0
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 198,
+     "nein": 7,
+     "enthalten": 2,
+     "nicht_abgegeben": 1
+    },
+    "direction": 0.9317,
+    "participation": 0.9903,
+    "item_weight": 0.9903,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 50,
+     "nicht_abgegeben": 14
+    },
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "excluded_unified_abstention": true
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 77,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 140,
+     "enthalten": 0,
+     "nicht_abgegeben": 11
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6357,
+  "date": "2025-12-05",
+  "label": "Neuregelung zu sicheren Herkunftsstaaten und Abschaffung anwaltlicher Vertretung bei Abschiebehaft",
+  "accepted": true,
+  "topics": [
+   "Migration und Aufenthaltsrecht",
+   "Recht"
+  ],
+  "intro": "Der Bundestag hat einen Gesetzentwurf der Bundesregierung angenommen, der vorsieht, dass künftig sichere Herkunftsstaaten für den internationalen Schutz, also für Asyl nach der Genfer Flüchtlingskonvention oder subsidiären Schutz, per Rechtsverordnung festgelegt werden können. Die bisherigen Regeln für sichere Herkunftsstaaten nach Artikel 16a des Grundgesetzes bleiben davon allerdings unberührt. Nach Darstellung der Koalitionsfraktionen soll die Einstufung eines Landes als \"sicher\" Asylverfahren deutlich beschleunigen. Menschen aus diesen Staaten hätten in der Regel keine Aussicht auf Schutz ",
+  "drucksachen": [
+   "21/3079",
+   "21/780"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/neuregelung-zu-sicheren-herkunftsstaaten-und-abschaffung-anwaltlicher-vertretung-bei-abschiebehaft",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 117,
+     "nein": 0,
+     "enthalten": 2,
+     "nicht_abgegeben": 1
+    },
+    "direction": 1.0,
+    "participation": 0.9832,
+    "item_weight": 0.9832,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 205,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 3
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 54,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 75,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 133,
+     "nein": 0,
+     "enthalten": 1,
+     "nicht_abgegeben": 17
+    },
+    "direction": 1.0,
+    "participation": 0.9925,
+    "item_weight": 0.9925,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6359,
+  "date": "2025-12-05",
+  "label": "Modernisierung des Wehrdienstes",
+  "accepted": true,
+  "topics": [
+   "Verteidigung"
+  ],
+  "intro": "Der Bundestag hat in namentlicher Abstimmung einen Gesetzentwurf der Bundesregierung zur Modernisierung des Wehrdienstes verabschiedet. Angestrebt wird laut Bundesregierung die Einführung eines neuen, attraktiven und grundsätzlich freiwilligen Wehrdienstes. Ab 2026 sollen deshalb alle 18-Jährigen einen Fragebogen zur Motivation und Eignung erhalten. Für Männer soll dieser verpflichtend, für Frauen freiwillig sein. Zudem soll für Männer ab Jahrgang 2008 die Musterung wieder zur Pflicht werden. Der neue Wehrdienst soll zwar freiwillig geleistet werden, doch falls die angestrebte Zahl von Bewerbe",
+  "drucksachen": [
+   "21/1853",
+   "21/3076",
+   "21/3077"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/modernisierung-des-wehrdienstes",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 117,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "direction": 0.9831,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 206,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 55,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 77,
+     "enthalten": 1,
+     "nicht_abgegeben": 7
+    },
+    "direction": -1.0,
+    "participation": 0.9872,
+    "item_weight": 0.9872,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 138,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6360,
+  "date": "2025-12-05",
+  "label": "Eingefrorenes russisches Staatsvermögen nicht der Ukraine zur Verfügung stellen (Beschlussempfehlung)",
+  "accepted": true,
+  "topics": [
+   "Außenpolitik und internationale Beziehungen",
+   "Öffentliche Finanzen, Steuern und Abgaben"
+  ],
+  "intro": "Im Bundestag wurden zwei Anträge der Fraktion BÜNDNIS 90/DIE GRÜNEN in Bezug auf den Wiederaufbau der Ukraine durch eingefrorene russische Staatsvermögen abgelehnt.&nbsp; Da die Ukraine dringend Mittel für Verteidigung, Versorgung der Bevölkerung und Wiederaufbau – einschließlich zerstörter kultureller Infrastruktur – benötigt, fordert die Fraktion die Bundesregierung in ihrem ersten Antrag auf, sich innerhalb der G7-Staaten dafür einzusetzen, die eingefrorenen russischen Staatsvermögen der Ukraine zur Verfügung zu stellen. Die eingefrorenen Vermögenswerte betragen 260 Milliarden Euro, wovon r",
+  "drucksachen": [
+   "21/3084",
+   "21/572"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/eingefrorenes-russisches-staatsvermoegen-nicht-der-ukraine-zur-verfuegung-stellen-beschlussempfehlung",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 118,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 204,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 4
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 53,
+     "nicht_abgegeben": 11
+    },
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "excluded_unified_abstention": true
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 76,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 132,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 19
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6361,
+  "date": "2025-12-05",
+  "label": "Russische Atomgeschäfte in Deutschland nicht unterbinden (Beschlussempfehlung)",
+  "accepted": true,
+  "topics": [
+   "Außenpolitik und internationale Beziehungen",
+   "Energie"
+  ],
+  "intro": "Im Bundestag wurden zwei Anträge der Fraktion BÜNDNIS 90/DIE GRÜNEN in Bezug auf den Wiederaufbau der Ukraine durch eingefrorene russische Staatsvermögen abgelehnt. In ihrem zweiten Antrag fordert die Fraktion, dass Atomgeschäfte mit Russland in Deutschland beendet werden. Konkret soll der Brennelementefabrik Lingen untersagt werden, Brennelemente für Reaktoren russischer Bauart herzustellen, sofern dabei Sicherheitsrisiken nicht eindeutig ausgeschlossen werden können. Hintergrund ist ein geplantes Projekt von ANF und der Rosatom-Tochter Tvel, spezielle Brennelemente für ältere sowjetische Rea",
+  "drucksachen": [
+   "21/3103",
+   "21/354"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/russische-atomgeschaefte-in-deutschland-nicht-unterbinden-beschlussempfehlung",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 118,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 204,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 4
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 53,
+     "enthalten": 0,
+     "nicht_abgegeben": 11
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 76,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 132,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 19
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6371,
+  "date": "2025-12-18",
+  "label": "Zurückweisung von Einsprüchen gegen die Bundestagswahl 2025 (Beschlussempfehlung)",
+  "accepted": true,
+  "topics": [
+   "Bundestag"
+  ],
+  "intro": "Der Bundestag hat einer Beschlussempfehlung des Wahlprüfungsausschusses folgend zwei Einsprüche gegen die Bundestagswahl vom 23. Februar 2025 zurückgewiesen. Die Einsprüche richteten sich gegen das festgestellte Wahlergebnis der Partei „Bündnis Sahra Wagenknecht – Vernunft und Gerechtigkeit“ (BSW), die mit 4,981 Prozent der gültigen Zweitstimmen knapp an der Fünf-Prozent-Hürde gescheitert war. Für den Einzug in den Bundestag fehlten der Partei 9.529 Stimmen. Das BSW hatte geltend gemacht, es habe zahlreiche Auszählungsfehler gegeben, und eine Neuauszählung oder zumindest eine Neubewertung ungü",
+  "drucksachen": [
+   "21/3100"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/zurueckweisung-von-einspruechen-gegen-die-bundestagswahl-2025-beschlussempfehlung",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 113,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 195,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 45,
+     "nein": 0,
+     "enthalten": 1,
+     "nicht_abgegeben": 18
+    },
+    "direction": 1.0,
+    "participation": 0.9783,
+    "item_weight": 0.9783,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 72,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 129,
+     "enthalten": 0,
+     "nicht_abgegeben": 22
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6372,
+  "date": "2025-12-19",
+  "label": "Ablehnung der Streichung von Steuerprivilegien für höchste Erbschaften (Beschlussempfehlung)",
+  "accepted": true,
+  "topics": [
+   "Öffentliche Finanzen, Steuern und Abgaben"
+  ],
+  "intro": "Der Bundestag hat einen Antrag der Linksfraktion mit dem Titel „Steuerprivilegien für höchste Erbschaften streichen“ abgelehnt. Die Linksfraktion fordert darin, zentrale Steuervergünstigungen im Erbschaftsteuerrecht abzuschaffen. Dazu zählen insbesondere die sogenannte Verschonungsbedarfsprüfung nach Paragraf 28a des Erbschaftsteuergesetzes sowie weitere Begünstigungen in den Paragrafen 13a bis d und 19a. Nach Ansicht der Fraktion führen diese Regelungen dazu, dass sehr große Erbschaften und Schenkungen faktisch kaum besteuert werden. Zur Begründung verweist sie darauf, dass im Jahr 2023 auf E",
+  "drucksachen": [
+   "21/2691",
+   "21/627"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/ablehnung-der-streichung-von-steuerprivilegien-fuer-hoechste-erbschaften-beschlussempfehlung",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 115,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 193,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 15
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 46,
+     "enthalten": 0,
+     "nicht_abgegeben": 18
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 75,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 124,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 27
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6373,
+  "date": "2025-12-19",
+  "label": "Stärkung von Verbraucherrechten im digitalen Vertragsabschluss",
+  "accepted": true,
+  "topics": [
+   "Recht"
+  ],
+  "intro": "Der Bundestag hat einen Gesetzentwurf der Bundesregierung zur Änderung des Verbraucher-, Versicherungs- und Behandlungsvertragsrechts angenommen. Mit dem Gesetz sollen zwei EU-Richtlinien umgesetzt werden, die die Verbraucherrechte-Richtlinie weiterentwickeln. Die neuen Vorgaben müssen bis spätestens 19. Dezember 2025 beziehungsweise 27. März 2026 in deutsches Recht übertragen werden.&nbsp; Zentraler Bestandteil des Entwurfs ist die Einführung einer elektronischen Widerrufsfunktion, eines sogenannten Widerrufsbuttons, für online geschlossene Fernabsatzverträge. Verbraucher:innen sollen Verträg",
+  "drucksachen": [
+   "21/1856",
+   "21/3345"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/staerkung-von-verbraucherrechten-im-digitalen-vertragsabschluss",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 115,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 191,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 17
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 42,
+     "enthalten": 0,
+     "nicht_abgegeben": 22
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 76,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 123,
+     "enthalten": 0,
+     "nicht_abgegeben": 28
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6388,
+  "date": "2026-01-29",
+  "label": "Verlängerung des Bundeswehreinsatzes im Irak (Beschlussempfehlung)",
+  "accepted": true,
+  "topics": [
+   "Außenpolitik und internationale Beziehungen",
+   "Verteidigung"
+  ],
+  "intro": "Der Bundestag hat über die Fortsetzung des Bundeswehreinsatzes im Irak entschieden und einem Antrag der Bundesregierung mit dem Titel „Fortsetzung des Einsatzes bewaffneter deutscher Streitkräfte – Stabilisierung sichern, Wiedererstarken des IS verhindern, Versöhnung in Irak fördern“ zugestimmt. Der Antrag sieht vor, den Einsatz im Rahmen der Nato-Mission Iraq (NMI) um ein weiteres Jahr zu verlängern (zuletzt war dies in namentlicher Abstimmung am 17. Oktober 2024 geschehen). Ziel ist es, zur Stabilisierung des Landes beizutragen und ein Wiedererstarken der Terrororganisation „Islamischer Staa",
+  "drucksachen": [
+   "21/3206",
+   "21/3627",
+   "21/3628"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/verlaengerung-des-bundeswehreinsatzes-im-irak-beschlussempfehlung",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 115,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 198,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 56,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 75,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 131,
+     "enthalten": 1,
+     "nicht_abgegeben": 19
+    },
+    "direction": -1.0,
+    "participation": 0.9924,
+    "item_weight": 0.9924,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6391,
+  "date": "2026-01-29",
+  "label": "Streichung des Straftatbestandes der Politikerbeleidigung",
+  "accepted": false,
+  "topics": [
+   "Politisches Leben, Parteien",
+   "Recht"
+  ],
+  "intro": "Der Bundestag hat den Gesetzentwurf der AfD-Fraktion zur Abschaffung des Straftatbestands der Politikerbeleidigung abgelehnt. Mit dem Gesetzentwurf „Stärkung der Meinungsfreiheit und Gleichheit vor dem Gesetz“ hatte die AfD-Fraktion die Streichung des Paragrafen 188 des Strafgesetzbuches (StGB) gefordert. Dieser Paragraf regelt Beleidigung, üble Nachrede und Verleumdung gegen Personen des politischen Lebens und sieht hierfür einen besonderen strafrechtlichen Schutz vor. Zur Begründung ihres Antrags führte die Fraktion an, dass § 188 StGB zu einer Ungleichbehandlung führe, da identische Beleidi",
+  "drucksachen": [
+   "21/3901",
+   "21/652"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/streichung-des-straftatbestandes-der-politikerbeleidigung",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 0,
+     "nein": 113,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 0,
+     "nein": 195,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 58,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 73,
+     "enthalten": 0,
+     "nicht_abgegeben": 12
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 133,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 18
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6419,
+  "date": "2026-02-27",
+  "label": "Anpassung des nationalen Rechts an die Reform des Gemeinsamen Europäischen Asylsystems (GEAS-Anpassungsgesetz)",
+  "accepted": true,
+  "topics": [
+   "Europapolitik und Europäische Union",
+   "Migration und Aufenthaltsrecht"
+  ],
+  "intro": "Der Bundestag hat in namentlicher Abstimmung den Weg für die Reform des Gemeinsamen Europäischen Asylsystems (GEAS) in Deutschland freigemacht. Mit dem Gesetz der Bundesregierung wird das deutsche Asyl- und Aufenthaltsrecht an elf EU-Rechtsakte angepasst, die das Europäische Parlament und der Rat bereits am 14. Mai 2024 beschlossen hatten. Die Reform umfasst eine Richtlinie und zehn Verordnungen und tritt Mitte 2026 vollständig in Kraft. Ziel ist es, das europäische Asylsystem einheitlicher zu gestalten, Verfahren zu beschleunigen, humanitäre Standards zu sichern und irreguläre Migration besse",
+  "drucksachen": [
+   "21/1848"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/anpassung-des-nationalen-rechts-an-die-reform-des-gemeinsamen-europaeischen-asylsystems-geas-anpassungsgesetz",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 106,
+     "nein": 1,
+     "enthalten": 2,
+     "nicht_abgegeben": 11
+    },
+    "direction": 0.9813,
+    "participation": 0.9817,
+    "item_weight": 0.9817,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 203,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 48,
+     "enthalten": 0,
+     "nicht_abgegeben": 16
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 83,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 128,
+     "enthalten": 0,
+     "nicht_abgegeben": 23
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6422,
+  "date": "2026-03-05",
+  "label": "Umgestaltung des Bürgergelds zur neuen Grundsicherung (SGB II)",
+  "accepted": true,
+  "topics": [
+   "Arbeit und Beschäftigung",
+   "Soziale Sicherung"
+  ],
+  "intro": "Der Bundestag hat in namentlicher Abstimmung dem Gesetzentwurf zur Umgestaltung des Bürgergelds zu einer neuen Grundsicherung zugestimmt. Ziel der Reform ist laut Regierung ein Sozialstaat mit klareren Regeln, in dem staatliche Unterstützung stärker an Eigenverantwortung und Mitwirkung der Leistungsbeziehenden gekoppelt wird. Ein zentraler Bestandteil der Bürgergeld-Reform ist die stärkere Verpflichtung zur Arbeitsaufnahme für erwerbsfähige Leistungsberechtigte. Künftig sollen sie ihre Arbeitskraft im maximal zumutbaren Umfang einsetzen. Vor allem alleinstehende Empfängerinnen und Empfänger de",
+  "drucksachen": [
+   "21/3541"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/umge-staltung-des-buergergelds-zur-neuen-grundsicherung-sgb-ii",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 113,
+     "nein": 0,
+     "enthalten": 2,
+     "nicht_abgegeben": 5
+    },
+    "direction": 1.0,
+    "participation": 0.9826,
+    "item_weight": 0.9826,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 206,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 55,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 80,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 132,
+     "enthalten": 0,
+     "nicht_abgegeben": 18
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6452,
+  "date": "2026-03-25",
+  "label": "Keine weitere Reform des Staatsbürgerschaftsrechts (Beschlussempfehlung)",
+  "accepted": true,
+  "topics": [
+   "Migration und Aufenthaltsrecht"
+  ],
+  "intro": "Im Bundestag wurde über eine Beschlussempfehlung zu einem Antrag der AfD-Fraktion namentlich abgestimmt. In ihrem Antrag fordert die AfD-Fraktion eine umfassende Reform des Staatsbürgerschaftsrechts, wodurch Entscheidungen der Ampel-Koalition von 2024 wieder rückgängig gemacht werden sollen. Eine Einbürgerung soll erst nach acht Jahren möglich sein. Außerdem sollen jegliche Ausnahmen bei Anforderungen an das Sprachniveau und der Pflicht, den eigenen Lebensunterhalt zu bestreiten, entfernt werden. Bei illegaler Einreise soll eine spätere Einbürgerung nicht möglich sein. Bereits im Oktober 2025 ",
+  "drucksachen": [
+   "21/4466",
+   "21/4792"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/keine-weitere-reform-des-staatsbuergerschaftsrechts-beschlussempfehlung",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 103,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 16
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 201,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 56,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 78,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 134,
+     "enthalten": 0,
+     "nicht_abgegeben": 16
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6451,
+  "date": "2026-03-26",
+  "label": "Antrag zu Energiepreisschocks aufgrund des Irankriegs (Beschlussempfehlung)",
+  "accepted": true,
+  "topics": [
+   "Energie"
+  ],
+  "intro": "Im Bundestag wurde namentlich über eine Beschlussempfehlung zu einem Antrag der AfD-Fraktion abgestimmt, der sich mit möglichen Energiepreisschocks infolge eines eskalierenden Konflikts im Nahen Osten befasst. Hintergrund des Antrags ist die Sorge, dass eine Unterbrechung wichtiger Transportwege wie der Straße von Hormus zu einer Verknappung von Öl und Gas auf dem Weltmarkt und damit zu weiter deutlich steigenden Energiepreisen führen könnte.&nbsp; Die Antragstellenden sehen darin erhebliche Risiken für Verbraucher:innen und Unternehmen in Deutschland, da steigende Energiepreise die Inflation ",
+  "drucksachen": [
+   "21/4750",
+   "21/4984"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/antrag-zu-energiepreisschocks-aufgrund-des-irankriegs-beschlussempfehlung",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 107,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 12
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 203,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 54,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 80,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 137,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6455,
+  "date": "2026-03-26",
+  "label": "Anhebung des Schwellenwerts in Betrieben für die Bestellung von Sicherheitsbeauftragten",
+  "accepted": true,
+  "topics": [
+   "Arbeit und Beschäftigung",
+   "Staat und Verwaltung",
+   "Wirtschaft"
+  ],
+  "intro": "Im Bundestag wurde namentlich über einen Teil eines Gesetzentwurfs der Bundesregierung zur Durchführung der EU-Verordnung 2024/2748 in Bezug auf Notfallverfahren aufgrund eines Binnenmarkt-Notfalls bei Gasgeräten und persönlicher Schutzausrüstung abgestimmt, konkret über Artikel 3 zur Änderung des Siebten Buches Sozialgesetzbuch. Die Abstimmung erfolgte auf Grundlage der Beschlussempfehlung des Ausschusses für Arbeit und Soziales , der die Annahme des Gesetzentwurfs in geänderter Fassung empfohlen hatte. Hintergrund des Gesetzentwurfs ist die Umsetzung von EU-Vorgaben zu sogenannten Notfallver",
+  "drucksachen": [
+   "21/3204",
+   "21/4981"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/anhebung-des-schwellenwerts-in-betrieben-fuer-die-bestellung-von-sicherheitsbeauftragten",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 110,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 191,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 17
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 55,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 76,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 128,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 22
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6495,
+  "date": "2026-04-24",
+  "label": "Temporäre Absenkung der Energiesteuer für Kraftstoffe",
+  "accepted": true,
+  "topics": [
+   "Energie",
+   "Öffentliche Finanzen, Steuern und Abgaben"
+  ],
+  "intro": "Der Bundestag hat namentlich über einen Gesetzentwurf der Fraktionen von CDU/CSU und SPD abgestimmt, der eine befristete Senkung der Energiesteuer auf Kraftstoffe vorsieht. Ziel des sogenannten „Zweiten Energiesteuersenkungsgesetzes“ ist es, die Auswirkungen stark gestiegener Energiepreise infolge internationaler Krisen, insbesondere des Iran-Krieges, kurzfristig abzufedern. Konkret soll die Energiesteuer auf Benzin und Diesel für einen begrenzten Zeitraum vom 1. Mai bis zum 30. Juni 2026 gesenkt werden. Die Steuer wird dabei um 14,04 Cent pro Liter reduziert, was einschließlich Umsatzsteuer z",
+  "drucksachen": [
+   "21/5321"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/temporaere-absenkung-der-energiesteuer-fuer-kraftstoffe",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 113,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 201,
+     "nein": 0,
+     "enthalten": 1,
+     "nicht_abgegeben": 6
+    },
+    "direction": 1.0,
+    "participation": 0.995,
+    "item_weight": 0.995,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 57,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 76,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 136,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 14
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6496,
+  "date": "2026-04-24",
+  "label": "Ablehnung eines Antrag gegen eine Übergewinnsteuer (Beschlussempfehlung)",
+  "accepted": true,
+  "topics": [
+   "Energie",
+   "Öffentliche Finanzen, Steuern und Abgaben"
+  ],
+  "intro": "Im Bundestag wurde ein Antrag der AfD-Fraktion abgelehnt, der sich mit Maßnahmen gegen hohe Kraftstoffpreise befasst und sich insbesondere gegen die Einführung einer sogenannten Übergewinnsteuer richtet. Hintergrund des Antrags ist die aktuelle Debatte innerhalb der Bundesregierung und auf EU-Ebene über mögliche Eingriffe in den Energiemarkt, etwa durch eine Sondersteuer auf hohe Gewinne von Energiekonzernen. Die AfD argumentiert, dass steigende Kraftstoffpreise vor allem auf internationale Krisen und daraus resultierende Lieferengpässe zurückzuführen seien. Eine Übergewinnsteuer würde nach ih",
+  "drucksachen": [
+   "21/5326",
+   "21/5546"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/ablehnung-eines-antrag-gegen-eine-uebergewinnsteuer-beschlussempfehlung",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 113,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 201,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 57,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 77,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 135,
+     "enthalten": 0,
+     "nicht_abgegeben": 15
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6497,
+  "date": "2026-04-24",
+  "label": "Ablehnung eines Antrags zur Erhöhung der Pendlerpauschale (Beschlussempfehlung)",
+  "accepted": true,
+  "topics": [
+   "Arbeit und Beschäftigung",
+   "Energie",
+   "Öffentliche Finanzen, Steuern und Abgaben"
+  ],
+  "intro": "Ein weitere Antrag der AfD-Fraktion wurde im Bundestag abgelehnt, der eine umfassende steuerliche Entlastung von Berufspendler:innen vorsieht.&nbsp; Kern des Antrags ist eine deutliche Erhöhung der sogenannten Pendlerpauschale (Entfernungspauschale) für Fahrten zwischen Wohnort und Arbeitsplatz. Für Fahrten mit dem Auto soll diese Pauschale bereits ab dem ersten Kilometer auf 50 Cent pro Kilometer angehoben werden. Zudem soll die bisherige Obergrenze von 4.500€ für den steuerlichen Abzug entfallen, sodass auch längere regelmäßige Pendelstrecken vollständig berücksichtigt werden können. Darüber",
+  "drucksachen": [
+   "21/2363",
+   "21/5546"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/ablehnung-eines-antrags-zur-erhoehung-der-pendlerpauschale-beschlussempfehlung",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 112,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 201,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 57,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 77,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 135,
+     "enthalten": 0,
+     "nicht_abgegeben": 15
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6498,
+  "date": "2026-04-24",
+  "label": "Änderung des Stromsteuergesetzes und weiterer Vorschriften",
+  "accepted": false,
+  "topics": [
+   "Energie",
+   "Recht"
+  ],
+  "intro": "Im Bundestag wurde ein Gesetzentwurf der Fraktion Bündnis 90/Die Grünen abgelehnt, der eine grundlegende Senkung der Stromsteuer vorsieht. Ziel des Entwurfs ist es, Verbraucher:innen angesichts gestiegener Energiepreise zu entlasten und zugleich Anreize für eine stärkere Nutzung von Strom anstelle fossiler Energieträger zu schaffen. Konkret sieht der Gesetzentwurf vor, die Stromsteuer für alle auf das europarechtlich zulässige Mindestmaß zu senken. Dieses liegt bei 1 Euro pro Megawattstunde für private Haushalte und 50 Cent für betriebliche Nutzung. Die Absenkung soll dauerhaft gelten und alle",
+  "drucksachen": [
+   "21/5320"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/aenderung-des-stromsteuergesetzes-und-weiterer-vorschriften",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 0,
+     "nein": 112,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 0,
+     "nein": 198,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 57,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 75,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 136,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 14
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6511,
+  "date": "2026-05-08",
+  "label": "Keine stärkere Absicherung des EU-Förderprogramms LEADER (Beschlussempfehlung)",
+  "accepted": true,
+  "topics": [
+   "Europapolitik und Europäische Union",
+   "Öffentliche Finanzen, Steuern und Abgaben",
+   "Sport, Freizeit und Tourismus"
+  ],
+  "intro": "Der Antrag der Fraktion Bündnis 90/Die Grünen befasst sich mit der Zukunft des EU-Förderprogramms LEADER im Mehrjährigen Finanzrahmen der Europäischen Union für die Jahre 2028 bis 2034. Über den Finanzrahmen wurde am 28.04.2026 im EU-Parlament abgestimmt . Die Grünen fordern die Bundesregierung auf, sich auf europäischer Ebene für den dauerhaften Erhalt und eine verbindliche Verankerung des Programms einzusetzen. LEADER ist ein Förderprogramm zur Entwicklung ländlicher Räume. Seit mehreren Jahrzehnten unterstützt es Projekte, die von lokalen Akteur:innen vor Ort initiiert werden. Dazu zählen e",
+  "drucksachen": [
+   "21/4762",
+   "21/5649"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/keine-staerkere-absicherung-des-eu-foerderprogramms-leader-beschlussempfehlung",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 97,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 23
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 194,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 14
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 53,
+     "nicht_abgegeben": 11
+    },
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "excluded_unified_abstention": true
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 72,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 125,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 25
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6528,
+  "date": "2026-05-22",
+  "label": "Vorstoß zur Zukunft der Apothekenversorgung abgelehnt (Beschlussempfehlung)",
+  "accepted": true,
+  "topics": [
+   "Gesundheit",
+   "Raumordnung, Bau- und Wohnungswesen"
+  ],
+  "intro": "Der Bundestag hat einen Antrag der AfD-Fraktion zur Zukunft der Arzneimittelversorgung und zur Stärkung von Apotheken abgelehnt. Die Antragsteller:innen begründen ihren Vorstoß mit der sinkenden Zahl an Apotheken in Deutschland sowie Problemen wie steigenden Kosten, Lieferengpässen, Fachkräftemangel und wachsender Bürokratie. Besonders kleinere Apotheken im ländlichen Raum seien aus Sicht der AfD für eine wohnortnahe Versorgung wichtig. Der Antrag fordert unter anderem eine deutliche Erhöhung der Apothekenvergütung sowie eine regelmäßige Anpassung an die Inflation. Außerdem sollen Zuschläge fü",
+  "drucksachen": [
+   "21/2553",
+   "21/6076"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/vorstoss-zur-zukunft-der-apothekenversorgung-abgelehnt-beschlussempfehlung",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 111,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 191,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 15
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 56,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 81,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 4
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 125,
+     "enthalten": 0,
+     "nicht_abgegeben": 25
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6540,
+  "date": "2026-06-11",
+  "label": "Fortsetzung der Bundeswehrbeteiligung an EUFOR ALTHEA in Bosnien und Herzegowina",
+  "accepted": true,
+  "topics": [
+   "Außenpolitik und internationale Beziehungen",
+   "Wirtschaft"
+  ],
+  "intro": "Die Bundesregierung hat einen Antrag vorgelegt, mit dem die Beteiligung bewaffneter deutscher Streitkräfte an der EU-geführten Mission EUFOR ALTHEA in Bosnien und Herzegowina bis zum 30. Juni 2027 verlängert werden soll. Das bestehende Mandat war zuletzt am 25. Juni 2025 durch eine namentliche Abstimmung verlängert worden. Ziel der Mission ist es, zu einem sicheren und stabilen Umfeld im Land beizutragen und die Umsetzung des Dayton-Friedensabkommens zu fördern. Die Bundeswehr übernimmt dabei insbesondere Führungs-, Beratungs-, Beobachtungs- und Unterstützungsaufgaben sowie Beiträge zur Ausbil",
+  "drucksachen": [
+   "21/5512",
+   "21/6052",
+   "21/6053"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/fortsetzung-der-bundeswehrbeteiligung-an-eufor-althea-in-bosnien-und-herzegowina",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 107,
+     "nein": 0,
+     "enthalten": 1,
+     "nicht_abgegeben": 12
+    },
+    "direction": 1.0,
+    "participation": 0.9907,
+    "item_weight": 0.9907,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 199,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 57,
+     "enthalten": 1,
+     "nicht_abgegeben": 6
+    },
+    "direction": -1.0,
+    "participation": 0.9828,
+    "item_weight": 0.9828,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 79,
+     "nein": 0,
+     "enthalten": 1,
+     "nicht_abgegeben": 5
+    },
+    "direction": 1.0,
+    "participation": 0.9875,
+    "item_weight": 0.9875,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 135,
+     "enthalten": 0,
+     "nicht_abgegeben": 15
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6541,
+  "date": "2026-06-11",
+  "label": "Fortsetzung des Bundeswehreinsatzes KFOR im Kosovo",
+  "accepted": true,
+  "topics": [
+   "Außenpolitik und internationale Beziehungen",
+   "Verteidigung"
+  ],
+  "intro": "Die Bundesregierung hat einen Antrag zur Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der internationalen Sicherheitspräsenz KFOR im Kosovo vorgelegt. Zuletzt hatte der Bundestag im Juni 2025 darüber abgestimmt . Die Bundeswehr beteiligt sich bereits seit 1999 an der NATO-geführten Mission. Wie bisher sollen bis zu 400 Soldat:innen eingesetzt werden. Zu ihren Aufgaben zählen die Unterstützung eines sicheren Umfelds und der öffentlichen Ordnung, die Koordination internationaler humanitärer Hilfe, die Unterstützung ziviler Akteure sowie die Beratung beim Aufbau der kosovaris",
+  "drucksachen": [
+   "21/5513",
+   "21/6054",
+   "21/6055"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/fortsetzung-des-bundeswehreinsatzes-kfor-im-kosovo",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 108,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 11
+    },
+    "direction": 0.9817,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 199,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 54,
+     "enthalten": 1,
+     "nicht_abgegeben": 9
+    },
+    "direction": -1.0,
+    "participation": 0.9818,
+    "item_weight": 0.9818,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 75,
+     "nein": 0,
+     "enthalten": 1,
+     "nicht_abgegeben": 9
+    },
+    "direction": 1.0,
+    "participation": 0.9868,
+    "item_weight": 0.9868,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 136,
+     "enthalten": 0,
+     "nicht_abgegeben": 14
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6551,
+  "date": "2026-06-11",
+  "label": "Ablehnung einer umfassenden BAföG-Reform (Beschlussempfehlung)",
+  "accepted": true,
+  "topics": [
+   "Bildung und Erziehung",
+   "Gesellschaftspolitik, soziale Gruppen",
+   "Öffentliche Finanzen, Steuern und Abgaben"
+  ],
+  "intro": "Der Bundestag befasste sich mit einem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN &nbsp; zur grundlegenden Reform des Bundesausbildungsförderungsgesetzes (BAföG). Ziel des Vorhabens war es, die Ausbildungsförderung an veränderte Lebensrealitäten anzupassen und die finanzielle Unterstützung von Studierenden sowie Auszubildenden auszuweiten. Der Antrag sah verschiedene Maßnahmen vor, darunter eine Erhöhung der Bedarfssätze auf das Niveau des Bürgergeldes, eine Anpassung der Wohnkostenpauschale sowie die Einführung einer zusätzlichen monatlichen Unterstützung für ausbildungsbezogene Ausgaben. Zudem",
+  "drucksachen": [
+   "21/2234",
+   "21/5130"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/ablehnung-einer-umfassenden-bafoeg-reform-beschlussempfehlung",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 107,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 196,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 12
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 61,
+     "enthalten": 0,
+     "nicht_abgegeben": 3
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 79,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 137,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6552,
+  "date": "2026-06-11",
+  "label": "Neue Emissionsobergrenzen für die Jahre 2031 bis 2040",
+  "accepted": true,
+  "topics": [
+   "Energie",
+   "Umwelt"
+  ],
+  "intro": "Die Bundesregierung hat eine Verordnung vorgelegt, die die im Bundes-Klimaschutzgesetz verankerten jährlichen Minderungsziele für die Jahre 2031 bis 2040 in verbindliche Jahresemissionsgesamtmengen überführt. Statt nur prozentualer Vorgaben werden nun konkrete Höchstmengen für den Ausstoß von Treibhausgasen festgelegt. Diese sollen von 409 Millionen Tonnen CO₂-Äquivalenten im Jahr 2031 schrittweise auf 150 Millionen Tonnen im Jahr 2040 sinken. Ziel ist es, den Weg zur Klimaneutralität im Jahr 2045 klarer und besser planbar zu machen. Nach Angaben der Bundesregierung schafft die Festlegung der ",
+  "drucksachen": [
+   "21/5069",
+   "21/6124"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/neue-emissionsobergrenzen-fuer-die-jahre-2031-bis-2040",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 107,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 196,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 12
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 55,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 74,
+     "nicht_abgegeben": 11
+    },
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "excluded_unified_abstention": true
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 132,
+     "enthalten": 0,
+     "nicht_abgegeben": 18
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6566,
+  "date": "2026-06-12",
+  "label": "Strengere Regeln bei Vaterschaftsanerkennung",
+  "accepted": true,
+  "topics": [
+   "Gesellschaftspolitik, soziale Gruppen",
+   "Gesundheit"
+  ],
+  "intro": "Ein von der Bundesregierung eingebrachter Gesetzentwurf soll künftig dazu beitragen, missbräuchliche Vaterschaftsanerkennungen wirksamer zu verhindern. Ziel des Gesetzes ist es, Fälle einzudämmen, in denen die Vaterschaft für ein Kind anerkannt wird, ohne dass eine tatsächliche familiäre Beziehung besteht, um aufenthaltsrechtliche Vorteile zu erlangen. Nach Angaben der Bundesregierung kommt es vereinzelt vor, dass Männer mit deutscher Staatsangehörigkeit oder gesichertem Aufenthaltsstatus die Vaterschaft für ein ausländisches Kind anerkennen, um dem Kind die deutsche Staatsangehörigkeit zu ver",
+  "drucksachen": [
+   "21/4081",
+   "21/6393"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/strengere-regeln-bei-vaterschaftsanerkennung",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 104,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 16
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 193,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 15
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 51,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 78,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 133,
+     "nicht_abgegeben": 17
+    },
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "excluded_unified_abstention": true
+   }
+  }
+ },
+ {
+  "poll_id": 6575,
+  "date": "2026-06-25",
+  "label": "Letzte Verlängerung des Bundeswehreinsatzes im Libanon",
+  "accepted": true,
+  "topics": [
+   "Außenpolitik und internationale Beziehungen",
+   "Verteidigung"
+  ],
+  "intro": "Der Bundestag hat die letztmalige Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der „United Nations Interim Force in Lebanon“ (UNIFIL) beschlossen. Die Mission unterstützt den Libanon unter anderem bei der Sicherung seiner Seegrenzen und soll verhindern, dass Rüstungsgüter und sonstiges Wehrmaterial ohne Zustimmung der libanesischen Regierung ins Land gelangen. Zuletzt war das Mandat im Juni 2025 verlängert worden. Bis zum 31. Dezember 2026 sollen weiterhin bis zu 300 Soldat:innen eingesetzt werden können. Zu ihren Aufgaben gehören insbesondere die seegestützte Aufklärung u",
+  "drucksachen": [
+   "21/5778",
+   "21/6417",
+   "21/6418"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/letzte-verlaengerung-des-bundeswehreinsatzes-im-libanon",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 112,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 202,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 60,
+     "enthalten": 0,
+     "nicht_abgegeben": 4
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 78,
+     "nein": 0,
+     "enthalten": 1,
+     "nicht_abgegeben": 6
+    },
+    "direction": 1.0,
+    "participation": 0.9873,
+    "item_weight": 0.9873,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 117,
+     "nein": 7,
+     "enthalten": 3,
+     "nicht_abgegeben": 23
+    },
+    "direction": 0.8871,
+    "participation": 0.9764,
+    "item_weight": 0.9764,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6598,
+  "date": "2026-07-08",
+  "label": "Ukraine zusätzlich militärisch und humanitär unterstützen",
+  "accepted": false,
+  "topics": [
+   "Verteidigung"
+  ],
+  "intro": "Der Bundestag stimmt über einen Antrag der Fraktion Bündnis 90/Die Grünen mit dem Titel „Den russischen Krieg gegen die Ukraine beenden – Die Ukraine jetzt zusätzlich militärisch und humanitär stärken“ ab. Der Antrag fordert die Bundesregierung unter anderem auf, die militärische Unterstützung der Ukraine auszuweiten, die Luftverteidigung und Munitionsversorgung zu stärken, die humanitäre Hilfe fortzuführen sowie den politischen und wirtschaftlichen Druck auf Russland durch Sanktionen und internationale Zusammenarbeit aufrechtzuerhalten. Zudem spricht sich der Antrag für den weiteren Wiederauf",
+  "drucksachen": [
+   "21/6912"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/ukraine-zusaetzlich-militaerisch-und-humanitaer-unterstuetzen",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 0,
+     "nein": 115,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 0,
+     "nein": 198,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 55,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 78,
+     "nein": 0,
+     "enthalten": 1,
+     "nicht_abgegeben": 6
+    },
+    "direction": 1.0,
+    "participation": 0.9873,
+    "item_weight": 0.9873,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 140,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6600,
+  "date": "2026-07-09",
+  "label": "Einführung eines allgemeinen Tempolimits",
+  "accepted": false,
+  "topics": [
+   "Energie",
+   "Verkehr"
+  ],
+  "intro": "Der Bundestag hat einen Gesetzentwurf der Fraktion Bündnis 90/Die Grünen abgelehnt, welcher vorsieht, auf Autobahnen und ähnlichen mehrspurigen Straßen ein allgemeines Tempolimit von 130 km/h einzuführen. Dafür hätten das Straßenverkehrsgesetz und die Straßenverkehrs-Ordnung geändert werden müssen. Auf Landstraßen außerhalb geschlossener Ortschaften sollte weiterhin grundsätzlich eine Höchstgeschwindigkeit von 100 km/h gelten. Außerdem sollte die Bundesregierung dem Bundestag spätestens fünf Monate nach Einführung der Regelung einen Bericht vorlegen. Darin sollten unter anderem die Auswirkunge",
+  "drucksachen": [
+   "21/5319",
+   "21/6734"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/einfuehrung-eines-allgemeinen-tempolimits",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 0,
+     "nein": 116,
+     "enthalten": 0,
+     "nicht_abgegeben": 4
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 0,
+     "nein": 207,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 57,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 79,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 142,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6601,
+  "date": "2026-07-10",
+  "label": "GKV-Reform",
+  "accepted": true,
+  "topics": [
+   "Gesundheit",
+   "Öffentliche Finanzen, Steuern und Abgaben"
+  ],
+  "intro": "In der letzten Sitzungswoche vor der Sommerpause hat der Bundestag über das GKV-Beitragssatzstabilisierungsgesetz abgestimmt. Ziel des Gesetzes ist es, die Finanzlage der gesetzlichen Krankenversicherung (GKV) zu verbessern und einen weiteren Anstieg der Krankenkassenbeiträge zu begrenzen. Nach Angaben der Bundesregierung droht der GKV ab 2027 eine Finanzierungslücke von mehr als 15 Milliarden Euro. Zur Stabilisierung der Beiträge sieht das Gesetz Einsparungen bei Krankenhäusern, Arztpraxen und Arzneimitteln vor. Außerdem sollen die Verwaltungsausgaben der Krankenkassen begrenzt und der Bund s",
+  "drucksachen": [
+   "21/6130",
+   "21/7016",
+   "21/7023"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/gkv-reform",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 111,
+     "nein": 3,
+     "enthalten": 4,
+     "nicht_abgegeben": 2
+    },
+    "direction": 0.9474,
+    "participation": 0.9661,
+    "item_weight": 0.9661,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 207,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 0
+    },
+    "direction": 0.9904,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 56,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 81,
+     "enthalten": 0,
+     "nicht_abgegeben": 4
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 141,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6605,
+  "date": "2026-07-10",
+  "label": "Gebäudemodernisierungsgesetz",
+  "accepted": true,
+  "topics": [
+   "Energie"
+  ],
+  "intro": "Der Bundestag hat über das Gebäudemodernisierungsgesetz abgestimmt. Mit dem Gesetz werden zentrale Regelungen des bisherigen Heizungsgesetzes (Gebäudeenergiegesetz) geändert. Die bisherige Pflicht, dass neue Heizungen zu mindestens 65 Prozent mit erneuerbaren Energien betrieben werden müssen, entfällt. Stattdessen können Eigentümer:innen künftig selbst entscheiden, ob sie beispielsweise eine Wärmepumpe, eine Gasheizung, eine Ölheizung oder andere Heizsysteme einbauen. Neue Gas- und Ölheizungen müssen jedoch künftig schrittweise mit klimafreundlicheren Brennstoffen betrieben werden. Außerdem we",
+  "drucksachen": [
+   "21/6278"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/gebaeudemodernisierungsgesetz",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 116,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 4
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 207,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 54,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 0,
+     "nein": 79,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 0,
+     "nein": 136,
+     "enthalten": 0,
+     "nicht_abgegeben": 14
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "poll_id": 6606,
+  "date": "2026-07-10",
+  "label": "Sportfördergesetz",
+  "accepted": true,
+  "topics": [
+   "Sport, Freizeit und Tourismus"
+  ],
+  "intro": "Der Bundestag hat über das Sportfördergesetz abgestimmt. Mit dem Gesetz wird die Förderung des Spitzensports in Deutschland erstmals in einem eigenen Gesetz geregelt. Ziel ist es, die Sportförderung transparenter, effizienter und weniger bürokratisch zu gestalten sowie Athlet:innen gezielter zu unterstützen. Kern des Gesetzes ist die Gründung einer unabhängigen Spitzensport-Agentur. Sie soll künftig die Fördermittel des Bundes vergeben und die sportfachliche Steuerung der Spitzensportförderung übernehmen. Zudem sollen die Förderungen stärker an den Bedürfnissen der Athlet:innen sowie an sportl",
+  "drucksachen": [
+   "21/5921",
+   "21/7006"
+  ],
+  "url": "https://www.abgeordnetenwatch.de/bundestag/21/abstimmungen/sportfoerdergesetz",
+  "fraktion_aggregates": {
+   "spd": {
+    "counts": {
+     "ja": 115,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "cdu": {
+    "counts": {
+     "ja": 202,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 43,
+     "enthalten": 0,
+     "nicht_abgegeben": 21
+    },
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "gruene": {
+    "counts": {
+     "ja": 76,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "afd": {
+    "counts": {
+     "ja": 124,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 26
+    },
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ }
+]

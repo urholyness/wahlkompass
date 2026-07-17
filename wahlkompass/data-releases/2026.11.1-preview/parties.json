@@ -1,0 +1,66 @@
+[
+  {
+    "id": "afd",
+    "short_name": "AfD",
+    "name": "Alternative für Deutschland",
+    "color_hex": "#009EE0",
+    "ballot_status": "parliamentary",
+    "seats": 152
+  },
+  {
+    "id": "bsw",
+    "short_name": "BSW",
+    "name": "Bündnis Sahra Wagenknecht",
+    "color_hex": "#7D254F",
+    "ballot_status": "admitted",
+    "seats": 0
+  },
+  {
+    "id": "cdu",
+    "short_name": "CDU/CSU",
+    "name": "CDU/CSU",
+    "color_hex": "#121212",
+    "ballot_status": "parliamentary",
+    "seats": 208
+  },
+  {
+    "id": "fdp",
+    "short_name": "FDP",
+    "name": "Freie Demokratische Partei",
+    "color_hex": "#D9B300",
+    "ballot_status": "admitted",
+    "seats": 0
+  },
+  {
+    "id": "gruene",
+    "short_name": "GRÜNE",
+    "name": "Bündnis 90/Die Grünen",
+    "color_hex": "#46962B",
+    "ballot_status": "parliamentary",
+    "seats": 85
+  },
+  {
+    "id": "linke",
+    "short_name": "Linke",
+    "name": "Die Linke",
+    "color_hex": "#BE3075",
+    "ballot_status": "parliamentary",
+    "seats": 64
+  },
+  {
+    "id": "spd",
+    "short_name": "SPD",
+    "name": "Sozialdemokratische Partei Deutschlands",
+    "color_hex": "#E3000F",
+    "ballot_status": "parliamentary",
+    "seats": 120
+  },
+  {
+    "id": "volt",
+    "short_name": "Volt",
+    "name": "Volt Deutschland",
+    "color_hex": "#5A2A82",
+    "ballot_status": "admitted",
+    "seats": 0
+  }
+]

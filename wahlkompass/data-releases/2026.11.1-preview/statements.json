@@ -1,0 +1,137 @@
+[
+  {
+    "id": "schuldenbremse",
+    "policy_slug": "schuldenbremse",
+    "topic": "wirtschaft",
+    "text_de": "Die Schuldenbremse im Grundgesetz soll reformiert werden, um höhere staatliche Investitionen zu ermöglichen.",
+    "text_easy_de": "Der Staat soll mehr Schulden machen dürfen, um mehr zu investieren.",
+    "context_de": "Neutraler Hintergrund folgt in der redaktionellen Fassung.",
+    "admission_ref": "—"
+  },
+  {
+    "id": "mindestlohn-15",
+    "policy_slug": "mindestlohn-15",
+    "topic": "wirtschaft",
+    "text_de": "Der gesetzliche Mindestlohn soll auf 15 Euro pro Stunde angehoben werden.",
+    "text_easy_de": "Wer arbeitet, soll mindestens 15 Euro in der Stunde bekommen.",
+    "context_de": "Neutraler Hintergrund folgt in der redaktionellen Fassung.",
+    "admission_ref": "—"
+  },
+  {
+    "id": "tempolimit",
+    "policy_slug": "tempolimit",
+    "topic": "klima",
+    "text_de": "Auf Autobahnen soll ein generelles Tempolimit von 130 km/h eingeführt werden.",
+    "text_easy_de": "Auf der Autobahn soll man höchstens 130 fahren dürfen.",
+    "context_de": "Neutraler Hintergrund folgt in der redaktionellen Fassung.",
+    "admission_ref": "t1-2026-07-09-s89-a1-cdu-tempolimit"
+  },
+  {
+    "id": "klima-2035",
+    "policy_slug": "klima-2035",
+    "topic": "klima",
+    "text_de": "Deutschland soll bereits bis 2035 klimaneutral werden.",
+    "text_easy_de": "Deutschland soll schon 2035 das Klima nicht mehr schädigen.",
+    "context_de": "Neutraler Hintergrund folgt in der redaktionellen Fassung.",
+    "admission_ref": "—"
+  },
+  {
+    "id": "buergergeld",
+    "policy_slug": "buergergeld",
+    "topic": "sozial",
+    "text_de": "Das Bürgergeld soll erhöht und die Sanktionen sollen abgebaut werden.",
+    "text_easy_de": "Menschen ohne Arbeit sollen mehr Geld und weniger Strafen bekommen.",
+    "context_de": "Neutraler Hintergrund folgt in der redaktionellen Fassung.",
+    "admission_ref": "—"
+  },
+  {
+    "id": "rente-63",
+    "policy_slug": "rente-63",
+    "topic": "sozial",
+    "text_de": "Der abschlagsfreie Renteneintritt mit 63 nach 45 Beitragsjahren soll erhalten bleiben.",
+    "text_easy_de": "Wer 45 Jahre gearbeitet hat, soll mit 63 ohne Abzüge in Rente gehen.",
+    "context_de": "Neutraler Hintergrund folgt in der redaktionellen Fassung.",
+    "admission_ref": "—"
+  },
+  {
+    "id": "wehrpflicht",
+    "policy_slug": "wehrpflicht",
+    "topic": "sicherheit",
+    "text_de": "Die allgemeine Wehrpflicht soll wieder eingeführt werden.",
+    "text_easy_de": "Junge Menschen sollen wieder zur Bundeswehr müssen.",
+    "context_de": "Neutraler Hintergrund folgt in der redaktionellen Fassung.",
+    "admission_ref": "—"
+  },
+  {
+    "id": "waffen-ukraine",
+    "policy_slug": "waffen-ukraine",
+    "topic": "sicherheit",
+    "text_de": "Deutschland soll weiterhin schwere Waffen an die Ukraine liefern.",
+    "text_easy_de": "Deutschland soll der Ukraine weiter große Waffen geben.",
+    "context_de": "Neutraler Hintergrund folgt in der redaktionellen Fassung.",
+    "admission_ref": "—"
+  },
+  {
+    "id": "asyl-drittstaaten",
+    "policy_slug": "asyl-drittstaaten",
+    "topic": "migration",
+    "text_de": "Asylverfahren sollen in sichere Drittstaaten außerhalb der EU ausgelagert werden.",
+    "text_easy_de": "Über Asyl soll in anderen Ländern außerhalb der EU entschieden werden.",
+    "context_de": "Neutraler Hintergrund folgt in der redaktionellen Fassung.",
+    "admission_ref": "—"
+  },
+  {
+    "id": "fachkraefte",
+    "policy_slug": "fachkraefte",
+    "topic": "migration",
+    "text_de": "Die Zuwanderung von Fachkräften soll deutlich erleichtert werden.",
+    "text_easy_de": "Fachleute aus dem Ausland sollen leichter nach Deutschland kommen dürfen.",
+    "context_de": "Neutraler Hintergrund folgt in der redaktionellen Fassung.",
+    "admission_ref": "—"
+  },
+  {
+    "id": "vermoegensteuer",
+    "policy_slug": "vermoegensteuer",
+    "topic": "wirtschaft",
+    "text_de": "Eine Vermögensteuer auf große Vermögen soll wieder eingeführt werden.",
+    "text_easy_de": "Sehr reiche Menschen sollen eine Steuer auf ihr Vermögen zahlen.",
+    "context_de": "Neutraler Hintergrund folgt in der redaktionellen Fassung.",
+    "admission_ref": "—"
+  },
+  {
+    "id": "cannabis",
+    "policy_slug": "cannabis",
+    "topic": "gesellschaft",
+    "text_de": "Die Teil-Legalisierung von Cannabis soll beibehalten werden.",
+    "text_easy_de": "Cannabis soll für Erwachsene erlaubt bleiben.",
+    "context_de": "Neutraler Hintergrund folgt in der redaktionellen Fassung.",
+    "admission_ref": "—"
+  },
+  {
+    "id": "eurobonds",
+    "policy_slug": "eurobonds",
+    "topic": "europa",
+    "text_de": "Die EU soll gemeinsame europäische Schulden (Eurobonds) für Investitionen aufnehmen.",
+    "text_easy_de": "EU-Länder sollen zusammen Schulden für Investitionen machen.",
+    "context_de": "Neutraler Hintergrund folgt in der redaktionellen Fassung.",
+    "admission_ref": "—"
+  },
+  {
+    "id": "vorratsdaten",
+    "policy_slug": "vorratsdaten",
+    "topic": "digital",
+    "text_de": "Zur Kriminalitätsbekämpfung soll eine anlasslose Vorratsdatenspeicherung eingeführt werden.",
+    "text_easy_de": "Daten über Telefon und Internet sollen allgemein gespeichert werden.",
+    "context_de": "Neutraler Hintergrund folgt in der redaktionellen Fassung.",
+    "admission_ref": "—"
+  },
+  {
+    "id": "heizungsgesetz",
+    "policy_slug": "heizungsgesetz",
+    "topic": "klima",
+    "text_de": "Der verpflichtende Umstieg auf klimafreundliche Heizungen (Heizungsgesetz) soll zurückgenommen werden.",
+    "text_easy_de": "Die Pflicht zu neuen, klimafreundlichen Heizungen soll wegfallen.",
+    "context_de": "Neutraler Hintergrund folgt in der redaktionellen Fassung.",
+    "admission_ref": "—"
+  }
+]

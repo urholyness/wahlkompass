@@ -1,0 +1,13 @@
+{
+  "methodology_version": "1.0",
+  "lambda": 0.17328679513,
+  "W_0": 1.3028834457,
+  "tier_weights": {
+    "1": 1.0,
+    "2": 0.8,
+    "3": 0.6,
+    "4": 0.3
+  },
+  "target_date": "2026-11-01",
+  "notes_de": "τ, λ, W₀ und Formeln gemäß consolidated-design v1.2 §2–3."
+}

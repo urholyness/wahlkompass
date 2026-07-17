@@ -1,0 +1,74 @@
+{
+ "as_of": "2026-07-14",
+ "projection": {
+  "afd": 198,
+  "cdu": 157,
+  "gruene": 102,
+  "linke": 82,
+  "spd": 91
+ },
+ "averages_pct": {
+  "afd": 27.4,
+  "bsw": 3.6,
+  "cdu": 21.8,
+  "fdp": 4.4,
+  "gruene": 14.1,
+  "linke": 11.3,
+  "spd": 12.6
+ },
+ "below_hurdle": [
+  "bsw",
+  "fdp"
+ ],
+ "total": 630,
+ "majority": 316,
+ "surveys_used": [
+  {
+   "dawum_id": "4236",
+   "date": "2026-07-14",
+   "institute": "INSA"
+  },
+  {
+   "dawum_id": "4235",
+   "date": "2026-07-14",
+   "institute": "Forsa"
+  },
+  {
+   "dawum_id": "4234",
+   "date": "2026-07-14",
+   "institute": "YouGov"
+  },
+  {
+   "dawum_id": "4232",
+   "date": "2026-07-09",
+   "institute": "Ipsos"
+  },
+  {
+   "dawum_id": "4227",
+   "date": "2026-07-03",
+   "institute": "Verian (Emnid)"
+  },
+  {
+   "dawum_id": "4224",
+   "date": "2026-07-02",
+   "institute": "Infratest dimap"
+  },
+  {
+   "dawum_id": "4218",
+   "date": "2026-06-24",
+   "institute": "pollytix"
+  },
+  {
+   "dawum_id": "4217",
+   "date": "2026-06-24",
+   "institute": "Allensbach"
+  }
+ ],
+ "method_de": "Mechanische Sitzumrechnung: je Institut die neueste Bundestags-Umfrage der letzten 21 Tage, einfacher Mittelwert, 5%-Hürde, proportionale Verteilung von 630 Sitzen (größte Reste). Beschreibend, keine Vorhersage.",
+ "attribution": {
+  "text": "Daten von dawum.de (Open Database License (ODbL))",
+  "source_url": "https://dawum.de",
+  "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+ },
+ "source_sha256": "e5dac122a71216a042bd6c906333aa9ef08b71d8c63262e1793fbe783c4fc848"
+}

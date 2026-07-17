@@ -1,0 +1,6491 @@
+[
+ {
+  "vote_id": "2025-06-25-s13-a1",
+  "date": "2025-06-25",
+  "title": "Antrag gegen weitere Nutzung von Nord-Stream-Pipelines",
+  "session": "13",
+  "vote_number": "1",
+  "source_url": "https://www.bundestag.de/resource/blob/1096588/20250625_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1096586/20250625_1.pdf",
+  "sha256": "d33be0dba50b82cf1964419eac3b31bb7cdb71ad19e88ddff10bd51b7f767683",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 195,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "present": 195,
+    "active": 195,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 134,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 16
+    },
+    "present": 135,
+    "active": 135,
+    "direction": 0.9852,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 0.9926,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 114,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "present": 114,
+    "active": 114,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 82,
+     "enthalten": 0,
+     "nicht_abgegeben": 3
+    },
+    "present": 82,
+    "active": 82,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 1,
+     "enthalten": 55,
+     "nicht_abgegeben": 8
+    },
+    "present": 56,
+    "active": 1,
+    "direction": -1.0,
+    "participation": 0.0179,
+    "item_weight": 0.0,
+    "fci": 0.9821,
+    "excluded_unified_abstention": true
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 0,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-06-25-s13-a2",
+  "date": "2025-06-25",
+  "title": "Bundeswehreinsatz in Bosnien und Herzegowina (Eufor Althea)",
+  "session": "13",
+  "vote_number": "2",
+  "source_url": "https://www.bundestag.de/resource/blob/1096592/20250625_2_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1096590/20250625_2.pdf",
+  "sha256": "7ade5818e4f897dee825445d4affd89e885337d4f27f03c4b4f587f1bf1ddb38",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 192,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 16
+    },
+    "present": 192,
+    "active": 192,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 133,
+     "enthalten": 1,
+     "nicht_abgegeben": 17
+    },
+    "present": 134,
+    "active": 133,
+    "direction": -1.0,
+    "participation": 0.9925,
+    "item_weight": 0.9925,
+    "fci": 0.9925,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 114,
+     "nein": 0,
+     "enthalten": 1,
+     "nicht_abgegeben": 5
+    },
+    "present": 115,
+    "active": 114,
+    "direction": 1.0,
+    "participation": 0.9913,
+    "item_weight": 0.9913,
+    "fci": 0.9913,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 79,
+     "nein": 0,
+     "enthalten": 2,
+     "nicht_abgegeben": 4
+    },
+    "present": 81,
+    "active": 79,
+    "direction": 1.0,
+    "participation": 0.9753,
+    "item_weight": 0.9753,
+    "fci": 0.9753,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 54,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "present": 54,
+    "active": 54,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-06-26-s14-a2",
+  "date": "2025-06-26",
+  "title": "Bundeswehreinsatz in Kosovo",
+  "session": "14",
+  "vote_number": "2",
+  "source_url": "https://www.bundestag.de/resource/blob/1096986/20250626_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1096980/20250626_1.pdf",
+  "sha256": "aa657319fcc114da5fd45e6fa54a0489a1af96bea628fe7d4bc7cd0a1dfa3565",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 196,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 12
+    },
+    "present": 196,
+    "active": 196,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 132,
+     "enthalten": 0,
+     "nicht_abgegeben": 19
+    },
+    "present": 132,
+    "active": 132,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 114,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "present": 115,
+    "active": 115,
+    "direction": 0.9826,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 0.9913,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 80,
+     "nein": 0,
+     "enthalten": 2,
+     "nicht_abgegeben": 3
+    },
+    "present": 82,
+    "active": 80,
+    "direction": 1.0,
+    "participation": 0.9756,
+    "item_weight": 0.9756,
+    "fci": 0.9756,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 56,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "present": 56,
+    "active": 56,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-06-26-s14-a3",
+  "date": "2025-06-26",
+  "title": "Bundeswehreinsatz im Libanon (UNIFIL)",
+  "session": "14",
+  "vote_number": "3",
+  "source_url": "https://www.bundestag.de/resource/blob/1096990/20250626_3_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1096984/20250626_3.pdf",
+  "sha256": "910618eb80ce200622a270c18b6d45d8cc6a204e9ff77bf9a94cb69057f04292",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 196,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 12
+    },
+    "present": 196,
+    "active": 196,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 127,
+     "enthalten": 0,
+     "nicht_abgegeben": 24
+    },
+    "present": 127,
+    "active": 127,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 114,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "present": 114,
+    "active": 114,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 79,
+     "nein": 0,
+     "enthalten": 2,
+     "nicht_abgegeben": 4
+    },
+    "present": 81,
+    "active": 79,
+    "direction": 1.0,
+    "participation": 0.9753,
+    "item_weight": 0.9753,
+    "fci": 0.9753,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 52,
+     "enthalten": 0,
+     "nicht_abgegeben": 12
+    },
+    "present": 52,
+    "active": 52,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-06-26-s14-a4",
+  "date": "2025-06-26",
+  "title": "Gesetzentwurf zur Umnutzung von Bahngrundstücken",
+  "session": "14",
+  "vote_number": "4",
+  "source_url": "https://www.bundestag.de/resource/blob/1097412/20250626_4_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1097410/20250626_4.pdf",
+  "sha256": "07002a9e49e5cdb36b5e7e3e961f8622002fd3d179b4e9e7bbe8f2056f822b5f",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 193,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 15
+    },
+    "present": 193,
+    "active": 193,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 120,
+     "enthalten": 0,
+     "nicht_abgegeben": 31
+    },
+    "present": 120,
+    "active": 120,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 112,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "present": 112,
+    "active": 112,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 66,
+     "nicht_abgegeben": 19
+    },
+    "present": 66,
+    "active": 0,
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": true
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 52,
+     "enthalten": 0,
+     "nicht_abgegeben": 12
+    },
+    "present": 52,
+    "active": 52,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 1,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 0,
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": true
+   }
+  }
+ },
+ {
+  "vote_id": "2025-06-27-s15-a1",
+  "date": "2025-06-27",
+  "title": "Aussetzung des Familiennachzugs zu subsidiär Schutzberechtigten",
+  "session": "15",
+  "vote_number": "1",
+  "source_url": "https://www.bundestag.de/resource/blob/1097434/20250627_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1097432/20250627_1.pdf",
+  "sha256": "003a57bde4965dd2e2731c77e4e45ffc2518092c8b8c83a2240ff4461a59f6ad",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 202,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "present": 202,
+    "active": 202,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 125,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 26
+    },
+    "present": 125,
+    "active": 125,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 117,
+     "nein": 2,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 119,
+    "active": 119,
+    "direction": 0.9664,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 0.9832,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 80,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "present": 80,
+    "active": 80,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 51,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "present": 51,
+    "active": 51,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "present": 0,
+    "active": 0,
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": true
+   }
+  }
+ },
+ {
+  "vote_id": "2025-07-10-s18-a1",
+  "date": "2025-07-10",
+  "title": "Ablehnung eines Antrags zur Einsetzung eines 1. Untersuchungsausschusses",
+  "session": "18",
+  "vote_number": "1",
+  "source_url": "https://www.bundestag.de/resource/blob/1099256/20250710_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1099312/20250710_1.pdf",
+  "sha256": "d02d13ff3129727ea27a7cbd3ca39c1ce0d351567e39ab339465f613bec32ca6",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 200,
+     "nein": 0,
+     "enthalten": 1,
+     "nicht_abgegeben": 7
+    },
+    "present": 201,
+    "active": 200,
+    "direction": 1.0,
+    "participation": 0.995,
+    "item_weight": 0.995,
+    "fci": 0.995,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 145,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "present": 145,
+    "active": 145,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 112,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "present": 113,
+    "active": 113,
+    "direction": 0.9823,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 0.9912,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 83,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "present": 83,
+    "active": 83,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 54,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "present": 54,
+    "active": 54,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-09-11-s21-a1",
+  "date": "2025-09-11",
+  "title": "Ablehnung eines Antrags zum Rückbau abgeschalteter AKW",
+  "session": "21",
+  "vote_number": "1",
+  "source_url": "https://www.bundestag.de/resource/blob/1108254/20250911_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1108252/20250911_1.pdf",
+  "sha256": "71b63201e82abb2a0a665238fdc7c57ddeae7647851d363190a028018663e26a",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 199,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 199,
+    "active": 199,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 131,
+     "enthalten": 0,
+     "nicht_abgegeben": 20
+    },
+    "present": 131,
+    "active": 131,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 114,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "present": 114,
+    "active": 114,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 79,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "present": 79,
+    "active": 79,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 56,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "present": 56,
+    "active": 56,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-09-17-s24-a1",
+  "date": "2025-09-17",
+  "title": "Haushalt 2025: Geschäftsbereich des Bundeskanzleramts",
+  "session": "24",
+  "vote_number": "1",
+  "source_url": "https://www.bundestag.de/resource/blob/1110058/20250917_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1110056/20250917_1.pdf",
+  "sha256": "840d00ee3c1b697f6e5c2bbe3f174801ea38070527d573f5e5d8e09d67649043",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 203,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "present": 203,
+    "active": 203,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 136,
+     "enthalten": 0,
+     "nicht_abgegeben": 15
+    },
+    "present": 136,
+    "active": 136,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 118,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "present": 118,
+    "active": 118,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 78,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "present": 78,
+    "active": 78,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 59,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "present": 59,
+    "active": 59,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-09-18-s25-a1",
+  "date": "2025-09-18",
+  "title": "Haushaltsgesetz 2025",
+  "session": "25",
+  "vote_number": "1",
+  "source_url": "https://www.bundestag.de/resource/blob/1110132/20250918_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1110130/20250918_1.pdf",
+  "sha256": "25762980f88c95708caad967bb663daaaf6322a402e8bae75e7c34a7d0242a77",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 205,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 3
+    },
+    "present": 205,
+    "active": 205,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 133,
+     "enthalten": 0,
+     "nicht_abgegeben": 18
+    },
+    "present": 133,
+    "active": 133,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 118,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "present": 118,
+    "active": 118,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 76,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 76,
+    "active": 76,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 59,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "present": 59,
+    "active": 59,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-10-08-s30-a1",
+  "date": "2025-10-08",
+  "title": "Änderung des Staatsangehörigkeitsgesetzes",
+  "session": "30",
+  "vote_number": "1",
+  "source_url": "https://www.bundestag.de/resource/blob/1113676/20251008_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1113674/20251008_1.pdf",
+  "sha256": "f3d6726aa14349c14daa776e9ed069db983a82fa0b051b6f2dc674421585986c",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 201,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "present": 201,
+    "active": 201,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 135,
+     "nein": 0,
+     "enthalten": 2,
+     "nicht_abgegeben": 14
+    },
+    "present": 137,
+    "active": 135,
+    "direction": 1.0,
+    "participation": 0.9854,
+    "item_weight": 0.9854,
+    "fci": 0.9854,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 114,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "present": 114,
+    "active": 114,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 76,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 76,
+    "active": 76,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 57,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "present": 57,
+    "active": 57,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 0,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-10-16-s34-a2",
+  "date": "2025-10-16",
+  "title": "Bundeswehreinsatz im Roten Meer „Eunavfor Aspides“",
+  "session": "34",
+  "vote_number": "2",
+  "source_url": "https://www.bundestag.de/resource/blob/1116704/20251016_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1116698/20251016_1.pdf",
+  "sha256": "eb0dd3b8ab59f3d80c6f464aa88dc6f4217472dbbb3cddef96c4a2b49ec6341d",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 203,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "present": 203,
+    "active": 203,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 122,
+     "nein": 15,
+     "enthalten": 2,
+     "nicht_abgegeben": 12
+    },
+    "present": 139,
+    "active": 137,
+    "direction": 0.781,
+    "participation": 0.9856,
+    "item_weight": 0.9856,
+    "fci": 0.8777,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 110,
+     "nein": 0,
+     "enthalten": 2,
+     "nicht_abgegeben": 8
+    },
+    "present": 112,
+    "active": 110,
+    "direction": 1.0,
+    "participation": 0.9821,
+    "item_weight": 0.9821,
+    "fci": 0.9821,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 73,
+     "nicht_abgegeben": 12
+    },
+    "present": 73,
+    "active": 0,
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": true
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 54,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "present": 54,
+    "active": 54,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "present": 0,
+    "active": 0,
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": true
+   }
+  }
+ },
+ {
+  "vote_id": "2025-10-16-s34-a3",
+  "date": "2025-10-16",
+  "title": "Ablehnung eines Antrags zur Rücknahme des Verbrenner-Verbots",
+  "session": "34",
+  "vote_number": "3",
+  "source_url": "https://www.bundestag.de/resource/blob/1116706/20251016_2_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1116700/20251016_2.pdf",
+  "sha256": "ed47022162ff9572a2076a2067eacec1cc9afb52dd9e9b4dbdd63f66ba4f0cfd",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 199,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 199,
+    "active": 199,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 138,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "present": 138,
+    "active": 138,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 109,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 11
+    },
+    "present": 109,
+    "active": 109,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 72,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "present": 72,
+    "active": 72,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 52,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 12
+    },
+    "present": 52,
+    "active": 52,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-10-16-s34-a4",
+  "date": "2025-10-16",
+  "title": "Bundeswehreinsatz im Südsudan „Unmiss“",
+  "session": "34",
+  "vote_number": "4",
+  "source_url": "https://www.bundestag.de/resource/blob/1116708/20251016_3_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1116702/20251016_3.pdf",
+  "sha256": "a5134f650592063e48c9ffb43d88d97dae753d58dfd4859f9a6a732f1ea6446a",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 196,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 12
+    },
+    "present": 196,
+    "active": 196,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 117,
+     "nein": 18,
+     "enthalten": 3,
+     "nicht_abgegeben": 13
+    },
+    "present": 138,
+    "active": 135,
+    "direction": 0.7333,
+    "participation": 0.9783,
+    "item_weight": 0.9783,
+    "fci": 0.8478,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 108,
+     "nein": 0,
+     "enthalten": 1,
+     "nicht_abgegeben": 11
+    },
+    "present": 109,
+    "active": 108,
+    "direction": 1.0,
+    "participation": 0.9908,
+    "item_weight": 0.9908,
+    "fci": 0.9908,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 72,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 12
+    },
+    "present": 73,
+    "active": 73,
+    "direction": 0.9726,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 0.9863,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 53,
+     "enthalten": 0,
+     "nicht_abgegeben": 11
+    },
+    "present": 53,
+    "active": 53,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-11-06-s37-a2",
+  "date": "2025-11-06",
+  "title": "Gesetzentwurf zur Bekämpfung überhöhter Mieten",
+  "session": "37",
+  "vote_number": "2",
+  "source_url": "https://www.bundestag.de/resource/blob/1121876/20251106_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1121868/20251106_1.pdf",
+  "sha256": "8579d2f206884961a1a62311944e3a496b93635c3bb35daedef56979cc918b45",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 0,
+     "nein": 196,
+     "enthalten": 0,
+     "nicht_abgegeben": 12
+    },
+    "present": 196,
+    "active": 196,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 128,
+     "enthalten": 0,
+     "nicht_abgegeben": 23
+    },
+    "present": 128,
+    "active": 128,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 0,
+     "nein": 116,
+     "enthalten": 0,
+     "nicht_abgegeben": 4
+    },
+    "present": 116,
+    "active": 116,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 75,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "present": 75,
+    "active": 75,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 55,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 55,
+    "active": 55,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-11-06-s37-a5",
+  "date": "2025-11-06",
+  "title": "Änderung der Internationalen Gesundheitsvorschriften",
+  "session": "37",
+  "vote_number": "5",
+  "source_url": "https://www.bundestag.de/resource/blob/1121882/20251106_4_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1121874/20251106_4.pdf",
+  "sha256": "2aca6145b1f206dfb9d479dcbf784eee908f10a44bfa8a582745e1a0be8ca419",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 194,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "present": 195,
+    "active": 195,
+    "direction": 0.9897,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 0.9949,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 130,
+     "enthalten": 0,
+     "nicht_abgegeben": 21
+    },
+    "present": 130,
+    "active": 130,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 111,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 111,
+    "active": 111,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 71,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 14
+    },
+    "present": 71,
+    "active": 71,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 51,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "present": 51,
+    "active": 51,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-11-13-s40-a1",
+  "date": "2025-11-13",
+  "title": "Gesetzentwurf zur Beseitigung der Klimaschutzfolgen",
+  "session": "40",
+  "vote_number": "1",
+  "source_url": "https://www.bundestag.de/resource/blob/1126794/20251113_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1126804/20251113_1.pdf",
+  "sha256": "90d5b08e826834d322395553ce521da7a7a3619d91e9260eb7819c1886c730bd",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 0,
+     "nein": 204,
+     "enthalten": 0,
+     "nicht_abgegeben": 4
+    },
+    "present": 204,
+    "active": 204,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 131,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 20
+    },
+    "present": 131,
+    "active": 131,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 0,
+     "nein": 114,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "present": 114,
+    "active": 114,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 77,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "present": 77,
+    "active": 77,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 46,
+     "enthalten": 0,
+     "nicht_abgegeben": 18
+    },
+    "present": 46,
+    "active": 46,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 0,
+     "nein": 2,
+     "enthalten": 0,
+     "nicht_abgegeben": 0
+    },
+    "present": 2,
+    "active": 2,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-11-13-s40-a2",
+  "date": "2025-11-13",
+  "title": "Gesetzentwurf zur Änderung des Artikels 143h des Grundgesetzes",
+  "session": "40",
+  "vote_number": "2",
+  "source_url": "https://www.bundestag.de/resource/blob/1126796/20251113_2_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1126806/20251113_2.pdf",
+  "sha256": "a844eb40be7bacc30499ecf4f9261e177bea77d0774351f8acca518ced7e8ed7",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 0,
+     "nein": 200,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "present": 200,
+    "active": 200,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 128,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 23
+    },
+    "present": 128,
+    "active": 128,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 0,
+     "nein": 109,
+     "enthalten": 0,
+     "nicht_abgegeben": 11
+    },
+    "present": 109,
+    "active": 109,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 74,
+     "enthalten": 0,
+     "nicht_abgegeben": 11
+    },
+    "present": 74,
+    "active": 74,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 47,
+     "enthalten": 0,
+     "nicht_abgegeben": 17
+    },
+    "present": 47,
+    "active": 47,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 0,
+     "nein": 2,
+     "enthalten": 0,
+     "nicht_abgegeben": 0
+    },
+    "present": 2,
+    "active": 2,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-11-13-s40-a3",
+  "date": "2025-11-13",
+  "title": "Gesetzentwurf zur Schwarzarbeitsbekämpfung",
+  "session": "40",
+  "vote_number": "3",
+  "source_url": "https://www.bundestag.de/resource/blob/1126798/20251113_3_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1126808/20251113_3.pdf",
+  "sha256": "73f9105c229b079d57704f02d52b4a4c0b4f2f61cd929d72900b3d0dc69a374e",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 204,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 4
+    },
+    "present": 204,
+    "active": 204,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 1,
+     "nein": 2,
+     "enthalten": 128,
+     "nicht_abgegeben": 20
+    },
+    "present": 131,
+    "active": 3,
+    "direction": -0.3333,
+    "participation": 0.0229,
+    "item_weight": 0.0,
+    "fci": 0.9771,
+    "excluded_unified_abstention": true
+   },
+   "SPD": {
+    "counts": {
+     "ja": 117,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 3
+    },
+    "present": 117,
+    "active": 117,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 77,
+     "nicht_abgegeben": 8
+    },
+    "present": 77,
+    "active": 0,
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": true
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 48,
+     "enthalten": 0,
+     "nicht_abgegeben": 16
+    },
+    "present": 48,
+    "active": 48,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 2,
+     "nicht_abgegeben": 0
+    },
+    "present": 2,
+    "active": 0,
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": true
+   }
+  }
+ },
+ {
+  "vote_id": "2025-11-13-s40-a4",
+  "date": "2025-11-13",
+  "title": "Bundeswehreinsatz im Mittelmeer „Eunavfor Med Irini“",
+  "session": "40",
+  "vote_number": "4",
+  "source_url": "https://www.bundestag.de/resource/blob/1126800/20251113_4_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1126810/20251113_4.pdf",
+  "sha256": "0a03baa4a66652701623fdd0f3dffeb80b39136e967d71f1bdebf71f117e2334",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 199,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 199,
+    "active": 199,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 128,
+     "enthalten": 0,
+     "nicht_abgegeben": 23
+    },
+    "present": 128,
+    "active": 128,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 113,
+     "nein": 0,
+     "enthalten": 2,
+     "nicht_abgegeben": 5
+    },
+    "present": 115,
+    "active": 113,
+    "direction": 1.0,
+    "participation": 0.9826,
+    "item_weight": 0.9826,
+    "fci": 0.9826,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 9,
+     "enthalten": 67,
+     "nicht_abgegeben": 9
+    },
+    "present": 76,
+    "active": 9,
+    "direction": -1.0,
+    "participation": 0.1184,
+    "item_weight": 0.1184,
+    "fci": 0.8816,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 45,
+     "enthalten": 0,
+     "nicht_abgegeben": 19
+    },
+    "present": 45,
+    "active": 45,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-11-13-s40-a5",
+  "date": "2025-11-13",
+  "title": "Bundeswehreinsatz im Mittelmeer „Sea Guardian“",
+  "session": "40",
+  "vote_number": "5",
+  "source_url": "https://www.bundestag.de/resource/blob/1126802/20251113_5_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1126812/20251113_5.pdf",
+  "sha256": "04d719047d0b03ada6741b5cd0e6b9018c1d06501fdd6131a19586f802dab67e",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 201,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "present": 201,
+    "active": 201,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 126,
+     "enthalten": 0,
+     "nicht_abgegeben": 25
+    },
+    "present": 126,
+    "active": 126,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 113,
+     "nein": 0,
+     "enthalten": 2,
+     "nicht_abgegeben": 5
+    },
+    "present": 115,
+    "active": 113,
+    "direction": 1.0,
+    "participation": 0.9826,
+    "item_weight": 0.9826,
+    "fci": 0.9826,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 72,
+     "nein": 1,
+     "enthalten": 1,
+     "nicht_abgegeben": 11
+    },
+    "present": 74,
+    "active": 73,
+    "direction": 0.9726,
+    "participation": 0.9865,
+    "item_weight": 0.9865,
+    "fci": 0.973,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 42,
+     "enthalten": 0,
+     "nicht_abgegeben": 22
+    },
+    "present": 42,
+    "active": 42,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-11-13-s40-a6",
+  "date": "2025-11-13",
+  "title": "Änderungsantrag zum Energiesteuer- und Stromsteuergesetz",
+  "session": "40",
+  "vote_number": "6",
+  "source_url": "https://www.bundestag.de/resource/blob/1126818/20251113_6_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1126814/20251113_6.pdf",
+  "sha256": "0bfe84dd82c6cbf49847ef237146ac4443a2aadf1398d4c980ff942f4c21565f",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 0,
+     "nein": 199,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 199,
+    "active": 199,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 125,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 26
+    },
+    "present": 125,
+    "active": 125,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 0,
+     "nein": 114,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "present": 114,
+    "active": 114,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 75,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "present": 75,
+    "active": 75,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 43,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 21
+    },
+    "present": 43,
+    "active": 43,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-11-13-s40-a7",
+  "date": "2025-11-13",
+  "title": "Zuschuss zu den Übertragungsnetzkosten für das Jahr 2026",
+  "session": "40",
+  "vote_number": "7",
+  "source_url": "https://www.bundestag.de/resource/blob/1126820/20251113_7_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1126830/20251113_7.pdf",
+  "sha256": "90914531265cfacf6c22bbeb2ea23ae029b95ff961c2141f2b323399d9e3fddf",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 198,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "present": 198,
+    "active": 198,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 121,
+     "nicht_abgegeben": 30
+    },
+    "present": 121,
+    "active": 0,
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": true
+   },
+   "SPD": {
+    "counts": {
+     "ja": 111,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 111,
+    "active": 111,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 73,
+     "nicht_abgegeben": 12
+    },
+    "present": 73,
+    "active": 0,
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": true
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 43,
+     "nicht_abgegeben": 21
+    },
+    "present": 43,
+    "active": 0,
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": true
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 1,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 0,
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": true
+   }
+  }
+ },
+ {
+  "vote_id": "2025-11-13-s40-a8",
+  "date": "2025-11-13",
+  "title": "Änderung des Tierarzneimittel- und des Apothekengesetzes",
+  "session": "40",
+  "vote_number": "8",
+  "source_url": "https://www.bundestag.de/resource/blob/1126880/20251113_8_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1126876/20251113_8.pdf",
+  "sha256": "c2fe881509bf9480796b1d9a06c92acfca3c72589dd12ac8e3943449f6805366",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 151,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 57
+    },
+    "present": 151,
+    "active": 151,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 79,
+     "enthalten": 0,
+     "nicht_abgegeben": 72
+    },
+    "present": 79,
+    "active": 79,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 86,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 34
+    },
+    "present": 86,
+    "active": 86,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 41,
+     "enthalten": 0,
+     "nicht_abgegeben": 44
+    },
+    "present": 41,
+    "active": 41,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 28,
+     "nicht_abgegeben": 36
+    },
+    "present": 28,
+    "active": 0,
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": true
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-11-28-s45-a1",
+  "date": "2025-11-28",
+  "title": "Haushaltsgesetz 2026",
+  "session": "45",
+  "vote_number": "1",
+  "source_url": "https://www.bundestag.de/resource/blob/1128352/20251128_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1128350/20251128_1.pdf",
+  "sha256": "90ded4fa584f2872f604f36c3eec1981a8898a175fbf784e4e86b33d3806e721",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 203,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "present": 203,
+    "active": 203,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 130,
+     "enthalten": 0,
+     "nicht_abgegeben": 21
+    },
+    "present": 130,
+    "active": 130,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 118,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "present": 118,
+    "active": 118,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 68,
+     "enthalten": 0,
+     "nicht_abgegeben": 17
+    },
+    "present": 68,
+    "active": 68,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 54,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "present": 54,
+    "active": 54,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-12-03-s46-a1",
+  "date": "2025-12-03",
+  "title": "Antrag für Visa für Afghanen mit Aufnahmezusage",
+  "session": "46",
+  "vote_number": "1",
+  "source_url": "https://www.bundestag.de/resource/blob/1129000/20251203_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1129002/20251203_1.pdf",
+  "sha256": "72dbd69ec864566fc3295be94069f5a558255438ae05a3f90f163f74a41b16d5",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 0,
+     "nein": 195,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "present": 195,
+    "active": 195,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 136,
+     "enthalten": 0,
+     "nicht_abgegeben": 15
+    },
+    "present": 136,
+    "active": 136,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 0,
+     "nein": 110,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "present": 110,
+    "active": 110,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 76,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 76,
+    "active": 76,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 53,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 11
+    },
+    "present": 53,
+    "active": 53,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-12-04-s47-a1",
+  "date": "2025-12-04",
+  "title": "Antrag zur Klimapolitik",
+  "session": "47",
+  "vote_number": "1",
+  "source_url": "https://www.bundestag.de/resource/blob/1129096/20251204_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1129098/20251204_1.pdf",
+  "sha256": "0f92b7af888d61f5c2a830d64b3f35efd27c3f04b26d4a3412bc56c1af99d40e",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 0,
+     "nein": 199,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 199,
+    "active": 199,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 138,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "present": 138,
+    "active": 138,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 0,
+     "nein": 114,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "present": 114,
+    "active": 114,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 79,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "present": 79,
+    "active": 79,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 54,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "present": 54,
+    "active": 54,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-12-04-s47-a2",
+  "date": "2025-12-04",
+  "title": "Ablehnung eines Antrags zur Abschaffung der CO2-Bepreisung",
+  "session": "47",
+  "vote_number": "2",
+  "source_url": "https://www.bundestag.de/resource/blob/1129104/20251204_2_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1129106/20251204_2.pdf",
+  "sha256": "c3bd4e882b0aea2c21d536f625f4aa73d030d62d9b5f222479555c1a99356842",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 203,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "present": 203,
+    "active": 203,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 138,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "present": 138,
+    "active": 138,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 111,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 111,
+    "active": 111,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 75,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "present": 75,
+    "active": 75,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 54,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "present": 54,
+    "active": 54,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-12-05-s48-a1",
+  "date": "2025-12-05",
+  "title": "Wehrdienst-Modernisierungsgesetz",
+  "session": "48",
+  "vote_number": "1",
+  "source_url": "https://www.bundestag.de/resource/blob/1129376/20251205_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1129378/20251205_1.pdf",
+  "sha256": "6a2d941d6272e68537320e1dbe1445970f08b6fe2f09174e2b49a0c561b37784",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 206,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "present": 206,
+    "active": 206,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 138,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "present": 138,
+    "active": 138,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 117,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "present": 118,
+    "active": 118,
+    "direction": 0.9831,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 0.9915,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 77,
+     "enthalten": 1,
+     "nicht_abgegeben": 7
+    },
+    "present": 78,
+    "active": 77,
+    "direction": -1.0,
+    "participation": 0.9872,
+    "item_weight": 0.9872,
+    "fci": 0.9872,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 55,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 55,
+    "active": 55,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 0,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-12-05-s48-a2",
+  "date": "2025-12-05",
+  "title": "Gesetzentwurf zum Rentenniveau und zu Kindererziehungszeiten",
+  "session": "48",
+  "vote_number": "2",
+  "source_url": "https://www.bundestag.de/resource/blob/1129380/20251205_2_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1129384/20251205_2.pdf",
+  "sha256": "f17657333aef255e5dd69ef66e10e4726d2020926d66a760338d4fb31f86356e",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 198,
+     "nein": 7,
+     "enthalten": 2,
+     "nicht_abgegeben": 1
+    },
+    "present": 207,
+    "active": 205,
+    "direction": 0.9317,
+    "participation": 0.9903,
+    "item_weight": 0.9903,
+    "fci": 0.9565,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 141,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "present": 141,
+    "active": 141,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 120,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 0
+    },
+    "present": 120,
+    "active": 120,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 77,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "present": 77,
+    "active": 77,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 50,
+     "nicht_abgegeben": 14
+    },
+    "present": 50,
+    "active": 0,
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": true
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 1,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 0,
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": true
+   }
+  }
+ },
+ {
+  "vote_id": "2025-12-05-s48-a3",
+  "date": "2025-12-05",
+  "title": "Gesetzentwurf zur Bestimmung sicherer Herkunftsstaaten",
+  "session": "48",
+  "vote_number": "3",
+  "source_url": "https://www.bundestag.de/resource/blob/1129382/20251205_3_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1129386/20251205_3.pdf",
+  "sha256": "66db7a5232e2e48ef8c01b9f7039d42aec62b96469d45af3e5084ff188fbd665",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 205,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 3
+    },
+    "present": 205,
+    "active": 205,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 133,
+     "nein": 0,
+     "enthalten": 1,
+     "nicht_abgegeben": 17
+    },
+    "present": 134,
+    "active": 133,
+    "direction": 1.0,
+    "participation": 0.9925,
+    "item_weight": 0.9925,
+    "fci": 0.9925,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 117,
+     "nein": 0,
+     "enthalten": 2,
+     "nicht_abgegeben": 1
+    },
+    "present": 119,
+    "active": 117,
+    "direction": 1.0,
+    "participation": 0.9832,
+    "item_weight": 0.9832,
+    "fci": 0.9832,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 75,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "present": 75,
+    "active": 75,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 54,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "present": 54,
+    "active": 54,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 0,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-12-05-s48-a4",
+  "date": "2025-12-05",
+  "title": "Ablehnung eines Antrags zu eingefrorenem russischem Staatsvermögen",
+  "session": "48",
+  "vote_number": "4",
+  "source_url": "https://www.bundestag.de/resource/blob/1129388/20251205_4_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1129390/20251205_4.pdf",
+  "sha256": "54cf5e2b3c8e789076097858f194f3ee7d3d112ea0fefdecb8e0dd57aa029d70",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 204,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 4
+    },
+    "present": 204,
+    "active": 204,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 132,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 19
+    },
+    "present": 132,
+    "active": 132,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 118,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "present": 118,
+    "active": 118,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 76,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 76,
+    "active": 76,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 53,
+     "nicht_abgegeben": 11
+    },
+    "present": 53,
+    "active": 0,
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": true
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 0,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-12-05-s48-a5",
+  "date": "2025-12-05",
+  "title": "Ablehnung eines Antrags zu russischen Atomgeschäften",
+  "session": "48",
+  "vote_number": "5",
+  "source_url": "https://www.bundestag.de/resource/blob/1129392/20251205_5_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1129394/20251205_5.pdf",
+  "sha256": "cd5618b8c08fe83419908a737716d90f8f6a49cf724d62a1c550d93dd4604fce",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 204,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 4
+    },
+    "present": 204,
+    "active": 204,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 132,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 19
+    },
+    "present": 132,
+    "active": 132,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 118,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "present": 118,
+    "active": 118,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 76,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 76,
+    "active": 76,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 53,
+     "enthalten": 0,
+     "nicht_abgegeben": 11
+    },
+    "present": 53,
+    "active": 53,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 0,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-12-18-s50-a1",
+  "date": "2025-12-18",
+  "title": "Zurückweisung von Einsprüchen gegen die Bundestagswahl",
+  "session": "50",
+  "vote_number": "1",
+  "source_url": "https://www.bundestag.de/resource/blob/1134276/20251218_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1134272/20251218_1.pdf",
+  "sha256": "79152654ba0e27ec6f00246dd1ffaf006ead8a610ab58ba12d753c3f52b4ba49",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 195,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "present": 195,
+    "active": 195,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 129,
+     "enthalten": 0,
+     "nicht_abgegeben": 22
+    },
+    "present": 129,
+    "active": 129,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 113,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "present": 113,
+    "active": 113,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 72,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "present": 72,
+    "active": 72,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 45,
+     "nein": 0,
+     "enthalten": 1,
+     "nicht_abgegeben": 18
+    },
+    "present": 46,
+    "active": 45,
+    "direction": 1.0,
+    "participation": 0.9783,
+    "item_weight": 0.9783,
+    "fci": 0.9783,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-12-19-s51-a1",
+  "date": "2025-12-19",
+  "title": "Ablehnung der Streichung von Erbschaftsteuer-Privilegien",
+  "session": "51",
+  "vote_number": "1",
+  "source_url": "https://www.bundestag.de/resource/blob/1134278/20251219_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1134274/20251219_1.pdf",
+  "sha256": "fe1318f9ad007d8c658dd28f2c4caf12a449e0759a5a0efb98eb38cbd1544ee0",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 193,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 15
+    },
+    "present": 193,
+    "active": 193,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 124,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 27
+    },
+    "present": 124,
+    "active": 124,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 115,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "present": 115,
+    "active": 115,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 75,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "present": 75,
+    "active": 75,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 46,
+     "enthalten": 0,
+     "nicht_abgegeben": 18
+    },
+    "present": 46,
+    "active": 46,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 0,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2025-12-19-s51-a2",
+  "date": "2025-12-19",
+  "title": "Gesetzentwurf zum Verbrauchervertrags- und Versicherungsvertragsrecht",
+  "session": "51",
+  "vote_number": "2",
+  "source_url": "https://www.bundestag.de/resource/blob/1134414/20251219_2_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1134412/20251219_2.pdf",
+  "sha256": "d0a233f7b52b544324d7c85d9ae38355206eac955cb43df19e925d934e2bf9a1",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 191,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 17
+    },
+    "present": 191,
+    "active": 191,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 123,
+     "enthalten": 0,
+     "nicht_abgegeben": 28
+    },
+    "present": 123,
+    "active": 123,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 115,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "present": 115,
+    "active": 115,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 76,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 76,
+    "active": 76,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 42,
+     "enthalten": 0,
+     "nicht_abgegeben": 22
+    },
+    "present": 42,
+    "active": 42,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 0,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 1,
+    "active": 1,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2026-02-27-s60-a1",
+  "date": "2026-02-27",
+  "title": "GEAS-Anpassungsgesetz",
+  "session": "60",
+  "vote_number": "1",
+  "source_url": "https://www.bundestag.de/resource/blob/1134554/20260227_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1134552/20260227_1.pdf",
+  "sha256": "59a64bebf478ec5c2448d80dc4540693b511da61ef582267d408522f9c00fe7d",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 203,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "present": 203,
+    "active": 203,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 128,
+     "enthalten": 0,
+     "nicht_abgegeben": 23
+    },
+    "present": 128,
+    "active": 128,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 106,
+     "nein": 1,
+     "enthalten": 2,
+     "nicht_abgegeben": 11
+    },
+    "present": 109,
+    "active": 107,
+    "direction": 0.9813,
+    "participation": 0.9817,
+    "item_weight": 0.9817,
+    "fci": 0.9725,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 83,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "present": 83,
+    "active": 83,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 48,
+     "enthalten": 0,
+     "nicht_abgegeben": 16
+    },
+    "present": 48,
+    "active": 48,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "present": 0,
+    "active": 0,
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": true
+   }
+  }
+ },
+ {
+  "vote_id": "2026-03-05-s62-a1",
+  "date": "2026-03-05",
+  "title": "Umgestaltung des Bürgergelds zu neuer Grundsicherung",
+  "session": "62",
+  "vote_number": "1",
+  "source_url": "https://www.bundestag.de/resource/blob/1151676/20260305_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1151674/20260305_1.pdf",
+  "sha256": "581b944b82b24a8fd721455844acdf604a4f466bad5733f248a80e45bcd7481f",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 206,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "present": 206,
+    "active": 206,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 132,
+     "enthalten": 0,
+     "nicht_abgegeben": 18
+    },
+    "present": 132,
+    "active": 132,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 113,
+     "nein": 0,
+     "enthalten": 2,
+     "nicht_abgegeben": 5
+    },
+    "present": 115,
+    "active": 113,
+    "direction": 1.0,
+    "participation": 0.9826,
+    "item_weight": 0.9826,
+    "fci": 0.9826,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 80,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "present": 80,
+    "active": 80,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 55,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 55,
+    "active": 55,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 2,
+    "active": 2,
+    "direction": 0.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 0.5,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2026-03-25-s67-a1",
+  "date": "2026-03-25",
+  "title": "Ablehnung eines Antrags zur Reform der Einbürgerungspolitik",
+  "session": "67",
+  "vote_number": "1",
+  "source_url": "https://www.bundestag.de/resource/blob/1150590/20260325_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1150588/20260325_1.pdf",
+  "sha256": "cf72db23b76bc2fa4a07c9dde532fbb2599ea19cbad806abd94e79e2cabc4d81",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 201,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "present": 201,
+    "active": 201,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 134,
+     "enthalten": 0,
+     "nicht_abgegeben": 16
+    },
+    "present": 134,
+    "active": 134,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 103,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 16
+    },
+    "present": 103,
+    "active": 103,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 78,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "present": 78,
+    "active": 78,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 56,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "present": 56,
+    "active": 56,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 2,
+    "active": 2,
+    "direction": 0.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 0.5,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2026-03-26-s68-a1",
+  "date": "2026-03-26",
+  "title": "Ablehnung eines Antrags zu Energiepreisschocks durch den Irankrieg",
+  "session": "68",
+  "vote_number": "1",
+  "source_url": "https://www.bundestag.de/resource/blob/1157904/20260326_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1158112/20260326_1.pdf",
+  "sha256": "ee63334ad3f7c9e298beacd26a244d93b5be4e0dc2321812b50915e2d336f06a",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 203,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "present": 203,
+    "active": 203,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 137,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "present": 137,
+    "active": 137,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 107,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 12
+    },
+    "present": 107,
+    "active": 107,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 80,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "present": 80,
+    "active": 80,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 54,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "present": 54,
+    "active": 54,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 2,
+    "active": 2,
+    "direction": 0.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 0.5,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2026-03-26-s68-a2",
+  "date": "2026-03-26",
+  "title": "Änderung des Siebten Buches Sozialgesetzbuch (Sicherheitsbeauftragte)",
+  "session": "68",
+  "vote_number": "2",
+  "source_url": "https://www.bundestag.de/resource/blob/1157906/20260326_2_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1157894/20260326_2.pdf",
+  "sha256": "04450734db71213b537116f63eccd3519a70b4ff057a2143be7eb28081d4d5d8",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 191,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 17
+    },
+    "present": 191,
+    "active": 191,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 128,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 22
+    },
+    "present": 128,
+    "active": 128,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 110,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 110,
+    "active": 110,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 76,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 76,
+    "active": 76,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 55,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 55,
+    "active": 55,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 2,
+    "active": 2,
+    "direction": 0.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 0.5,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2026-04-24-s75-a1",
+  "date": "2026-04-24",
+  "title": "Gesetzentwurf zur temporären Absenkung der Energiesteuer für Kraftstoffe",
+  "session": "75",
+  "vote_number": "1",
+  "source_url": "https://www.bundestag.de/resource/blob/1167454/20260424_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1167456/20260424_1.pdf",
+  "sha256": "89ed4d3d43b67515df5654b74c5156b2556c8aff1c327324d8dd8fc47862e6c2",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 201,
+     "nein": 0,
+     "enthalten": 1,
+     "nicht_abgegeben": 6
+    },
+    "present": 202,
+    "active": 201,
+    "direction": 1.0,
+    "participation": 0.995,
+    "item_weight": 0.995,
+    "fci": 0.995,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 136,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 14
+    },
+    "present": 136,
+    "active": 136,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 113,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "present": 113,
+    "active": 113,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 76,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 76,
+    "active": 76,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 57,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "present": 57,
+    "active": 57,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 2,
+    "active": 2,
+    "direction": 0.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 0.5,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2026-04-24-s75-a2",
+  "date": "2026-04-24",
+  "title": "Gesetzentwurf der Grünen zur Änderung der Stromsteuer",
+  "session": "75",
+  "vote_number": "2",
+  "source_url": "https://www.bundestag.de/resource/blob/1167458/20260424_2_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1167460/20260424_2.pdf",
+  "sha256": "73d5a0aa9ed76db283dd4a045405890c72e9c61fd79302d090a4893188b066ea",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 0,
+     "nein": 198,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "present": 198,
+    "active": 198,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 136,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 14
+    },
+    "present": 136,
+    "active": 136,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 0,
+     "nein": 112,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "present": 112,
+    "active": 112,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 75,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "present": 75,
+    "active": 75,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 57,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "present": 57,
+    "active": 57,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 2,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 2,
+    "active": 2,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2026-04-24-s75-a3",
+  "date": "2026-04-24",
+  "title": "Ablehnung eines Antrags zur Entlastung berufstätiger Pendler",
+  "session": "75",
+  "vote_number": "3",
+  "source_url": "https://www.bundestag.de/resource/blob/1167464/20260424_3_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1167462/20260424_3.pdf",
+  "sha256": "e9bfd2bf123204ef52f582eca939d06784d12d314c167aca1def8c3f138977f6",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 201,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "present": 201,
+    "active": 201,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 135,
+     "enthalten": 0,
+     "nicht_abgegeben": 15
+    },
+    "present": 135,
+    "active": 135,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 112,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "present": 112,
+    "active": 112,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 77,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "present": 77,
+    "active": 77,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 57,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "present": 57,
+    "active": 57,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 2,
+    "active": 2,
+    "direction": 0.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 0.5,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2026-04-24-s75-a4",
+  "date": "2026-04-24",
+  "title": "Ablehnung eines Antrags zur Übergewinnsteuer",
+  "session": "75",
+  "vote_number": "4",
+  "source_url": "https://www.bundestag.de/resource/blob/1167470/20260424_4_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1167468/20260424_4.pdf",
+  "sha256": "bb558a95b2baecf7717053becaa41e2e243af093ac8d625893a62bf7ded6e0fc",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 201,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "present": 201,
+    "active": 201,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 135,
+     "enthalten": 0,
+     "nicht_abgegeben": 15
+    },
+    "present": 135,
+    "active": 135,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 113,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "present": 113,
+    "active": 113,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 77,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "present": 77,
+    "active": 77,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 57,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "present": 57,
+    "active": 57,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 2,
+    "active": 2,
+    "direction": 0.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 0.5,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2026-05-22-s81-a1",
+  "date": "2026-05-22",
+  "title": "Ablehnung eines Antrags zur Arzneimittelversorgung",
+  "session": "81",
+  "vote_number": "1",
+  "source_url": "https://www.bundestag.de/resource/blob/1182086/20260522_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1182084/20260522_1.pdf",
+  "sha256": "0a4afeb41c1f2a501e632053e4a4c887a4f02e944275d155fd26c2ba4c780ace",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 191,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 15
+    },
+    "present": 191,
+    "active": 191,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 125,
+     "enthalten": 0,
+     "nicht_abgegeben": 25
+    },
+    "present": 125,
+    "active": 125,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 111,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 111,
+    "active": 111,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 81,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 4
+    },
+    "present": 81,
+    "active": 81,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 56,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "present": 56,
+    "active": 56,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 2,
+    "active": 2,
+    "direction": 0.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 0.5,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2026-06-11-s83-a1",
+  "date": "2026-06-11",
+  "title": "Ablehnung eines Antrags zur BAföG-Reform",
+  "session": "83",
+  "vote_number": "1",
+  "source_url": "https://www.bundestag.de/resource/blob/1184012/20260611_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1183998/20260611_1.pdf",
+  "sha256": "09a4b9fd4a4c41a95fb32d705c432892c303895b29142119f4764b1aea7b779d",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 196,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 12
+    },
+    "present": 196,
+    "active": 196,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 137,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "present": 137,
+    "active": 137,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 107,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "present": 107,
+    "active": 107,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 79,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "present": 79,
+    "active": 79,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 61,
+     "enthalten": 0,
+     "nicht_abgegeben": 3
+    },
+    "present": 61,
+    "active": 61,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 2,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 0
+    },
+    "present": 3,
+    "active": 3,
+    "direction": 0.3333,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 0.6667,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2026-06-11-s83-a2",
+  "date": "2026-06-11",
+  "title": "Bundeswehreinsatz in Bosnien und Herzegowina (Eufor Althea)",
+  "session": "83",
+  "vote_number": "2",
+  "source_url": "https://www.bundestag.de/resource/blob/1184014/20260611_2_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1184000/20260611_2.pdf",
+  "sha256": "8e46c1b3be85901e01f2c95edb0dc2936d6b396e5580c966a527b40caa70c162",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 199,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 199,
+    "active": 199,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 135,
+     "enthalten": 0,
+     "nicht_abgegeben": 15
+    },
+    "present": 135,
+    "active": 135,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 107,
+     "nein": 0,
+     "enthalten": 1,
+     "nicht_abgegeben": 12
+    },
+    "present": 108,
+    "active": 107,
+    "direction": 1.0,
+    "participation": 0.9907,
+    "item_weight": 0.9907,
+    "fci": 0.9907,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 79,
+     "nein": 0,
+     "enthalten": 1,
+     "nicht_abgegeben": 5
+    },
+    "present": 80,
+    "active": 79,
+    "direction": 1.0,
+    "participation": 0.9875,
+    "item_weight": 0.9875,
+    "fci": 0.9875,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 57,
+     "enthalten": 1,
+     "nicht_abgegeben": 6
+    },
+    "present": 58,
+    "active": 57,
+    "direction": -1.0,
+    "participation": 0.9828,
+    "item_weight": 0.9828,
+    "fci": 0.9828,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 2,
+    "active": 2,
+    "direction": 0.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 0.5,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2026-06-11-s83-a3",
+  "date": "2026-06-11",
+  "title": "Bundeswehreinsatz in Kosovo (KFOR)",
+  "session": "83",
+  "vote_number": "3",
+  "source_url": "https://www.bundestag.de/resource/blob/1184016/20260611_3_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1184002/20260611_3.pdf",
+  "sha256": "a3b25e26c852404c53a94e5ee592543cd33c5ee5119efadbd53fd0f93f0d5136",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 199,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 199,
+    "active": 199,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 136,
+     "enthalten": 0,
+     "nicht_abgegeben": 14
+    },
+    "present": 136,
+    "active": 136,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 108,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 11
+    },
+    "present": 109,
+    "active": 109,
+    "direction": 0.9817,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 0.9908,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 75,
+     "nein": 0,
+     "enthalten": 1,
+     "nicht_abgegeben": 9
+    },
+    "present": 76,
+    "active": 75,
+    "direction": 1.0,
+    "participation": 0.9868,
+    "item_weight": 0.9868,
+    "fci": 0.9868,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 54,
+     "enthalten": 1,
+     "nicht_abgegeben": 9
+    },
+    "present": 55,
+    "active": 54,
+    "direction": -1.0,
+    "participation": 0.9818,
+    "item_weight": 0.9818,
+    "fci": 0.9818,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 0,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "present": 1,
+    "active": 1,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2026-06-11-s83-a4",
+  "date": "2026-06-11",
+  "title": "Jahresemissions-gesamtmengen-Verordnung 2031-2040",
+  "session": "83",
+  "vote_number": "4",
+  "source_url": "https://www.bundestag.de/resource/blob/1184018/20260611_4_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1184004/20260611_4.pdf",
+  "sha256": "06f90c32308fb2afb0cc1cc254941b54d842b9cd81591527bf80cae6158340da",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 196,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 12
+    },
+    "present": 196,
+    "active": 196,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 132,
+     "enthalten": 0,
+     "nicht_abgegeben": 18
+    },
+    "present": 132,
+    "active": 132,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 107,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "present": 107,
+    "active": 107,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 74,
+     "nicht_abgegeben": 11
+    },
+    "present": 74,
+    "active": 0,
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": true
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 55,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 55,
+    "active": 55,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 0,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "present": 1,
+    "active": 1,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2026-06-12-s84-a1",
+  "date": "2026-06-12",
+  "title": "Gesetzentwurf zur Verhinderung missbräuchlicher Anerkennungen der Vaterschaft",
+  "session": "84",
+  "vote_number": "1",
+  "source_url": "https://www.bundestag.de/resource/blob/1184528/20260612_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1184792/20260612_1.pdf",
+  "sha256": "de6901021c6a90e7beeb6f4a538af70bf05b904885de15d32351739c9e42fbd6",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 193,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 15
+    },
+    "present": 193,
+    "active": 193,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 0,
+     "enthalten": 133,
+     "nicht_abgegeben": 17
+    },
+    "present": 133,
+    "active": 0,
+    "direction": 0.0,
+    "participation": 0.0,
+    "item_weight": 0.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": true
+   },
+   "SPD": {
+    "counts": {
+     "ja": 104,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 16
+    },
+    "present": 104,
+    "active": 104,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 78,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "present": 78,
+    "active": 78,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 51,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "present": 51,
+    "active": 51,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 0,
+     "nein": 1,
+     "enthalten": 1,
+     "nicht_abgegeben": 1
+    },
+    "present": 2,
+    "active": 1,
+    "direction": -1.0,
+    "participation": 0.5,
+    "item_weight": 0.5,
+    "fci": 0.5,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2026-06-25-s86-a2",
+  "date": "2026-06-25",
+  "title": "Bundeswehreinsatz im Libanon (UNIFIL)",
+  "session": "86",
+  "vote_number": "2",
+  "source_url": "https://www.bundestag.de/resource/blob/1192498/20260625_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1192496/20260625_1.pdf",
+  "sha256": "a2a8435ed6c941f41d3bd6238f488e26b5307094363f1efc714dcfa0ce6f8242",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 202,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "present": 202,
+    "active": 202,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 117,
+     "nein": 7,
+     "enthalten": 3,
+     "nicht_abgegeben": 23
+    },
+    "present": 127,
+    "active": 124,
+    "direction": 0.8871,
+    "participation": 0.9764,
+    "item_weight": 0.9764,
+    "fci": 0.9213,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 112,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "present": 112,
+    "active": 112,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 78,
+     "nein": 0,
+     "enthalten": 1,
+     "nicht_abgegeben": 6
+    },
+    "present": 79,
+    "active": 78,
+    "direction": 1.0,
+    "participation": 0.9873,
+    "item_weight": 0.9873,
+    "fci": 0.9873,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 60,
+     "enthalten": 0,
+     "nicht_abgegeben": 4
+    },
+    "present": 60,
+    "active": 60,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 2,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 2,
+    "active": 2,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2026-07-08-s88-a1",
+  "date": "2026-07-08",
+  "title": "Zusätzliche militärische und humanitäre Stärkung der Ukraine",
+  "session": "88",
+  "vote_number": "1",
+  "source_url": "https://www.bundestag.de/resource/blob/1194160/20260708_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1194146/20260708_1.pdf",
+  "sha256": "8f326ec41ef761a8278fdb24dc9351a35b0c922ddc16cbfa39609ad46e809418",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 0,
+     "nein": 198,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "present": 198,
+    "active": 198,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 140,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "present": 140,
+    "active": 140,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 0,
+     "nein": 115,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "present": 115,
+    "active": 115,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 78,
+     "nein": 0,
+     "enthalten": 1,
+     "nicht_abgegeben": 6
+    },
+    "present": 79,
+    "active": 78,
+    "direction": 1.0,
+    "participation": 0.9873,
+    "item_weight": 0.9873,
+    "fci": 0.9873,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 55,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 55,
+    "active": 55,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 2,
+     "enthalten": 0,
+     "nicht_abgegeben": 0
+    },
+    "present": 3,
+    "active": 3,
+    "direction": -0.3333,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 0.6667,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2026-07-09-s89-a1",
+  "date": "2026-07-09",
+  "title": "Einführung eines allgemeinen Straßen-Tempolimits von 130 km/h",
+  "session": "89",
+  "vote_number": "1",
+  "source_url": "https://www.bundestag.de/resource/blob/1194162/20260709_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1194148/20260709_1.pdf",
+  "sha256": "4b6f440f6e89f67f9f48db781002ba85a54bc6aa39bbdfb235423d3cd9e17e91",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 0,
+     "nein": 207,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 207,
+    "active": 207,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 142,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "present": 142,
+    "active": 142,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 0,
+     "nein": 116,
+     "enthalten": 0,
+     "nicht_abgegeben": 4
+    },
+    "present": 116,
+    "active": 116,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 79,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "present": 79,
+    "active": 79,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 57,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "present": 57,
+    "active": 57,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 2,
+     "enthalten": 0,
+     "nicht_abgegeben": 0
+    },
+    "present": 3,
+    "active": 3,
+    "direction": -0.3333,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 0.6667,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2026-07-10-s90-a1",
+  "date": "2026-07-10",
+  "title": "Finanzreform der Gesetzlichen Krankenversicherung",
+  "session": "90",
+  "vote_number": "1",
+  "source_url": "https://www.bundestag.de/resource/blob/1194164/20260710_1-xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1194150/20260710_1.pdf",
+  "sha256": "be81cd85860bc7afb98ab22df7e5da875fc92054a11ff69e35e99468ad87e82b",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 207,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 0
+    },
+    "present": 208,
+    "active": 208,
+    "direction": 0.9904,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 0.9952,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 141,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 141,
+    "active": 141,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 111,
+     "nein": 3,
+     "enthalten": 4,
+     "nicht_abgegeben": 2
+    },
+    "present": 118,
+    "active": 114,
+    "direction": 0.9474,
+    "participation": 0.9661,
+    "item_weight": 0.9661,
+    "fci": 0.9407,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 81,
+     "enthalten": 0,
+     "nicht_abgegeben": 4
+    },
+    "present": 81,
+    "active": 81,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 56,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "present": 56,
+    "active": 56,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 0,
+     "nein": 2,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 2,
+    "active": 2,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2026-07-10-s90-a2",
+  "date": "2026-07-10",
+  "title": "Erster Entschließungsantrag der Linken zur GKV-Finanzreform",
+  "session": "90",
+  "vote_number": "2",
+  "source_url": "https://www.bundestag.de/resource/blob/1194460/20260710_2-xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1194438/20260710_2.pdf",
+  "sha256": "6b913cc882a639868a9fab49d7a0a44a70be71be4f3cab0c225ae2d07a501571",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 0,
+     "nein": 206,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "present": 206,
+    "active": 206,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 138,
+     "enthalten": 0,
+     "nicht_abgegeben": 12
+    },
+    "present": 138,
+    "active": 138,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 0,
+     "nein": 117,
+     "enthalten": 0,
+     "nicht_abgegeben": 3
+    },
+    "present": 117,
+    "active": 117,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 1,
+     "nein": 0,
+     "enthalten": 80,
+     "nicht_abgegeben": 4
+    },
+    "present": 81,
+    "active": 1,
+    "direction": 1.0,
+    "participation": 0.0123,
+    "item_weight": 0.0,
+    "fci": 0.9877,
+    "excluded_unified_abstention": true
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 56,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "present": 56,
+    "active": 56,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 2,
+    "active": 2,
+    "direction": 0.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 0.5,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2026-07-10-s90-a3",
+  "date": "2026-07-10",
+  "title": "Zweiter Entschließungsantrag der Linken zur GKV-Finanzreform",
+  "session": "90",
+  "vote_number": "3",
+  "source_url": "https://www.bundestag.de/resource/blob/1194462/20260710_3-xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1194440/20260710_3.pdf",
+  "sha256": "7fc18c8689c29a40d0b48aafb5f1f134884ad6952aaf6f9a76e338239a7a7f6d",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 0,
+     "nein": 204,
+     "enthalten": 0,
+     "nicht_abgegeben": 4
+    },
+    "present": 204,
+    "active": 204,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 137,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "present": 137,
+    "active": 137,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 0,
+     "nein": 114,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "present": 114,
+    "active": 114,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 78,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "present": 78,
+    "active": 78,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 56,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 8
+    },
+    "present": 56,
+    "active": 56,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 2,
+    "active": 2,
+    "direction": 0.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 0.5,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2026-07-10-s90-a4",
+  "date": "2026-07-10",
+  "title": "Dritter Entschließungsantrag der Linken zur GKV-Finanzreform",
+  "session": "90",
+  "vote_number": "4",
+  "source_url": "https://www.bundestag.de/resource/blob/1194464/20260710_4-xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1194442/20260710_4.pdf",
+  "sha256": "069411bd0bf4670d76b90128d6fb4c4d800c95a71e1f6a0d6d83c85961a5d48e",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 0,
+     "nein": 205,
+     "enthalten": 0,
+     "nicht_abgegeben": 3
+    },
+    "present": 205,
+    "active": 205,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 134,
+     "enthalten": 0,
+     "nicht_abgegeben": 16
+    },
+    "present": 134,
+    "active": 134,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 0,
+     "nein": 116,
+     "enthalten": 0,
+     "nicht_abgegeben": 4
+    },
+    "present": 116,
+    "active": 116,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 1,
+     "nein": 0,
+     "enthalten": 75,
+     "nicht_abgegeben": 9
+    },
+    "present": 76,
+    "active": 1,
+    "direction": 1.0,
+    "participation": 0.0132,
+    "item_weight": 0.0,
+    "fci": 0.9868,
+    "excluded_unified_abstention": true
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 55,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 55,
+    "active": 55,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 1,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 2,
+    "active": 2,
+    "direction": 0.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 0.5,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2026-07-10-s90-a5",
+  "date": "2026-07-10",
+  "title": "Vierter Entschließungsantrag der Linken zur GKV-Finanzreform",
+  "session": "90",
+  "vote_number": "5",
+  "source_url": "https://www.bundestag.de/resource/blob/1194466/20260710_5-xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1194444/20260710_5.pdf",
+  "sha256": "d8acc5afae509bd7e9b5d8df67a436bfd3e62bc865b5c6137a607989d1e2d195",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 0,
+     "nein": 207,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 207,
+    "active": 207,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 129,
+     "nein": 2,
+     "enthalten": 6,
+     "nicht_abgegeben": 13
+    },
+    "present": 137,
+    "active": 131,
+    "direction": 0.9695,
+    "participation": 0.9562,
+    "item_weight": 0.9562,
+    "fci": 0.9416,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 0,
+     "nein": 117,
+     "enthalten": 0,
+     "nicht_abgegeben": 3
+    },
+    "present": 117,
+    "active": 117,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 81,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 4
+    },
+    "present": 81,
+    "active": 81,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 55,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 55,
+    "active": 55,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 2,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 2,
+    "active": 2,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2026-07-10-s90-a6",
+  "date": "2026-07-10",
+  "title": "Ablehnung des Antrags der Linken „Krankenversicherte entlasten, nicht belasten“",
+  "session": "90",
+  "vote_number": "6",
+  "source_url": "https://www.bundestag.de/resource/blob/1194468/20260710_6-xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1194446/20260710_6.pdf",
+  "sha256": "430d6136ab39d437e6e3a47f2ddab15e8559c053d3de3f1d4c0289330c59b800",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 204,
+     "nein": 2,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "present": 206,
+    "active": 206,
+    "direction": 0.9806,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 0.9903,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 137,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 13
+    },
+    "present": 137,
+    "active": 137,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 116,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 4
+    },
+    "present": 116,
+    "active": 116,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 81,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 4
+    },
+    "present": 81,
+    "active": 81,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 54,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "present": 54,
+    "active": 54,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 1,
+     "nein": 0,
+     "enthalten": 1,
+     "nicht_abgegeben": 1
+    },
+    "present": 2,
+    "active": 1,
+    "direction": 1.0,
+    "participation": 0.5,
+    "item_weight": 0.5,
+    "fci": 0.5,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2026-07-10-s90-a7",
+  "date": "2026-07-10",
+  "title": "Änderung des Gebäudeenergiegesetz",
+  "session": "90",
+  "vote_number": "7",
+  "source_url": "https://www.bundestag.de/resource/blob/1194636/20260710_7-xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1194638/20260710_7.pdf",
+  "sha256": "9bbbec7686f29800ca57c3948be8a7e09a88828b18d684dc6d1d64ae13190961",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 207,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 207,
+    "active": 207,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 136,
+     "enthalten": 0,
+     "nicht_abgegeben": 14
+    },
+    "present": 136,
+    "active": 136,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 116,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 4
+    },
+    "present": 116,
+    "active": 116,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 79,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "present": 79,
+    "active": 79,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 54,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "present": 54,
+    "active": 54,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 0,
+     "nein": 2,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 2,
+    "active": 2,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2026-07-10-s90-a8",
+  "date": "2026-07-10",
+  "title": "Sportfördergesetz der Bundesregierung",
+  "session": "90",
+  "vote_number": "8",
+  "source_url": "https://www.bundestag.de/resource/blob/1194616/20260710_8-xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1194614/20260710_8.pdf",
+  "sha256": "e737eaf8eee464c7f54c188e73e2a90c846aec3db2c58a64f0b4d58f21330ff9",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 202,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 6
+    },
+    "present": 202,
+    "active": 202,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 124,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 26
+    },
+    "present": 124,
+    "active": 124,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 115,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 5
+    },
+    "present": 115,
+    "active": 115,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 76,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 76,
+    "active": 76,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 43,
+     "enthalten": 0,
+     "nicht_abgegeben": 21
+    },
+    "present": 43,
+    "active": 43,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 2,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 1
+    },
+    "present": 2,
+    "active": 2,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ },
+ {
+  "vote_id": "2026-11-26-s43-a1",
+  "date": "2026-11-26",
+  "title": "Haushalt 2026: Geschäftsbereich des Bundeskanzleramts",
+  "session": "43",
+  "vote_number": "1",
+  "source_url": "https://www.bundestag.de/resource/blob/1127948/20251126_1_xls.xlsx",
+  "pdf_url": "https://www.bundestag.de/resource/blob/1127946/20251126_1.pdf",
+  "sha256": "6b22abe81f2b192ad2fd5f9d115f708b906ac0c6a9001f648577416b492712d5",
+  "drucksachen": [],
+  "fraktion_aggregates": {
+   "CDU/CSU": {
+    "counts": {
+     "ja": 204,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 4
+    },
+    "present": 204,
+    "active": 204,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "AfD": {
+    "counts": {
+     "ja": 0,
+     "nein": 141,
+     "enthalten": 0,
+     "nicht_abgegeben": 10
+    },
+    "present": 141,
+    "active": 141,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "SPD": {
+    "counts": {
+     "ja": 118,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 2
+    },
+    "present": 118,
+    "active": 118,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "BÜ90/GR": {
+    "counts": {
+     "ja": 0,
+     "nein": 78,
+     "enthalten": 0,
+     "nicht_abgegeben": 7
+    },
+    "present": 78,
+    "active": 78,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Die Linke": {
+    "counts": {
+     "ja": 0,
+     "nein": 55,
+     "enthalten": 0,
+     "nicht_abgegeben": 9
+    },
+    "present": 55,
+    "active": 55,
+    "direction": -1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   },
+   "Fraktionslos": {
+    "counts": {
+     "ja": 2,
+     "nein": 0,
+     "enthalten": 0,
+     "nicht_abgegeben": 0
+    },
+    "present": 2,
+    "active": 2,
+    "direction": 1.0,
+    "participation": 1.0,
+    "item_weight": 1.0,
+    "fci": 1.0,
+    "excluded_unified_abstention": false
+   }
+  }
+ }
+]

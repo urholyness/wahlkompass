@@ -1,0 +1,11 @@
+[
+ {
+  "vote_id": "2026-07-09-s89-a1",
+  "statement": "tempolimit",
+  "alignment": 1,
+  "confidence": "high",
+  "coding": "manual-highconfidence",
+  "coder_note": "Roll call on the Grünen Gesetzentwurf to introduce a general 130 km/h motorway speed limit (Drs. 21/5319, geändert 21/6734); abgelehnt. A Ja affirms the statement 'Tempolimit soll eingeführt werden'. Single-axis proposition: a Nein is unambiguously 'against a speed limit' for every Fraktion (no party opposes from a stricter-limit side that voted Nein), so the sign is clean for all parties. Grüne/Linke Ja (+1), CDU/CSU/SPD/AfD Nein (-1).",
+  "source": "abgeordnetenwatch poll intro + DIP Vorgang 21/5319"
+ }
+]
