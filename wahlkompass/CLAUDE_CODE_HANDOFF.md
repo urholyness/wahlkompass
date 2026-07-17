@@ -16,6 +16,18 @@ data**, Germany only.
 
 ---
 
+## Connecting accounts (GitHub + Cloudflare) — George's only manual bits
+George HAS a Cloudflare account + a DIP key, and will NOT run CLI commands.
+George does manually: (a) create a GitHub account + an **empty private** repo
+`wahlkompass`; (b) approve one or two browser auth prompts; (c) paste secrets
+into GitHub when asked. **Everything else is YOU.**
+
+- **GitHub push:** `git init`, add remote `https://github.com/<george>/wahlkompass.git`, push. Authenticate via `gh auth login` (George clicks authorize) or a fine-grained PAT he provides (repo Contents: read/write). `.gitignore` + `.env.example` are in the tree; **never commit `.env`**.
+- **Cloudflare — two ways:**
+  - *Direct Upload* (fastest first live, no Git needed): `npx wrangler pages deploy frontend/dist --project-name wahlkompass`. First run triggers `wrangler login` (George clicks Allow), or use `CLOUDFLARE_API_TOKEN` + `CLOUDFLARE_ACCOUNT_ID` from env (token permission: **Account › Cloudflare Pages › Edit**; Account ID is in the dashboard URL / Workers & Pages sidebar).
+  - *Git-connected Pages* (auto-deploy): once the repo is on GitHub, George connects it in the dashboard (**Workers & Pages → Create → Pages → Connect to Git → `wahlkompass` → build output dir `frontend/dist`**, no build command). Then every push auto-deploys. Serve the signed bundle from the same origin; never off raw GitHub URLs.
+- **Nightly refresh (CI):** a GitHub Action (open egress) runs ingest → release_builder → build_frontend → reproduce → tests → commit `frontend/dist` (Git-connected Pages auto-deploys) or `wrangler pages deploy`. Repo secrets George pastes at GitHub → Settings → Secrets → Actions: `DIP_API_KEY` (+ `CLOUDFLARE_API_TOKEN`/`CLOUDFLARE_ACCOUNT_ID` if deploying via wrangler in CI).
+
 ## What this is
 Wahlkompass — a belegbasierter (evidence-based) Wahlkompass. A citizen answers
 ~32 concrete policy statements; the tool scores every party by evidence-derived
