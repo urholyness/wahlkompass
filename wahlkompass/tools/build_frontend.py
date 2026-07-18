@@ -157,6 +157,8 @@ button{font-family:inherit}
   .desknav a:hover:not(.on){background:var(--soft)}
   .deskmain{padding:26px 30px;overflow-x:auto}
   .frage-wrap{max-width:560px;margin:0 auto}
+  .heroLimit{max-width:680px}
+  .heroLimit .pad{padding-left:0;padding-right:0;min-height:calc(100vh - 90px)!important}
   .mobnav{display:none}
 }
 </style>
@@ -265,20 +267,21 @@ function deskNav(){
 }
 function render(){
   const app=document.getElementById("app"); app.innerHTML="";
-  app.className = "app" + (ANALYSIS.includes(S.screen)?" analysis":"");
+  app.className = "app analysis";
   const banner = meta.preview ? `<div class="preview-banner"><b>VORSCHAU</b> ${meta.preview_label_de}</div>` : "";
-  let body;
-  if(ANALYSIS.includes(S.screen)){
-    const mobnav=`<nav class="mobnav">${NAV.map(([k,l])=>`<a data-go="${k}" class="${S.screen===k?'on':''}">${l}</a>`).join("")}</nav>`;
-    body = `<div class="deskshell">${deskNav()}<main class="deskmain">${mobnav}${screenOf()}</main></div>`;
-  } else if(S.screen==="frage"){
-    body = `<div class="frage-wrap">${screenOf()}</div>`;
-  } else {
-    body = screenOf();
-  }
+  const isAnalysis=ANALYSIS.includes(S.screen);
+  // Desktop terminal chrome (the left nav rail) is present on EVERY screen at
+  // >=900px so the desktop experience is visible on landing, not just after a
+  // click. On mobile the rail is display:none and the shell collapses to one
+  // column, so phones keep the focused single-column flow.
+  const mobnav = isAnalysis ? `<nav class="mobnav">${NAV.map(([k,l])=>`<a data-go="${k}" class="${S.screen===k?'on':''}">${l}</a>`).join("")}</nav>` : "";
+  const inner = S.screen==="frage" ? `<div class="frage-wrap">${screenOf()}</div>`
+    : S.screen==="start" ? `<div class="heroLimit">${screenOf()}</div>`
+    : screenOf();
+  const body = `<div class="deskshell">${deskNav()}<main class="deskmain">${mobnav}${inner}</main></div>`;
   const tpl=document.createElement("template"); tpl.innerHTML=(banner+body).trim();
   app.append(...tpl.content.childNodes);
-  if(ANALYSIS.includes(S.screen)) location.hash = "/"+S.screen;
+  if(isAnalysis) location.hash = "/"+S.screen;
   bind();
   window.scrollTo(0,0);
 }
