@@ -12,20 +12,48 @@
     "evidence_ids": []
   },
   "fdp:schuldenbremse": {
-    "p": null,
-    "evidence_ids": []
+    "p": -1.0,
+    "confidence": 0.3563,
+    "p_said": -1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-fdp-schuldenbremse"
+    ],
+    "salience": "hoch"
   },
   "gruene:schuldenbremse": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.3639,
+    "p_said": 1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-gruene-schuldenbremse"
+    ],
+    "salience": "hoch"
   },
   "linke:schuldenbremse": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.3628,
+    "p_said": 1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-linke-schuldenbremse"
+    ],
+    "salience": "hoch"
   },
   "spd:schuldenbremse": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.3618,
+    "p_said": 1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-spd-schuldenbremse"
+    ],
+    "salience": "hoch"
   },
   "volt:schuldenbremse": {
     "p": null,
@@ -40,24 +68,59 @@
     "evidence_ids": []
   },
   "cdu:mindestlohn-15": {
-    "p": null,
-    "evidence_ids": []
+    "p": -1.0,
+    "confidence": 0.3584,
+    "p_said": -1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-cdu-mindestlohn-15"
+    ],
+    "salience": "hoch"
   },
   "fdp:mindestlohn-15": {
-    "p": null,
-    "evidence_ids": []
+    "p": -1.0,
+    "confidence": 0.3563,
+    "p_said": -1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-fdp-mindestlohn-15"
+    ],
+    "salience": "hoch"
   },
   "gruene:mindestlohn-15": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.3639,
+    "p_said": 1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-gruene-mindestlohn-15"
+    ],
+    "salience": "hoch"
   },
   "linke:mindestlohn-15": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.3628,
+    "p_said": 1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-linke-mindestlohn-15"
+    ],
+    "salience": "hoch"
   },
   "spd:mindestlohn-15": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.3618,
+    "p_said": 1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-spd-mindestlohn-15"
+    ],
+    "salience": "hoch"
   },
   "volt:mindestlohn-15": {
     "p": null,
@@ -80,51 +143,62 @@
   },
   "cdu:tempolimit": {
     "p": -1.0,
-    "confidence": 0.5165,
-    "p_said": null,
+    "confidence": 0.6898,
+    "p_said": -1.0,
     "p_did": -1.0,
     "divergent": false,
     "evidence_ids": [
-      "t1-2026-07-09-s89-a1-cdu-tempolimit"
+      "t1-2026-07-09-s89-a1-cdu-tempolimit",
+      "t2-cdu-tempolimit"
     ],
     "salience": "hoch"
   },
   "fdp:tempolimit": {
-    "p": null,
-    "evidence_ids": []
+    "p": -1.0,
+    "confidence": 0.3563,
+    "p_said": -1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-fdp-tempolimit"
+    ],
+    "salience": "hoch"
   },
   "gruene:tempolimit": {
     "p": 1.0,
-    "confidence": 0.5165,
-    "p_said": null,
+    "confidence": 0.6925,
+    "p_said": 1.0,
     "p_did": 1.0,
     "divergent": false,
     "evidence_ids": [
-      "t1-2026-07-09-s89-a1-gruene-tempolimit"
+      "t1-2026-07-09-s89-a1-gruene-tempolimit",
+      "t2-gruene-tempolimit"
     ],
     "salience": "hoch"
   },
   "linke:tempolimit": {
     "p": 1.0,
-    "confidence": 0.5165,
-    "p_said": null,
+    "confidence": 0.6919,
+    "p_said": 1.0,
     "p_did": 1.0,
     "divergent": false,
     "evidence_ids": [
-      "t1-2026-07-09-s89-a1-linke-tempolimit"
+      "t1-2026-07-09-s89-a1-linke-tempolimit",
+      "t2-linke-tempolimit"
     ],
     "salience": "hoch"
   },
   "spd:tempolimit": {
-    "p": -1.0,
-    "confidence": 0.5165,
-    "p_said": null,
+    "p": -0.2361,
+    "confidence": 0.0195,
+    "p_said": 1.0,
     "p_did": -1.0,
-    "divergent": false,
+    "divergent": true,
     "evidence_ids": [
-      "t1-2026-07-09-s89-a1-spd-tempolimit"
+      "t1-2026-07-09-s89-a1-spd-tempolimit",
+      "t2-spd-tempolimit"
     ],
-    "salience": "hoch"
+    "salience": "gering"
   },
   "volt:tempolimit": {
     "p": null,
@@ -143,20 +217,48 @@
     "evidence_ids": []
   },
   "fdp:klima-2035": {
-    "p": null,
-    "evidence_ids": []
+    "p": -1.0,
+    "confidence": 0.3563,
+    "p_said": -1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-fdp-klima-2035"
+    ],
+    "salience": "hoch"
   },
   "gruene:klima-2035": {
-    "p": null,
-    "evidence_ids": []
+    "p": -0.5,
+    "confidence": 0.3639,
+    "p_said": -0.5,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-gruene-klima-2035"
+    ],
+    "salience": "mittel"
   },
   "linke:klima-2035": {
-    "p": null,
-    "evidence_ids": []
+    "p": -0.5,
+    "confidence": 0.3628,
+    "p_said": -0.5,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-linke-klima-2035"
+    ],
+    "salience": "mittel"
   },
   "spd:klima-2035": {
-    "p": null,
-    "evidence_ids": []
+    "p": -0.5,
+    "confidence": 0.3618,
+    "p_said": -0.5,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-spd-klima-2035"
+    ],
+    "salience": "mittel"
   },
   "volt:klima-2035": {
     "p": null,
@@ -171,24 +273,63 @@
     "evidence_ids": []
   },
   "cdu:buergergeld": {
-    "p": null,
-    "evidence_ids": []
+    "p": -1.0,
+    "confidence": 0.6765,
+    "p_said": -1.0,
+    "p_did": -1.0,
+    "divergent": false,
+    "evidence_ids": [
+      "t1-2026-03-05-s62-a1-cdu-buergergeld",
+      "t2-cdu-buergergeld"
+    ],
+    "salience": "hoch"
   },
   "fdp:buergergeld": {
-    "p": null,
-    "evidence_ids": []
+    "p": -1.0,
+    "confidence": 0.3563,
+    "p_said": -1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-fdp-buergergeld"
+    ],
+    "salience": "hoch"
   },
   "gruene:buergergeld": {
-    "p": null,
-    "evidence_ids": []
+    "p": 0.8011,
+    "confidence": 0.513,
+    "p_said": 0.5,
+    "p_did": 1.0,
+    "divergent": false,
+    "evidence_ids": [
+      "t1-2026-03-05-s62-a1-gruene-buergergeld",
+      "t2-gruene-buergergeld"
+    ],
+    "salience": "hoch"
   },
   "linke:buergergeld": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.6787,
+    "p_said": 1.0,
+    "p_did": 1.0,
+    "divergent": false,
+    "evidence_ids": [
+      "t1-2026-03-05-s62-a1-linke-buergergeld",
+      "t2-linke-buergergeld"
+    ],
+    "salience": "hoch"
   },
   "spd:buergergeld": {
-    "p": null,
-    "evidence_ids": []
+    "p": -0.7998,
+    "confidence": 0.5091,
+    "p_said": -0.5,
+    "p_did": -1.0,
+    "divergent": false,
+    "evidence_ids": [
+      "t1-2026-03-05-s62-a1-spd-buergergeld",
+      "t2-spd-buergergeld"
+    ],
+    "salience": "hoch"
   },
   "volt:buergergeld": {
     "p": null,
@@ -203,24 +344,59 @@
     "evidence_ids": []
   },
   "cdu:rente-63": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.3584,
+    "p_said": 1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-cdu-rente-63"
+    ],
+    "salience": "hoch"
   },
   "fdp:rente-63": {
-    "p": null,
-    "evidence_ids": []
+    "p": -0.5,
+    "confidence": 0.3563,
+    "p_said": -0.5,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-fdp-rente-63"
+    ],
+    "salience": "mittel"
   },
   "gruene:rente-63": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.3639,
+    "p_said": 1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-gruene-rente-63"
+    ],
+    "salience": "hoch"
   },
   "linke:rente-63": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.3628,
+    "p_said": 1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-linke-rente-63"
+    ],
+    "salience": "hoch"
   },
   "spd:rente-63": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.3618,
+    "p_said": 1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-spd-rente-63"
+    ],
+    "salience": "hoch"
   },
   "volt:rente-63": {
     "p": null,
@@ -239,52 +415,124 @@
     "evidence_ids": []
   },
   "fdp:wehrpflicht": {
-    "p": null,
-    "evidence_ids": []
+    "p": -1.0,
+    "confidence": 0.3563,
+    "p_said": -1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-fdp-wehrpflicht"
+    ],
+    "salience": "hoch"
   },
   "gruene:wehrpflicht": {
-    "p": null,
-    "evidence_ids": []
+    "p": -1.0,
+    "confidence": 0.3639,
+    "p_said": -1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-gruene-wehrpflicht"
+    ],
+    "salience": "hoch"
   },
   "linke:wehrpflicht": {
-    "p": null,
-    "evidence_ids": []
+    "p": -1.0,
+    "confidence": 0.3628,
+    "p_said": -1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-linke-wehrpflicht"
+    ],
+    "salience": "hoch"
   },
   "spd:wehrpflicht": {
-    "p": null,
-    "evidence_ids": []
+    "p": -1.0,
+    "confidence": 0.3618,
+    "p_said": -1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-spd-wehrpflicht"
+    ],
+    "salience": "hoch"
   },
   "volt:wehrpflicht": {
     "p": null,
     "evidence_ids": []
   },
   "afd:waffen-ukraine": {
-    "p": null,
-    "evidence_ids": []
+    "p": -1.0,
+    "confidence": 0.5164,
+    "p_said": null,
+    "p_did": -1.0,
+    "divergent": false,
+    "evidence_ids": [
+      "t1-2026-07-08-s88-a1-afd-waffen-ukraine"
+    ],
+    "salience": "hoch"
   },
   "bsw:waffen-ukraine": {
     "p": null,
     "evidence_ids": []
   },
   "cdu:waffen-ukraine": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.3584,
+    "p_said": 1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-cdu-waffen-ukraine"
+    ],
+    "salience": "hoch"
   },
   "fdp:waffen-ukraine": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.3563,
+    "p_said": 1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-fdp-waffen-ukraine"
+    ],
+    "salience": "hoch"
   },
   "gruene:waffen-ukraine": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.6895,
+    "p_said": 1.0,
+    "p_did": 1.0,
+    "divergent": false,
+    "evidence_ids": [
+      "t1-2026-07-08-s88-a1-gruene-waffen-ukraine",
+      "t2-gruene-waffen-ukraine"
+    ],
+    "salience": "hoch"
   },
   "linke:waffen-ukraine": {
-    "p": null,
-    "evidence_ids": []
+    "p": -1.0,
+    "confidence": 0.6918,
+    "p_said": -1.0,
+    "p_did": -1.0,
+    "divergent": false,
+    "evidence_ids": [
+      "t1-2026-07-08-s88-a1-linke-waffen-ukraine",
+      "t2-linke-waffen-ukraine"
+    ],
+    "salience": "hoch"
   },
   "spd:waffen-ukraine": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.3618,
+    "p_said": 1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-spd-waffen-ukraine"
+    ],
+    "salience": "hoch"
   },
   "volt:waffen-ukraine": {
     "p": null,
@@ -299,24 +547,59 @@
     "evidence_ids": []
   },
   "cdu:asyl-drittstaaten": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.3584,
+    "p_said": 1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-cdu-asyl-drittstaaten"
+    ],
+    "salience": "hoch"
   },
   "fdp:asyl-drittstaaten": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.3563,
+    "p_said": 1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-fdp-asyl-drittstaaten"
+    ],
+    "salience": "hoch"
   },
   "gruene:asyl-drittstaaten": {
-    "p": null,
-    "evidence_ids": []
+    "p": -1.0,
+    "confidence": 0.3639,
+    "p_said": -1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-gruene-asyl-drittstaaten"
+    ],
+    "salience": "hoch"
   },
   "linke:asyl-drittstaaten": {
-    "p": null,
-    "evidence_ids": []
+    "p": -1.0,
+    "confidence": 0.3628,
+    "p_said": -1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-linke-asyl-drittstaaten"
+    ],
+    "salience": "hoch"
   },
   "spd:asyl-drittstaaten": {
-    "p": null,
-    "evidence_ids": []
+    "p": -1.0,
+    "confidence": 0.3618,
+    "p_said": -1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-spd-asyl-drittstaaten"
+    ],
+    "salience": "hoch"
   },
   "volt:asyl-drittstaaten": {
     "p": null,
@@ -335,20 +618,48 @@
     "evidence_ids": []
   },
   "fdp:fachkraefte": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.3563,
+    "p_said": 1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-fdp-fachkraefte"
+    ],
+    "salience": "hoch"
   },
   "gruene:fachkraefte": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.3639,
+    "p_said": 1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-gruene-fachkraefte"
+    ],
+    "salience": "hoch"
   },
   "linke:fachkraefte": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.3628,
+    "p_said": 1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-linke-fachkraefte"
+    ],
+    "salience": "hoch"
   },
   "spd:fachkraefte": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.3618,
+    "p_said": 1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-spd-fachkraefte"
+    ],
+    "salience": "hoch"
   },
   "volt:fachkraefte": {
     "p": null,
@@ -367,20 +678,48 @@
     "evidence_ids": []
   },
   "fdp:vermoegensteuer": {
-    "p": null,
-    "evidence_ids": []
+    "p": -1.0,
+    "confidence": 0.3563,
+    "p_said": -1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-fdp-vermoegensteuer"
+    ],
+    "salience": "hoch"
   },
   "gruene:vermoegensteuer": {
-    "p": null,
-    "evidence_ids": []
+    "p": 0.5,
+    "confidence": 0.3639,
+    "p_said": 0.5,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-gruene-vermoegensteuer"
+    ],
+    "salience": "mittel"
   },
   "linke:vermoegensteuer": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.3628,
+    "p_said": 1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-linke-vermoegensteuer"
+    ],
+    "salience": "hoch"
   },
   "spd:vermoegensteuer": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.3618,
+    "p_said": 1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-spd-vermoegensteuer"
+    ],
+    "salience": "hoch"
   },
   "volt:vermoegensteuer": {
     "p": null,
@@ -399,20 +738,48 @@
     "evidence_ids": []
   },
   "fdp:cannabis": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.3563,
+    "p_said": 1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-fdp-cannabis"
+    ],
+    "salience": "hoch"
   },
   "gruene:cannabis": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.3639,
+    "p_said": 1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-gruene-cannabis"
+    ],
+    "salience": "hoch"
   },
   "linke:cannabis": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.3628,
+    "p_said": 1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-linke-cannabis"
+    ],
+    "salience": "hoch"
   },
   "spd:cannabis": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.3618,
+    "p_said": 1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-spd-cannabis"
+    ],
+    "salience": "hoch"
   },
   "volt:cannabis": {
     "p": null,
@@ -431,12 +798,26 @@
     "evidence_ids": []
   },
   "fdp:eurobonds": {
-    "p": null,
-    "evidence_ids": []
+    "p": -1.0,
+    "confidence": 0.3563,
+    "p_said": -1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-fdp-eurobonds"
+    ],
+    "salience": "hoch"
   },
   "gruene:eurobonds": {
-    "p": null,
-    "evidence_ids": []
+    "p": 0.5,
+    "confidence": 0.3639,
+    "p_said": 0.5,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-gruene-eurobonds"
+    ],
+    "salience": "mittel"
   },
   "linke:eurobonds": {
     "p": null,
@@ -463,16 +844,37 @@
     "evidence_ids": []
   },
   "fdp:vorratsdaten": {
-    "p": null,
-    "evidence_ids": []
+    "p": -1.0,
+    "confidence": 0.3563,
+    "p_said": -1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-fdp-vorratsdaten"
+    ],
+    "salience": "hoch"
   },
   "gruene:vorratsdaten": {
-    "p": null,
-    "evidence_ids": []
+    "p": -1.0,
+    "confidence": 0.3639,
+    "p_said": -1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-gruene-vorratsdaten"
+    ],
+    "salience": "hoch"
   },
   "linke:vorratsdaten": {
-    "p": null,
-    "evidence_ids": []
+    "p": -1.0,
+    "confidence": 0.3628,
+    "p_said": -1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-linke-vorratsdaten"
+    ],
+    "salience": "hoch"
   },
   "spd:vorratsdaten": {
     "p": null,
@@ -491,24 +893,63 @@
     "evidence_ids": []
   },
   "cdu:heizungsgesetz": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.6899,
+    "p_said": 1.0,
+    "p_did": 1.0,
+    "divergent": false,
+    "evidence_ids": [
+      "t1-2026-07-10-s90-a7-cdu-heizungsgesetz",
+      "t2-cdu-heizungsgesetz"
+    ],
+    "salience": "hoch"
   },
   "fdp:heizungsgesetz": {
-    "p": null,
-    "evidence_ids": []
+    "p": 1.0,
+    "confidence": 0.3563,
+    "p_said": 1.0,
+    "p_did": null,
+    "divergent": false,
+    "evidence_ids": [
+      "t2-fdp-heizungsgesetz"
+    ],
+    "salience": "hoch"
   },
   "gruene:heizungsgesetz": {
-    "p": null,
-    "evidence_ids": []
+    "p": -1.0,
+    "confidence": 0.6926,
+    "p_said": -1.0,
+    "p_did": -1.0,
+    "divergent": false,
+    "evidence_ids": [
+      "t1-2026-07-10-s90-a7-gruene-heizungsgesetz",
+      "t2-gruene-heizungsgesetz"
+    ],
+    "salience": "hoch"
   },
   "linke:heizungsgesetz": {
-    "p": null,
-    "evidence_ids": []
+    "p": -0.8087,
+    "confidence": 0.5239,
+    "p_said": -0.5,
+    "p_did": -1.0,
+    "divergent": false,
+    "evidence_ids": [
+      "t1-2026-07-10-s90-a7-linke-heizungsgesetz",
+      "t2-linke-heizungsgesetz"
+    ],
+    "salience": "hoch"
   },
   "spd:heizungsgesetz": {
-    "p": null,
-    "evidence_ids": []
+    "p": 0.4272,
+    "confidence": 0.1876,
+    "p_said": -0.5,
+    "p_did": 1.0,
+    "divergent": true,
+    "evidence_ids": [
+      "t1-2026-07-10-s90-a7-spd-heizungsgesetz",
+      "t2-spd-heizungsgesetz"
+    ],
+    "salience": "mittel"
   },
   "volt:heizungsgesetz": {
     "p": null,

@@ -1,0 +1,628 @@
+{
+ "cdu": {
+  "items": [
+   {
+    "statement": "schuldenbremse",
+    "direction": -1,
+    "quote": "Wir halten an der Schuldenbremse des Grundgesetzes fest. Die Schulden von heute sind die Steuererhöhungen von morgen.",
+    "page": "10",
+    "source_url": "https://www.cdu.de/app/uploads/2025/01/km_btw_2025_wahlprogramm_langfassung_ansicht.pdf",
+    "rationale": "Explicit commitment to keeping the Schuldenbremse unchanged rejects reforming it for higher state investment."
+   },
+   {
+    "statement": "mindestlohn-15",
+    "direction": -1,
+    "quote": "Wir stehen zum gesetzlichen Mindestlohn und der unabhängigen Mindestlohnkommission. Lohnfindung muss weiterhin Sache der Sozialpartner sein und nicht der Politik. Einen politischen Mindestlohn lehnen wir ab.",
+    "page": "32",
+    "source_url": "https://www.cdu.de/app/uploads/2025/01/km_btw_2025_wahlprogramm_langfassung_ansicht.pdf",
+    "rationale": "Rejecting a politically set minimum wage and deferring to the independent commission opposes a legislated rise to 15 euros."
+   },
+   {
+    "statement": "tempolimit",
+    "direction": -1,
+    "quote": "Anti-Auto-Haltung, Fahrverbote für Innenstädte, das Umwidmen von Parkplätzen und ein generelles Tempolimit auf deutschen Autobahnen lehnen wir ab.",
+    "page": "74",
+    "source_url": "https://www.cdu.de/app/uploads/2025/01/km_btw_2025_wahlprogramm_langfassung_ansicht.pdf",
+    "rationale": "Explicit rejection of a general Autobahn speed limit ('lehnen wir ab')."
+   },
+   {
+    "statement": "klima-2035",
+    "direction": -1,
+    "quote": "Pariser Klimaziele einhalten. Die Klimaneutralität bis 2045 haben wir fest im Blick.",
+    "page": "23",
+    "source_url": "https://www.cdu.de/app/uploads/2025/01/km_btw_2025_wahlprogramm_langfassung_ansicht.pdf",
+    "rationale": "The programme commits to climate neutrality by 2045, not 2035, thereby opposing the earlier 2035 target."
+   },
+   {
+    "statement": "buergergeld",
+    "direction": -1,
+    "quote": "Das sogenannte „Bürgergeld“ in der jetzigen Form schaffen wir ab und ersetzen es durch eine Neue Grundsicherung.",
+    "page": "31",
+    "source_url": "https://www.cdu.de/app/uploads/2025/01/km_btw_2025_wahlprogramm_langfassung_ansicht.pdf",
+    "rationale": "Abolishing the Bürgergeld and reintroducing stricter sanctions is the opposite of raising it and dismantling sanctions."
+   },
+   {
+    "statement": "rente-63",
+    "direction": 1,
+    "quote": "Die Regelung für besonders langjährige Versicherte mit 45 Versicherungsjahren behalten wir mit Blick auf die Planungssicherheit für Unternehmen und rentennahe Jahrgänge bei.",
+    "page": "34",
+    "source_url": "https://www.cdu.de/app/uploads/2025/01/km_btw_2025_wahlprogramm_langfassung_ansicht.pdf",
+    "rationale": "Explicitly keeps the deduction-free early retirement rule after 45 contribution years, supporting the statement."
+   },
+   {
+    "statement": "wehrpflicht",
+    "direction": 1,
+    "quote": "Aufwachsende Wehrpflicht einführen. Wir setzen perspektivisch auf ein verpflichtendes Gesellschaftsjahr, das wir mit der aufwachsenden Wehrpflicht zusammendenken.",
+    "page": "52",
+    "source_url": "https://www.cdu.de/app/uploads/2025/01/km_btw_2025_wahlprogramm_langfassung_ansicht.pdf",
+    "rationale": "Explicit call to introduce conscription again, albeit in a phased ('aufwachsend') model, supports reintroducing the Wehrpflicht."
+   },
+   {
+    "statement": "waffen-ukraine",
+    "direction": 1,
+    "quote": "Daher unterstützen wir die Ukraine mit allen erforderlichen diplomatischen, finanziellen und humanitären Mitteln sowie mit Waffenlieferungen. Sie muss ihr Selbstverteidigungsrecht ausüben können.",
+    "page": "47",
+    "source_url": "https://www.cdu.de/app/uploads/2025/01/km_btw_2025_wahlprogramm_langfassung_ansicht.pdf",
+    "rationale": "Clear commitment to continued weapons deliveries ('Waffenlieferungen') with all necessary means supports continuing arms supplies to Ukraine."
+   },
+   {
+    "statement": "asyl-drittstaaten",
+    "direction": 1,
+    "quote": "Jeder, der in Europa Asyl beantragt, soll in einen sicheren Drittstaat überführt werden und dort ein Asylverfahren durchlaufen.",
+    "page": "44",
+    "source_url": "https://www.cdu.de/app/uploads/2025/01/km_btw_2025_wahlprogramm_langfassung_ansicht.pdf",
+    "rationale": "Directly demands transferring asylum applicants to safe third countries for their procedures — clear support."
+   },
+   {
+    "statement": "fachkraefte",
+    "direction": 1,
+    "quote": "Ausländische Fachkräfte gewinnen. Dabei ist eine gute Qualifikation von zentraler Bedeutung. So kann dauerhafte Beschäftigung erreicht werden. Den Fokus legen wir auf die vereinfachte und beschleunigte Anerkennung ausländischer Berufsqualifikationen.",
+    "page": "15",
+    "source_url": "https://www.cdu.de/app/uploads/2025/01/km_btw_2025_wahlprogramm_langfassung_ansicht.pdf",
+    "rationale": "Wants to win foreign skilled workers via simplified, accelerated recognition (plus a digital 'Work-and-Stay-Agentur'), supporting easier skilled immigration."
+   },
+   {
+    "statement": "vermoegensteuer",
+    "direction": -1,
+    "quote": "Keine Vermögensteuer. Wir wollen Menschen, die sich etwas erarbeitet und aufgebaut haben, nicht bestrafen. Stattdessen wollen wir alle Menschen beim Aufbau eines eigenen Vermögens unterstützen. Eine Vermögensteuer lehnen wir ab.",
+    "page": "34",
+    "source_url": "https://www.cdu.de/app/uploads/2025/01/km_btw_2025_wahlprogramm_langfassung_ansicht.pdf",
+    "rationale": "Explicit rejection of any wealth tax opposes reintroducing a Vermögensteuer."
+   },
+   {
+    "statement": "cannabis",
+    "direction": -1,
+    "quote": "Kiffen verboten. Die Ampel ist mit ihrem Cannabis-Gesetz gescheitert. Es begrenzt weder den Konsum, noch drängt es den Schwarzmarkt zurück. Stattdessen erleben wir brutale Bandenkriege. Die Legalisierung dieser Droge nehmen wir deshalb zurück.",
+    "page": "39",
+    "source_url": "https://www.cdu.de/app/uploads/2025/01/km_btw_2025_wahlprogramm_langfassung_ansicht.pdf",
+    "rationale": "Pledges to reverse the cannabis legalization, opposing keeping the partial legalization."
+   },
+   {
+    "statement": "eurobonds",
+    "direction": -1,
+    "quote": "Wir schützen deutsche Sparer. Allen Formen einer Haftung Deutschlands für Schulden anderer EU-Staaten erteilen wir eine klare Absage.",
+    "page": "10",
+    "source_url": "https://www.cdu.de/app/uploads/2025/01/km_btw_2025_wahlprogramm_langfassung_ansicht.pdf",
+    "rationale": "A categorical rejection of any German liability for other EU states' debts rules out joint EU debt/Eurobonds."
+   },
+   {
+    "statement": "vorratsdaten",
+    "direction": 1,
+    "quote": "Mindestdauer-Speicherung von IP-Adressen. Im Kampf gegen schwere Straftaten, wie etwa sexuelle Gewalt gegen Kinder, oder um Terroranschläge zu verhindern, verpflichten wir die Internetanbieter zur Speicherung der IP-Adressen und Portnummern für eine Mindestdauer.",
+    "page": "40",
+    "source_url": "https://www.cdu.de/app/uploads/2025/01/km_btw_2025_wahlprogramm_langfassung_ansicht.pdf",
+    "rationale": "Mandatory suspicionless minimum-duration storage of IP addresses is a form of anlasslose Vorratsdatenspeicherung — clear support."
+   },
+   {
+    "statement": "heizungsgesetz",
+    "direction": 1,
+    "quote": "Das Heizungsgesetz der Ampel schaffen wir ab.",
+    "page": "22",
+    "source_url": "https://www.cdu.de/app/uploads/2025/01/km_btw_2025_wahlprogramm_langfassung_ansicht.pdf",
+    "rationale": "Pledge to abolish the Ampel's Heizungsgesetz directly supports the statement that the law should be taken back."
+   }
+  ],
+  "not_found": [],
+  "party": "cdu",
+  "program_date": "2024-12-17",
+  "program_title": "Politikwechsel für Deutschland. Wahlprogramm von CDU und CSU (Bundestagswahl 2025)",
+  "program_url": "https://www.cdu.de/app/uploads/2025/01/km_btw_2025_wahlprogramm_langfassung_ansicht.pdf"
+ },
+ "fdp": {
+  "party": "fdp",
+  "program_title": "Alles lässt sich ändern. Das Wahlprogramm der Freien Demokraten zur Bundestagswahl 2025",
+  "program_url": "https://www.fdp.de/sites/default/files/2024-12/fdp-wahlprogramm_2025.pdf",
+  "program_date": "2024-12",
+  "items": [
+   {
+    "statement": "schuldenbremse",
+    "direction": -1,
+    "quote": "Daher ist für uns Freie Demokraten die Einhaltung der im Grundgesetz verankerten Schuldenbremse zentrales Gebot der Generationengerechtigkeit.",
+    "page": "35",
+    "source_url": "https://www.fdp.de/sites/default/files/2024-12/fdp-wahlprogramm_2025.pdf",
+    "rationale": "Die FDP fordert die strikte Einhaltung der Schuldenbremse und lehnt damit eine Reform für höhere kreditfinanzierte Investitionen klar ab."
+   },
+   {
+    "statement": "mindestlohn-15",
+    "direction": -1,
+    "quote": "Wir respektieren die Tarifautonomie und lehnen politische Eingriffe in die Arbeit der unabhängigen Mindestlohnkommission ab.",
+    "page": "18",
+    "source_url": "https://www.fdp.de/sites/default/files/2024-12/fdp-wahlprogramm_2025.pdf",
+    "rationale": "Eine gesetzliche Anhebung auf 15 Euro wäre genau der politische Eingriff in die Mindestlohnkommission, den die FDP ausdrücklich ablehnt."
+   },
+   {
+    "statement": "tempolimit",
+    "direction": -1,
+    "quote": "Wir Freie Demokraten lehnen ein generelles Tempolimit auf Autobahnen ab.",
+    "page": "41",
+    "source_url": "https://www.fdp.de/sites/default/files/2024-12/fdp-wahlprogramm_2025.pdf",
+    "rationale": "Explizite Ablehnung eines generellen Tempolimits auf Autobahnen."
+   },
+   {
+    "statement": "klima-2035",
+    "direction": -1,
+    "quote": "wollen wir das Ziel der Klimaneutralität bis 2045 im deutschen Klimaschutzgesetz durch das europäische Ziel der Klimaneutralität bis 2050 ersetzen",
+    "page": "40",
+    "source_url": "https://www.fdp.de/sites/default/files/2024-12/fdp-wahlprogramm_2025.pdf",
+    "rationale": "Die FDP will das Zieljahr sogar von 2045 auf 2050 verschieben — das Gegenteil einer Vorziehung auf 2035."
+   },
+   {
+    "statement": "buergergeld",
+    "direction": -1,
+    "quote": "Der Regelsatz liegt im Jahr 2025 weiter über dem Bedarf. Deshalb wollen wir mit der Abschaffung der sogenannten Besitzstandsregelung die Voraussetzung dafür schaffen, den Regelsatz abzusenken.",
+    "page": "20",
+    "source_url": "https://www.fdp.de/sites/default/files/2024-12/fdp-wahlprogramm_2025.pdf",
+    "rationale": "Die FDP will den Bürgergeld-Regelsatz absenken (und Pflichten verschärfen), nicht erhöhen oder Sanktionen abbauen — klare Ablehnung der Aussage."
+   },
+   {
+    "statement": "rente-63",
+    "direction": -0.5,
+    "quote": "Die Menschen sollen nach schwedischem Vorbild künftig selbst entscheiden, wann der Ruhestand beginnt, sofern dann keine Sozialleistungen beantragt werden müssen. Je später jemand in Rente geht, desto höher die Rente",
+    "page": "21",
+    "source_url": "https://www.fdp.de/sites/default/files/2024-12/fdp-wahlprogramm_2025.pdf",
+    "rationale": "Das flexible Modell mit niedrigerer Rente bei früherem Eintritt ist mit dem Erhalt des abschlagsfreien Renteneintritts mit 63 unvereinbar; die 'Rente mit 63' wird aber nicht namentlich genannt, daher nur -0.5."
+   },
+   {
+    "statement": "wehrpflicht",
+    "direction": -1,
+    "quote": "Die Wiedereinsetzung der allgemeinen Wehrpflicht lehnen wir ab.",
+    "page": "48",
+    "source_url": "https://www.fdp.de/sites/default/files/2024-12/fdp-wahlprogramm_2025.pdf",
+    "rationale": "Explizite Ablehnung der Wiedereinführung der allgemeinen Wehrpflicht; stattdessen Freiwilligenarmee."
+   },
+   {
+    "statement": "waffen-ukraine",
+    "direction": 1,
+    "quote": "Für uns Freie Demokraten steht fest, dass die Verteidigung der Ukraine nicht am Geld und an Waffenlieferungen scheitern darf",
+    "page": "47",
+    "source_url": "https://www.fdp.de/sites/default/files/2024-12/fdp-wahlprogramm_2025.pdf",
+    "rationale": "Klare Zusage fortgesetzter Waffenlieferungen; die FDP fordert im selben Abschnitt sogar die unverzügliche Lieferung des Taurus-Marschflugkörpers."
+   },
+   {
+    "statement": "asyl-drittstaaten",
+    "direction": 1,
+    "quote": "Asylverfahren sollen zudem auch in Drittstaaten stattfinden, wenn Schutzsuchende dort sicher und rechtstaatliche Verfahren gewährleistet sind.",
+    "page": "28",
+    "source_url": "https://www.fdp.de/sites/default/files/2024-12/fdp-wahlprogramm_2025.pdf",
+    "rationale": "Ausdrückliche Unterstützung von Asylverfahren in sicheren Drittstaaten (unter rechtsstaatlichen Bedingungen)."
+   },
+   {
+    "statement": "fachkraefte",
+    "direction": 1,
+    "quote": "Hochqualifizierten Fachkräften wollen wir die Einwanderung in den Arbeitsmarkt weiter erleichtern. Die Europäische Blue Card wollen wir für weitere nicht-akademische Fachkräfte öffnen und die unpraktikablen Verdienstuntergrenzen abschaffen.",
+    "page": "27",
+    "source_url": "https://www.fdp.de/sites/default/files/2024-12/fdp-wahlprogramm_2025.pdf",
+    "rationale": "Explizite Forderung nach weiterer Erleichterung der Fachkräftezuwanderung (Blue-Card-Öffnung, One-Stop-Shop, Abschaffung von Verdienstuntergrenzen)."
+   },
+   {
+    "statement": "vermoegensteuer",
+    "direction": -1,
+    "quote": "Wir lehnen jede Form einer Vermögensteuer oder Vermögensabgabe ab.",
+    "page": "14",
+    "source_url": "https://www.fdp.de/sites/default/files/2024-12/fdp-wahlprogramm_2025.pdf",
+    "rationale": "Explizite Ablehnung jeder Form einer Vermögensteuer, also auch einer Wiedereinführung auf große Vermögen."
+   },
+   {
+    "statement": "cannabis",
+    "direction": 1,
+    "quote": "Wir halten deshalb an der Cannabis-Legalisierung fest.",
+    "page": "34",
+    "source_url": "https://www.fdp.de/sites/default/files/2024-12/fdp-wahlprogramm_2025.pdf",
+    "rationale": "Explizites Festhalten an der Cannabis-Legalisierung, also Beibehaltung der Teil-Legalisierung."
+   },
+   {
+    "statement": "eurobonds",
+    "direction": -1,
+    "quote": "Wir Freie Demokraten sind strikt gegen eine Verschuldungskompetenz der Europäischen Union. Der EU-Wiederaufbaufonds Next Generation EU muss eine einmalige Ausnahme bleiben.",
+    "page": "36",
+    "source_url": "https://www.fdp.de/sites/default/files/2024-12/fdp-wahlprogramm_2025.pdf",
+    "rationale": "Strikte Ablehnung gemeinsamer EU-Schulden und einer europäischen Schuldenunion — klares Nein zu Eurobonds."
+   },
+   {
+    "statement": "vorratsdaten",
+    "direction": -1,
+    "quote": "Wir lehnen Netzsperren, Chatkontrollen, Uploadfilter, die Vorratsdatenspeicherung und andere Formen der anlasslosen Datenerfassung ab.",
+    "page": "24",
+    "source_url": "https://www.fdp.de/sites/default/files/2024-12/fdp-wahlprogramm_2025.pdf",
+    "rationale": "Explizite Ablehnung der anlasslosen Vorratsdatenspeicherung; stattdessen Quick-Freeze-Modell."
+   },
+   {
+    "statement": "heizungsgesetz",
+    "direction": 1,
+    "quote": "Das Heizungsgesetz mit seinen überzogenen Vorgaben muss vollständig auslaufen.",
+    "page": "45",
+    "source_url": "https://www.fdp.de/sites/default/files/2024-12/fdp-wahlprogramm_2025.pdf",
+    "rationale": "Die FDP will das Heizungsgesetz vollständig auslaufen lassen — Unterstützung der geforderten Rücknahme."
+   }
+  ],
+  "not_found": []
+ },
+ "linke": {
+  "party": "linke",
+  "program_title": "Alle wollen regieren. Wir wollen verändern. – Wahlprogramm von Die Linke zur Bundestagswahl 2025 (Langfassung)",
+  "program_url": "https://www.die-linke.de/fileadmin/user_upload/Wahlprogramm_Langfassung_Linke-BTW25_01.pdf",
+  "program_date": "2025-01-18",
+  "items": [
+   {
+    "statement": "schuldenbremse",
+    "direction": 1,
+    "quote": "Wir fordern die Abschaffung der Schuldenbremse. Es muss wieder möglich sein, öffentliche Investitionen in die Infrastruktur, eine klimaneutrale Industrie und den sozialen Ausgleich über Kredite zu finanzieren.",
+    "page": "13",
+    "source_url": "https://www.die-linke.de/fileadmin/user_upload/Wahlprogramm_Langfassung_Linke-BTW25_01.pdf",
+    "rationale": "Die Linke will die Schuldenbremse sogar komplett abschaffen, um kreditfinanzierte Investitionen zu ermöglichen – klare Zustimmung, die über eine Reform hinausgeht."
+   },
+   {
+    "statement": "mindestlohn-15",
+    "direction": 1,
+    "quote": "Der gesetzliche Mindestlohn muss gemäß der Europäischen Richtlinie erhöht werden – auf mindestens 60 Prozent des mittleren Einkommens (Medianlohn). Das wären schon 2025 etwa 15 Euro.",
+    "page": "26",
+    "source_url": "https://www.die-linke.de/fileadmin/user_upload/Wahlprogramm_Langfassung_Linke-BTW25_01.pdf",
+    "rationale": "Fordert explizit rund 15 Euro Mindestlohn schon 2025 (und 16 Euro bis 2026) – klare Zustimmung zur Anhebung auf 15 Euro."
+   },
+   {
+    "statement": "tempolimit",
+    "direction": 1,
+    "quote": "Um Menschen und Klima zu schützen, brauchen wir endlich ein Tempolimit von 120 km/h auf Autobahnen und innerorts Tempo 30 – außer auf Hauptverkehrsachsen.",
+    "page": "37",
+    "source_url": "https://www.die-linke.de/fileadmin/user_upload/Wahlprogramm_Langfassung_Linke-BTW25_01.pdf",
+    "rationale": "Klare Zustimmung zu einem generellen Autobahn-Tempolimit; die Partei fordert mit 120 km/h sogar eine strengere Grenze als 130."
+   },
+   {
+    "statement": "klima-2035",
+    "direction": -0.5,
+    "quote": "Wir wollen Deutschland bis 2040 klimaneutral machen.",
+    "page": "32",
+    "source_url": "https://www.die-linke.de/fileadmin/user_upload/Wahlprogramm_Langfassung_Linke-BTW25_01.pdf",
+    "rationale": "Zieljahr der Linken ist 2040 – ambitionierter als 2045, aber nicht das in der These geforderte Jahr 2035, daher tendenzielle Ablehnung der 2035-Vorgabe."
+   },
+   {
+    "statement": "buergergeld",
+    "direction": 1,
+    "quote": "Wir wollen das Bürgergeld zu einer sanktionsfreien individuellen Mindestsicherung umbauen. Anspruch haben alle, die kein ausreichendes Einkommen oder Vermögen haben. Um Armut zu verhindern, orientieren wir uns an der sogenannten Armutsgefährdungsgrenze, gegenwärtig rund 1.400 Euro monatlich",
+    "page": "15",
+    "source_url": "https://www.die-linke.de/fileadmin/user_upload/Wahlprogramm_Langfassung_Linke-BTW25_01.pdf",
+    "rationale": "Sanktionsfreie Mindestsicherung mit Orientierung an rund 1.400 Euro bedeutet deutliche Erhöhung und kompletten Sanktionsabbau – klare Zustimmung."
+   },
+   {
+    "statement": "rente-63",
+    "direction": 1,
+    "quote": "Wer 40 Jahre lang gearbeitet und selbst Beiträge gezahlt hat, soll ab 60 abschlagsfrei in Rente gehen können.",
+    "page": "15",
+    "source_url": "https://www.die-linke.de/fileadmin/user_upload/Wahlprogramm_Langfassung_Linke-BTW25_01.pdf",
+    "rationale": "Die Linke will abschlagsfreien früheren Renteneintritt sogar ausweiten (ab 60 nach 40 Jahren) – klare Zustimmung zum Erhalt der abschlagsfreien Frührente."
+   },
+   {
+    "statement": "wehrpflicht",
+    "direction": -1,
+    "quote": "Wir stellen uns gegen eine Militarisierung der Gesellschaft: keine Wiedereinführung der Wehrpflicht, kein Werben fürs Sterben an Schulen, auf Bildungsmessen, an Universitäten oder per Briefsendungen.",
+    "page": "23",
+    "source_url": "https://www.die-linke.de/fileadmin/user_upload/Wahlprogramm_Langfassung_Linke-BTW25_01.pdf",
+    "rationale": "Explizite Absage an die Wiedereinführung der Wehrpflicht – klare Ablehnung."
+   },
+   {
+    "statement": "waffen-ukraine",
+    "direction": -1,
+    "quote": "Statt immer mehr Waffenlieferungen braucht es endlich eine gemeinsame Initiative der Bundesregierung und der EU mit China, Brasilien und anderen Staaten des Globalen Südens, um Russland und die Ukraine an den Verhandlungstisch zu bringen.",
+    "page": "21",
+    "source_url": "https://www.die-linke.de/fileadmin/user_upload/Wahlprogramm_Langfassung_Linke-BTW25_01.pdf",
+    "rationale": "Verlangt Verhandlungen statt weiterer Waffenlieferungen (und lehnt Waffenlieferungen in Kriegsgebiete generell ab) – klare Ablehnung fortgesetzter Waffenlieferungen."
+   },
+   {
+    "statement": "asyl-drittstaaten",
+    "direction": -1,
+    "quote": "Die Verantwortung darf nicht mithilfe von sichere Drittstaaten- oder Herkunftsländerregelungen verlagert werden. Das Gemeinsame Europäische Asylsystem GEAS lehnen wir ab.",
+    "page": "52",
+    "source_url": "https://www.die-linke.de/fileadmin/user_upload/Wahlprogramm_Langfassung_Linke-BTW25_01.pdf",
+    "rationale": "Lehnt jede Verlagerung von Asylverantwortung auf sichere Drittstaaten ausdrücklich ab – klare Ablehnung der Auslagerung von Asylverfahren."
+   },
+   {
+    "statement": "fachkraefte",
+    "direction": 1,
+    "quote": "Daher braucht es Aufenthalts- und Arbeitserlaubnisse unabhängig von Beschäftigungsdauer und Arbeitgeber sowie flächendeckende Kontrollen zur Durchsetzung des Mindestlohns. Qualifikationen und Abschlüsse auch von Nicht-EU-Bürger*innen müssen schneller anerkannt werden.",
+    "page": "53",
+    "source_url": "https://www.die-linke.de/fileadmin/user_upload/Wahlprogramm_Langfassung_Linke-BTW25_01.pdf",
+    "rationale": "Fordert erleichterte Aufenthalts-/Arbeitserlaubnisse und schnellere Anerkennung ausländischer Abschlüsse – Zustimmung zu erleichterter Fachkräftezuwanderung."
+   },
+   {
+    "statement": "vermoegensteuer",
+    "direction": 1,
+    "quote": "Die Linke fordert, dass die Vermögensteuer wieder eingeführt wird. Damit wir nur die reichsten 2,5 Prozent unserer Gesellschaft belasten, fordern wir einen Freibetrag für Privatvermögen von einer Million Euro pro Person",
+    "page": "10",
+    "source_url": "https://www.die-linke.de/fileadmin/user_upload/Wahlprogramm_Langfassung_Linke-BTW25_01.pdf",
+    "rationale": "Explizite Forderung nach Wiedereinführung der Vermögensteuer auf große Vermögen (Freibetrag 1 Mio. Euro) – klare Zustimmung."
+   },
+   {
+    "statement": "cannabis",
+    "direction": 1,
+    "quote": "Wir wollen eine vollständige Legalisierung von Cannabis und die dafür notwendigen Änderungen auf EU- und UN-Ebene durchsetzen.",
+    "page": "20",
+    "source_url": "https://www.die-linke.de/fileadmin/user_upload/Wahlprogramm_Langfassung_Linke-BTW25_01.pdf",
+    "rationale": "Wer die vollständige Legalisierung fordert, will die bestehende Teil-Legalisierung erst recht beibehalten – klare Zustimmung."
+   },
+   {
+    "statement": "vorratsdaten",
+    "direction": -1,
+    "quote": "Wir wollen das Recht auf informationelle Selbstbestimmung sichern: gegen Vorratsdatenspeicherung, Bestandsdatenauskunft und Onlinedurchsuchungen (Staatstrojaner), nicht individualisierte Funkzellenabfragen, Rasterfahndung (auch per Handy), allgegenwärtige Videoüberwachung, Späh- und Lauschangriffe.",
+    "page": "49",
+    "source_url": "https://www.die-linke.de/fileadmin/user_upload/Wahlprogramm_Langfassung_Linke-BTW25_01.pdf",
+    "rationale": "Positioniert sich ausdrücklich gegen Vorratsdatenspeicherung – klare Ablehnung einer anlasslosen Vorratsdatenspeicherung."
+   },
+   {
+    "statement": "heizungsgesetz",
+    "direction": -0.5,
+    "quote": "Wir fordern eine Investitionsoffensive in energetische Sanierungen und den Heizungstausch in Höhe von 25 Milliarden Euro pro Jahr. Beim Heizungstausch wollen wir die Förderung für Zusatzkosten nach Einkommen staffeln",
+    "page": "34",
+    "source_url": "https://www.die-linke.de/fileadmin/user_upload/Wahlprogramm_Langfassung_Linke-BTW25_01.pdf",
+    "rationale": "Die Linke will den Heizungstausch sozial abgefedert vorantreiben statt zurücknehmen; sie kritisiert nur die soziale Ausgestaltung des Ampel-Gesetzes – tendenzielle Ablehnung der Rücknahme."
+   }
+  ],
+  "not_found": [
+   "eurobonds"
+  ]
+ },
+ "spd": {
+  "party": "spd",
+  "program_title": "Mehr für Dich. Besser für Deutschland. Regierungsprogramm der SPD für die Bundestagswahl 2025",
+  "program_url": "https://mehr.spd.de/custom-static-assets/documents/Regierungsprogramm.pdf",
+  "program_date": "2025-01-11",
+  "items": [
+   {
+    "statement": "schuldenbremse",
+    "direction": 1,
+    "quote": "Deshalb wollen wir die Schuldenregel im Grundgesetz so reformieren, dass Investitionen in die Zukunftsfähigkeit unseres Landes und in den Wohlstand nicht behindert werden.",
+    "page": "17",
+    "source_url": "https://mehr.spd.de/custom-static-assets/documents/Regierungsprogramm.pdf",
+    "rationale": "Explicit call to reform the constitutional debt rule so that it no longer blocks investment — clear support for the statement."
+   },
+   {
+    "statement": "mindestlohn-15",
+    "direction": 1,
+    "quote": "Dementsprechend muss der Mindestlohn spätestens ab 2026 bei 15 Euro liegen.",
+    "page": "23",
+    "source_url": "https://mehr.spd.de/custom-static-assets/documents/Regierungsprogramm.pdf",
+    "rationale": "Explicit demand that the minimum wage reach 15 euros by 2026 at the latest — clear support."
+   },
+   {
+    "statement": "tempolimit",
+    "direction": 1,
+    "quote": "Wir wollen ein Tempolimit von 130 km/h auf Bundesautobahnen einführen.",
+    "page": "36",
+    "source_url": "https://mehr.spd.de/custom-static-assets/documents/Regierungsprogramm.pdf",
+    "rationale": "Verbatim demand for a general 130 km/h speed limit on Autobahnen — clear support."
+   },
+   {
+    "statement": "klima-2035",
+    "direction": -0.5,
+    "quote": "Wir bekennen uns klar zu den Klimazielen für Deutschland und die EU.",
+    "page": "33",
+    "source_url": "https://mehr.spd.de/custom-static-assets/documents/Regierungsprogramm.pdf",
+    "rationale": "The SPD commits to the existing legal climate targets (climate neutrality 2045), not to bringing neutrality forward to 2035 — lean oppose to the earlier 2035 date."
+   },
+   {
+    "statement": "buergergeld",
+    "direction": -0.5,
+    "quote": "Deswegen wird zu Recht Mitwirkung eingefordert. An diesem Prinzip des Forderns halten wir fest.",
+    "page": "14",
+    "source_url": "https://mehr.spd.de/custom-static-assets/documents/Regierungsprogramm.pdf",
+    "rationale": "The programme explicitly upholds the 'Fordern' principle (i.e. obligations backed by sanctions) and promises no benefit increase — lean oppose to raising Bürgergeld and dismantling sanctions."
+   },
+   {
+    "statement": "rente-63",
+    "direction": 1,
+    "quote": "Ein abschlagsfreier Renteneintritt nach 45 Beitragsjahren wird mit der SPD auch künftig zwei Jahre früher möglich bleiben.",
+    "page": "25",
+    "source_url": "https://mehr.spd.de/custom-static-assets/documents/Regierungsprogramm.pdf",
+    "rationale": "Explicit pledge to preserve deduction-free retirement after 45 contribution years — clear support."
+   },
+   {
+    "statement": "wehrpflicht",
+    "direction": -1,
+    "quote": "Der neue Wehrdienst soll auf Freiwilligkeit basieren und sich dabei am Bedarf der Bundeswehr orientieren.",
+    "page": "58",
+    "source_url": "https://mehr.spd.de/custom-static-assets/documents/Regierungsprogramm.pdf",
+    "rationale": "The SPD plans a new military service explicitly based on voluntariness — clear opposition to reinstating compulsory conscription."
+   },
+   {
+    "statement": "waffen-ukraine",
+    "direction": 1,
+    "quote": "Zur Verteidigung der Ukraine und zur Sicherung des Friedens in Europa unterstützt die SPD die Ausbildung der ukrainischen Streitkräfte und die Lieferung von Waffen und Ausrüstung mit Besonnenheit und Augenmaß.",
+    "page": "58",
+    "source_url": "https://mehr.spd.de/custom-static-assets/documents/Regierungsprogramm.pdf",
+    "rationale": "Clear commitment to continued weapons deliveries and military support for Ukraine (with prudence; Taurus excluded) — supports the statement."
+   },
+   {
+    "statement": "asyl-drittstaaten",
+    "direction": -1,
+    "quote": "Die Externalisierung von Asylverfahren lehnen wir ab. Schutzsuchende müssen Zugang zu fairen und rechtsstaatlichen Verfahren in der EU erhalten.",
+    "page": "56",
+    "source_url": "https://mehr.spd.de/custom-static-assets/documents/Regierungsprogramm.pdf",
+    "rationale": "Explicit rejection of externalizing asylum procedures outside the EU — clear oppose."
+   },
+   {
+    "statement": "fachkraefte",
+    "direction": 1,
+    "quote": "Wir wollen das Fachkräfteeinwanderungsgesetz unbürokratisch umsetzen und beständig weiterentwickeln, damit qualifizierte Arbeitskräfte einfacher und schneller nach Deutschland kommen können.",
+    "page": "55",
+    "source_url": "https://mehr.spd.de/custom-static-assets/documents/Regierungsprogramm.pdf",
+    "rationale": "Explicit aim to make skilled-worker immigration easier and faster — clear support."
+   },
+   {
+    "statement": "vermoegensteuer",
+    "direction": 1,
+    "quote": "Die ausgesetzte Vermögensteuer wollen wir für sehr hohe Vermögen revitalisieren.",
+    "page": "19",
+    "source_url": "https://mehr.spd.de/custom-static-assets/documents/Regierungsprogramm.pdf",
+    "rationale": "Explicit pledge to revive the suspended wealth tax for very large fortunes — clear support."
+   },
+   {
+    "statement": "cannabis",
+    "direction": 1,
+    "quote": "Bei Cannabis wollen wir, um den Gesundheitsschutz, den Jugendschutz und den Kampf gegen die Organisierte Kriminalität zu verbessern, die notwendigen Schritte einleiten, um eine europarechtskonforme Legalisierung zu ermöglichen.",
+    "page": "46",
+    "source_url": "https://mehr.spd.de/custom-static-assets/documents/Regierungsprogramm.pdf",
+    "rationale": "The SPD wants to keep going toward an EU-law-compliant legalization — supports retaining (and extending) the partial legalization."
+   },
+   {
+    "statement": "heizungsgesetz",
+    "direction": -0.5,
+    "quote": "Eine Abschwächung der erreichten Errungenschaften ist mit uns nicht zu machen. Unsere Wirtschaft braucht Planungssicherheit. Beschlossene Gesetze werden wir umsetzen.",
+    "page": "33",
+    "source_url": "https://mehr.spd.de/custom-static-assets/documents/Regierungsprogramm.pdf",
+    "rationale": "In the climate chapter the SPD rules out weakening enacted climate legislation and pledges to implement decided laws (incl. heating rules), though the Heizungsgesetz is not named — lean oppose to rolling it back."
+   }
+  ],
+  "not_found": [
+   "eurobonds",
+   "vorratsdaten"
+  ]
+ },
+ "gruene": {
+  "party": "gruene",
+  "program_title": "Zusammen wachsen. Regierungsprogramm 2025 (Bundestagswahlprogramm BÜNDNIS 90/DIE GRÜNEN)",
+  "program_url": "https://cms.gruene.de/uploads/assets/Regierungsprogramm_DIGITAL_DINA5.pdf",
+  "program_date": "2025-01-26",
+  "items": [
+   {
+    "statement": "schuldenbremse",
+    "direction": 1,
+    "quote": "Wir schlagen für investive Ausgaben eine Reform der Schuldenbremse und einen Deutschlandfonds vor.",
+    "page": "36",
+    "source_url": "https://cms.gruene.de/uploads/assets/Regierungsprogramm_DIGITAL_DINA5.pdf",
+    "rationale": "Explicit proposal to reform the Schuldenbremse specifically to enable investment spending — clear support."
+   },
+   {
+    "statement": "mindestlohn-15",
+    "direction": 1,
+    "quote": "Um die Inflation der vergangenen Jahre auszugleichen, braucht es jetzt einen schrittweise steigenden Mindestlohn von zunächst 15 Euro in 2025 und das auch für unter 18-Jährige.",
+    "page": "67",
+    "source_url": "https://cms.gruene.de/uploads/assets/Regierungsprogramm_DIGITAL_DINA5.pdf",
+    "rationale": "Directly demands a minimum wage of 15 euros starting 2025 — clear support."
+   },
+   {
+    "statement": "tempolimit",
+    "direction": 1,
+    "quote": "Ein Sicherheitstempo von 130 km/h auf Autobahnen als generelles Tempolimit ist deshalb überfällig.",
+    "page": "48",
+    "source_url": "https://cms.gruene.de/uploads/assets/Regierungsprogramm_DIGITAL_DINA5.pdf",
+    "rationale": "Calls a general 130 km/h Autobahn speed limit overdue — clear support."
+   },
+   {
+    "statement": "klima-2035",
+    "direction": -0.5,
+    "quote": "Wir halten deshalb an den rechtlich festgeschriebenen Zielen der Klimaneutralität 2045 und den verbindlichen Zwischenzielen fest.",
+    "page": "38",
+    "source_url": "https://cms.gruene.de/uploads/assets/Regierungsprogramm_DIGITAL_DINA5.pdf",
+    "rationale": "The programme commits to climate neutrality by 2045, not 2035, implicitly rejecting an earlier 2035 target — lean oppose."
+   },
+   {
+    "statement": "buergergeld",
+    "direction": 0.5,
+    "quote": "Wir lassen nicht zu, dass der Regelsatz darunter sinkt. Deshalb passen wir das Bürgergeld regelmäßig an, damit das soziokulturelle Existenzminimum immer garantiert ist.",
+    "page": "99",
+    "source_url": "https://cms.gruene.de/uploads/assets/Regierungsprogramm_DIGITAL_DINA5.pdf",
+    "rationale": "Defends Bürgergeld and pledges regular upward adjustment to guarantee the subsistence minimum, but no explicit pledge to raise it further or abolish sanctions — lean support."
+   },
+   {
+    "statement": "rente-63",
+    "direction": 1,
+    "quote": "Für besonders langjährig Versicherte wollen wir die sogenannte Rente mit 63 beibehalten, welche insbesondere denjenigen zugutekommt, die nach jahrzehntelanger, anspruchsvoller und körperlicher Arbeit ihre Belastungsgrenze erreicht haben.",
+    "page": "99",
+    "source_url": "https://cms.gruene.de/uploads/assets/Regierungsprogramm_DIGITAL_DINA5.pdf",
+    "rationale": "Explicitly wants to keep the 'Rente mit 63' for especially long-term insured — clear support for retaining it."
+   },
+   {
+    "statement": "wehrpflicht",
+    "direction": -1,
+    "quote": "Statt den aus guten Gründen seit 2011 ausgesetzten allgemeinen Grundwehrdienst wieder einzuführen, wollen wir den freiwilligen Wehrdienst und die Reserve für eine breite Zielgruppe attraktiver machen",
+    "page": "154",
+    "source_url": "https://cms.gruene.de/uploads/assets/Regierungsprogramm_DIGITAL_DINA5.pdf",
+    "rationale": "Explicitly rejects reintroducing compulsory military service in favour of voluntary service — clear oppose."
+   },
+   {
+    "statement": "waffen-ukraine",
+    "direction": 1,
+    "quote": "Die Ukraine muss in der Lage sein, sich zu verteidigen und eine starke Position für einen möglichen Friedensprozess sicherzustellen. Dafür wollen wir sie auch weiter in ihrem Recht auf Selbstverteidigung deutlich stärken und ihre Verteidigungsfähigkeit verbessern.",
+    "page": "142",
+    "source_url": "https://cms.gruene.de/uploads/assets/Regierungsprogramm_DIGITAL_DINA5.pdf",
+    "rationale": "Pledges continued strengthening of Ukraine's self-defence and military capability (programme also names 'militärische Unterstützung') — clear support for continued arms deliveries."
+   },
+   {
+    "statement": "asyl-drittstaaten",
+    "direction": -1,
+    "quote": "Wir stellen uns der Auslagerung von Asylverfahren in Drittstaaten entgegen",
+    "page": "131",
+    "source_url": "https://cms.gruene.de/uploads/assets/Regierungsprogramm_DIGITAL_DINA5.pdf",
+    "rationale": "Explicitly opposes outsourcing asylum procedures to third countries — clear oppose."
+   },
+   {
+    "statement": "fachkraefte",
+    "direction": 1,
+    "quote": "Wir sind auf die Einwanderung von dringend benötigten Fach- und Arbeitskräften angewiesen, um unseren Wohlstand zu sichern und als Wirtschaftsstandort attraktiv zu bleiben.",
+    "page": "126",
+    "source_url": "https://cms.gruene.de/uploads/assets/Regierungsprogramm_DIGITAL_DINA5.pdf",
+    "rationale": "Affirms dependence on skilled-worker immigration; programme pledges digital visas, faster recognition of qualifications and 'Einwanderungsbehörden' — clear support for easing skilled immigration."
+   },
+   {
+    "statement": "vermoegensteuer",
+    "direction": 0.5,
+    "quote": "Zu möglichen Ansätzen gehören: eine globale Milliardärssteuer, eine fairere Erbschaftssteuer, eine gerechte Immobilienbesteuerung ohne Schlupflöcher und eine nationale Vermögenssteuer auf sehr hohe Vermögen.",
+    "page": "73",
+    "source_url": "https://cms.gruene.de/uploads/assets/Regierungsprogramm_DIGITAL_DINA5.pdf",
+    "rationale": "Names a national wealth tax on very high wealth as a possible approach but commits firmly only to inheritance-tax reform and a global billionaire tax — lean support."
+   },
+   {
+    "statement": "cannabis",
+    "direction": 1,
+    "quote": "An dem Ziel des Verkaufs von Cannabis in lizenzierten Fachgeschäften halten wir weiter fest",
+    "page": "96",
+    "source_url": "https://cms.gruene.de/uploads/assets/Regierungsprogramm_DIGITAL_DINA5.pdf",
+    "rationale": "Defends the Cannabisgesetz and wants to go further with licensed retail sale — clear support for keeping (and extending) partial legalisation."
+   },
+   {
+    "statement": "eurobonds",
+    "direction": 0.5,
+    "quote": "Für die Bewältigung großer Herausforderungen haben sich auch gemeinsame europäische Anleihen bewährt, etwa im Rahmen der Europäischen Investitionsbank.",
+    "page": "144",
+    "source_url": "https://cms.gruene.de/uploads/assets/Regierungsprogramm_DIGITAL_DINA5.pdf",
+    "rationale": "Endorses joint European bonds as a proven instrument and wants to consider 'alle Finanzierungsoptionen' for EU investments, without an explicit new-Eurobonds pledge — lean support."
+   },
+   {
+    "statement": "vorratsdaten",
+    "direction": -1,
+    "quote": "Instrumente der anlasslosen Massenüberwachung wie Vorratsdatenspeicherungen, Chatkontrolle oder die biometrische Erfassung im öffentlichen Raum lehnen wir ab.",
+    "page": "115",
+    "source_url": "https://cms.gruene.de/uploads/assets/Regierungsprogramm_DIGITAL_DINA5.pdf",
+    "rationale": "Explicitly rejects suspicionless data retention as mass surveillance — clear oppose."
+   },
+   {
+    "statement": "heizungsgesetz",
+    "direction": -1,
+    "quote": "Wir geben mit dem Gebäudeenergiegesetz und einer Förderung von bis zu 70 Prozent für den Einbau von fossilfreien Heizungen den Eigenheimbesitzer*innen, der Wirtschaft sowie den Mieter*innen und Vermieter*innen bis 2045 die nötige Planungssicherheit",
+    "page": "44",
+    "source_url": "https://cms.gruene.de/uploads/assets/Regierungsprogramm_DIGITAL_DINA5.pdf",
+    "rationale": "Defends the Gebäudeenergiegesetz (Heizungsgesetz) and pledges to expand support — clear opposition to the statement's demand to repeal it."
+   }
+  ],
+  "not_found": []
+ }
+}

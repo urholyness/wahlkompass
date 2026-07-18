@@ -14,7 +14,9 @@
  ],
  "afd:vermoegensteuer": [],
  "afd:vorratsdaten": [],
- "afd:waffen-ukraine": [],
+ "afd:waffen-ukraine": [
+  "t1-2026-07-08-s88-a1-afd-waffen-ukraine"
+ ],
  "afd:wehrpflicht": [],
  "bsw:asyl-drittstaaten": [],
  "bsw:buergergeld": [],
@@ -31,89 +33,223 @@
  "bsw:vorratsdaten": [],
  "bsw:waffen-ukraine": [],
  "bsw:wehrpflicht": [],
- "cdu:asyl-drittstaaten": [],
- "cdu:buergergeld": [],
+ "cdu:asyl-drittstaaten": [
+  "t2-cdu-asyl-drittstaaten"
+ ],
+ "cdu:buergergeld": [
+  "t1-2026-03-05-s62-a1-cdu-buergergeld",
+  "t2-cdu-buergergeld"
+ ],
  "cdu:cannabis": [],
  "cdu:eurobonds": [],
  "cdu:fachkraefte": [],
- "cdu:heizungsgesetz": [],
+ "cdu:heizungsgesetz": [
+  "t1-2026-07-10-s90-a7-cdu-heizungsgesetz",
+  "t2-cdu-heizungsgesetz"
+ ],
  "cdu:klima-2035": [],
- "cdu:mindestlohn-15": [],
- "cdu:rente-63": [],
+ "cdu:mindestlohn-15": [
+  "t2-cdu-mindestlohn-15"
+ ],
+ "cdu:rente-63": [
+  "t2-cdu-rente-63"
+ ],
  "cdu:schuldenbremse": [],
  "cdu:tempolimit": [
-  "t1-2026-07-09-s89-a1-cdu-tempolimit"
+  "t1-2026-07-09-s89-a1-cdu-tempolimit",
+  "t2-cdu-tempolimit"
  ],
  "cdu:vermoegensteuer": [],
  "cdu:vorratsdaten": [],
- "cdu:waffen-ukraine": [],
+ "cdu:waffen-ukraine": [
+  "t2-cdu-waffen-ukraine"
+ ],
  "cdu:wehrpflicht": [],
- "fdp:asyl-drittstaaten": [],
- "fdp:buergergeld": [],
- "fdp:cannabis": [],
- "fdp:eurobonds": [],
- "fdp:fachkraefte": [],
- "fdp:heizungsgesetz": [],
- "fdp:klima-2035": [],
- "fdp:mindestlohn-15": [],
- "fdp:rente-63": [],
- "fdp:schuldenbremse": [],
- "fdp:tempolimit": [],
- "fdp:vermoegensteuer": [],
- "fdp:vorratsdaten": [],
- "fdp:waffen-ukraine": [],
- "fdp:wehrpflicht": [],
- "gruene:asyl-drittstaaten": [],
- "gruene:buergergeld": [],
- "gruene:cannabis": [],
- "gruene:eurobonds": [],
- "gruene:fachkraefte": [],
- "gruene:heizungsgesetz": [],
- "gruene:klima-2035": [],
- "gruene:mindestlohn-15": [],
- "gruene:rente-63": [],
- "gruene:schuldenbremse": [],
+ "fdp:asyl-drittstaaten": [
+  "t2-fdp-asyl-drittstaaten"
+ ],
+ "fdp:buergergeld": [
+  "t2-fdp-buergergeld"
+ ],
+ "fdp:cannabis": [
+  "t2-fdp-cannabis"
+ ],
+ "fdp:eurobonds": [
+  "t2-fdp-eurobonds"
+ ],
+ "fdp:fachkraefte": [
+  "t2-fdp-fachkraefte"
+ ],
+ "fdp:heizungsgesetz": [
+  "t2-fdp-heizungsgesetz"
+ ],
+ "fdp:klima-2035": [
+  "t2-fdp-klima-2035"
+ ],
+ "fdp:mindestlohn-15": [
+  "t2-fdp-mindestlohn-15"
+ ],
+ "fdp:rente-63": [
+  "t2-fdp-rente-63"
+ ],
+ "fdp:schuldenbremse": [
+  "t2-fdp-schuldenbremse"
+ ],
+ "fdp:tempolimit": [
+  "t2-fdp-tempolimit"
+ ],
+ "fdp:vermoegensteuer": [
+  "t2-fdp-vermoegensteuer"
+ ],
+ "fdp:vorratsdaten": [
+  "t2-fdp-vorratsdaten"
+ ],
+ "fdp:waffen-ukraine": [
+  "t2-fdp-waffen-ukraine"
+ ],
+ "fdp:wehrpflicht": [
+  "t2-fdp-wehrpflicht"
+ ],
+ "gruene:asyl-drittstaaten": [
+  "t2-gruene-asyl-drittstaaten"
+ ],
+ "gruene:buergergeld": [
+  "t1-2026-03-05-s62-a1-gruene-buergergeld",
+  "t2-gruene-buergergeld"
+ ],
+ "gruene:cannabis": [
+  "t2-gruene-cannabis"
+ ],
+ "gruene:eurobonds": [
+  "t2-gruene-eurobonds"
+ ],
+ "gruene:fachkraefte": [
+  "t2-gruene-fachkraefte"
+ ],
+ "gruene:heizungsgesetz": [
+  "t1-2026-07-10-s90-a7-gruene-heizungsgesetz",
+  "t2-gruene-heizungsgesetz"
+ ],
+ "gruene:klima-2035": [
+  "t2-gruene-klima-2035"
+ ],
+ "gruene:mindestlohn-15": [
+  "t2-gruene-mindestlohn-15"
+ ],
+ "gruene:rente-63": [
+  "t2-gruene-rente-63"
+ ],
+ "gruene:schuldenbremse": [
+  "t2-gruene-schuldenbremse"
+ ],
  "gruene:tempolimit": [
-  "t1-2026-07-09-s89-a1-gruene-tempolimit"
+  "t1-2026-07-09-s89-a1-gruene-tempolimit",
+  "t2-gruene-tempolimit"
  ],
- "gruene:vermoegensteuer": [],
- "gruene:vorratsdaten": [],
- "gruene:waffen-ukraine": [],
- "gruene:wehrpflicht": [],
- "linke:asyl-drittstaaten": [],
- "linke:buergergeld": [],
- "linke:cannabis": [],
+ "gruene:vermoegensteuer": [
+  "t2-gruene-vermoegensteuer"
+ ],
+ "gruene:vorratsdaten": [
+  "t2-gruene-vorratsdaten"
+ ],
+ "gruene:waffen-ukraine": [
+  "t1-2026-07-08-s88-a1-gruene-waffen-ukraine",
+  "t2-gruene-waffen-ukraine"
+ ],
+ "gruene:wehrpflicht": [
+  "t2-gruene-wehrpflicht"
+ ],
+ "linke:asyl-drittstaaten": [
+  "t2-linke-asyl-drittstaaten"
+ ],
+ "linke:buergergeld": [
+  "t1-2026-03-05-s62-a1-linke-buergergeld",
+  "t2-linke-buergergeld"
+ ],
+ "linke:cannabis": [
+  "t2-linke-cannabis"
+ ],
  "linke:eurobonds": [],
- "linke:fachkraefte": [],
- "linke:heizungsgesetz": [],
- "linke:klima-2035": [],
- "linke:mindestlohn-15": [],
- "linke:rente-63": [],
- "linke:schuldenbremse": [],
+ "linke:fachkraefte": [
+  "t2-linke-fachkraefte"
+ ],
+ "linke:heizungsgesetz": [
+  "t1-2026-07-10-s90-a7-linke-heizungsgesetz",
+  "t2-linke-heizungsgesetz"
+ ],
+ "linke:klima-2035": [
+  "t2-linke-klima-2035"
+ ],
+ "linke:mindestlohn-15": [
+  "t2-linke-mindestlohn-15"
+ ],
+ "linke:rente-63": [
+  "t2-linke-rente-63"
+ ],
+ "linke:schuldenbremse": [
+  "t2-linke-schuldenbremse"
+ ],
  "linke:tempolimit": [
-  "t1-2026-07-09-s89-a1-linke-tempolimit"
+  "t1-2026-07-09-s89-a1-linke-tempolimit",
+  "t2-linke-tempolimit"
  ],
- "linke:vermoegensteuer": [],
- "linke:vorratsdaten": [],
- "linke:waffen-ukraine": [],
- "linke:wehrpflicht": [],
- "spd:asyl-drittstaaten": [],
- "spd:buergergeld": [],
- "spd:cannabis": [],
+ "linke:vermoegensteuer": [
+  "t2-linke-vermoegensteuer"
+ ],
+ "linke:vorratsdaten": [
+  "t2-linke-vorratsdaten"
+ ],
+ "linke:waffen-ukraine": [
+  "t1-2026-07-08-s88-a1-linke-waffen-ukraine",
+  "t2-linke-waffen-ukraine"
+ ],
+ "linke:wehrpflicht": [
+  "t2-linke-wehrpflicht"
+ ],
+ "spd:asyl-drittstaaten": [
+  "t2-spd-asyl-drittstaaten"
+ ],
+ "spd:buergergeld": [
+  "t1-2026-03-05-s62-a1-spd-buergergeld",
+  "t2-spd-buergergeld"
+ ],
+ "spd:cannabis": [
+  "t2-spd-cannabis"
+ ],
  "spd:eurobonds": [],
- "spd:fachkraefte": [],
- "spd:heizungsgesetz": [],
- "spd:klima-2035": [],
- "spd:mindestlohn-15": [],
- "spd:rente-63": [],
- "spd:schuldenbremse": [],
- "spd:tempolimit": [
-  "t1-2026-07-09-s89-a1-spd-tempolimit"
+ "spd:fachkraefte": [
+  "t2-spd-fachkraefte"
  ],
- "spd:vermoegensteuer": [],
+ "spd:heizungsgesetz": [
+  "t1-2026-07-10-s90-a7-spd-heizungsgesetz",
+  "t2-spd-heizungsgesetz"
+ ],
+ "spd:klima-2035": [
+  "t2-spd-klima-2035"
+ ],
+ "spd:mindestlohn-15": [
+  "t2-spd-mindestlohn-15"
+ ],
+ "spd:rente-63": [
+  "t2-spd-rente-63"
+ ],
+ "spd:schuldenbremse": [
+  "t2-spd-schuldenbremse"
+ ],
+ "spd:tempolimit": [
+  "t1-2026-07-09-s89-a1-spd-tempolimit",
+  "t2-spd-tempolimit"
+ ],
+ "spd:vermoegensteuer": [
+  "t2-spd-vermoegensteuer"
+ ],
  "spd:vorratsdaten": [],
- "spd:waffen-ukraine": [],
- "spd:wehrpflicht": [],
+ "spd:waffen-ukraine": [
+  "t2-spd-waffen-ukraine"
+ ],
+ "spd:wehrpflicht": [
+  "t2-spd-wehrpflicht"
+ ],
  "volt:asyl-drittstaaten": [],
  "volt:buergergeld": [],
  "volt:cannabis": [],

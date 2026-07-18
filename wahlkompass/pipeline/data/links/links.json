@@ -5,7 +5,38 @@
   "alignment": 1,
   "confidence": "high",
   "coding": "manual-highconfidence",
-  "coder_note": "Roll call on the Grünen Gesetzentwurf to introduce a general 130 km/h motorway speed limit (Drs. 21/5319, geändert 21/6734); abgelehnt. A Ja affirms the statement 'Tempolimit soll eingeführt werden'. Single-axis proposition: a Nein is unambiguously 'against a speed limit' for every Fraktion (no party opposes from a stricter-limit side that voted Nein), so the sign is clean for all parties. Grüne/Linke Ja (+1), CDU/CSU/SPD/AfD Nein (-1).",
+  "exclude_parties": [],
+  "coder_note": "Roll call on the Grünen Gesetzentwurf to introduce a general 130 km/h motorway speed limit (Drs. 21/5319, geändert 21/6734); abgelehnt. A Ja affirms the statement 'Tempolimit soll eingeführt werden'. Single-axis proposition: a Nein is unambiguously 'against a speed limit' for every Fraktion, so the sign is clean for all parties.",
   "source": "abgeordnetenwatch poll intro + DIP Vorgang 21/5319"
+ },
+ {
+  "vote_id": "2026-07-10-s90-a7",
+  "statement": "heizungsgesetz",
+  "alignment": 1,
+  "confidence": "high",
+  "coding": "manual-highconfidence",
+  "exclude_parties": ["afd"],
+  "coder_note": "Roll call on the Gebäudemodernisierungsgesetz, which removes the Heizungsgesetz/GEG 65%-Erneuerbare obligation (aw poll 6605). A Ja affirms the statement 'Heizungsgesetz soll zurückgenommen werden'. Clean for the coalition (CDU/CSU, SPD: Ja = rollback) and for the climate-defending opposition (Grüne, Linke: Nein = keep the obligation). AfD EXCLUDED: its Nein does not mean 'keep the law' — AfD wants full abolition, so its vote against this partial rollback is 'not far enough' and cannot be placed on the statement axis; its position comes from T2.",
+  "source": "abgeordnetenwatch poll 6605 intro"
+ },
+ {
+  "vote_id": "2026-03-05-s62-a1",
+  "statement": "buergergeld",
+  "alignment": -1,
+  "confidence": "high",
+  "coding": "manual-highconfidence",
+  "exclude_parties": ["afd"],
+  "coder_note": "Roll call on the government bill converting Bürgergeld into a stricter 'neue Grundsicherung' with tighter work obligations and stronger sanctions (aw poll 6422, Drs. 21/3541). A Ja therefore REJECTS the statement 'Bürgergeld erhöhen und Sanktionen abbauen' (alignment -1). Clean for CDU/CSU, SPD (Ja = tighten = against the statement) and Grüne, Linke (Nein = against tightening = for the statement). AfD EXCLUDED: its Nein is from the right ('not strict enough'), not agreement with raising Bürgergeld; placed via T2 instead.",
+  "source": "abgeordnetenwatch poll 6422 intro"
+ },
+ {
+  "vote_id": "2026-07-08-s88-a1",
+  "statement": "waffen-ukraine",
+  "alignment": 1,
+  "confidence": "high",
+  "coding": "manual-highconfidence",
+  "exclude_parties": ["cdu", "spd"],
+  "coder_note": "Roll call on the Grünen Antrag 'Den russischen Krieg gegen die Ukraine beenden – die Ukraine jetzt zusätzlich militärisch und humanitär stärken' (aw poll, Drs. 21/6912). A Ja affirms the statement 'weiterhin schwere Waffen liefern'. Clean for Grüne (Ja = affirm) and for AfD, Linke (Nein = against weapons deliveries — both parties oppose them on the record). CDU/CSU and SPD EXCLUDED: as the governing coalition they continue arms deliveries but reject this opposition motion procedurally, so their Nein is not 'against weapons'; their position comes from T2.",
+  "source": "abgeordnetenwatch poll intro + DIP Vorgang 21/6912"
  }
 ]

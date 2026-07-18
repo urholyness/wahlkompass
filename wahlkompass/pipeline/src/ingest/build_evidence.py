@@ -41,6 +41,19 @@ def _load(path: str, default):
     return default
 
 
+def _norm_date(s):
+    """Normalize partial dates (YYYY, YYYY-MM) to full ISO YYYY-MM-DD."""
+    s = (s or "").strip()
+    parts = s.split("-")
+    if len(parts) == 1 and len(parts[0]) == 4:
+        return f"{parts[0]}-01-01"
+    if len(parts) == 2:
+        return f"{parts[0]}-{parts[1]}-01"
+    if len(parts) == 3:
+        return s
+    return "2025-02-01"
+
+
 def build(all_party_ids: List[str], statement_slugs: List[str], verbose: bool = True):
     votes = {v["vote_id"]: v for v in _load(VOTES_PATH, [])}
     links = _load(LINKS_PATH, [])
@@ -59,10 +72,16 @@ def build(all_party_ids: List[str], statement_slugs: List[str], verbose: bool = 
         if slug not in statement_slugs:
             continue
         align = link["alignment"]
+        # Per-party validity: exclude parties whose Ja/Nein on THIS motion does not
+        # map unambiguously onto the statement axis (e.g. an opposition Nein that
+        # means "not far enough" rather than "against"). This is a coverage
+        # decision, uniform in rule, not a scoring asymmetry — those cells fall to
+        # "keine belegbare Position" and are picked up by T2 instead.
+        exclude = set(link.get("exclude_parties") or [])
         drs = ", ".join(vote.get("drucksachen") or []) or None
         for fraktion, agg in sorted(vote["fraktion_aggregates"].items()):
             pid = FRAKTION_TO_PARTY.get(fraktion)
-            if pid is None or pid not in all_party_ids:
+            if pid is None or pid not in all_party_ids or pid in exclude:
                 continue
             c = agg["counts"]
             ev_id = f"t1-{link['vote_id']}-{pid}-{slug}"
@@ -101,7 +120,7 @@ def build(all_party_ids: List[str], statement_slugs: List[str], verbose: bool = 
             "tier": 2,
             "direction": round(float(q["direction"]), 4),
             "item_weight": 1.0,
-            "date": q.get("program_date") or "2025-02-01",
+            "date": _norm_date(q.get("program_date")),
             "kind": "wahlprogramm",
             "title_de": q.get("program_title") or "Wahlprogramm 2025",
             "extract": f"„{quote}“" + (f" (S. {q['page']})" if q.get("page") else ""),

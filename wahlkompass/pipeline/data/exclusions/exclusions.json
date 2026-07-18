@@ -1,1 +1,26 @@
-[]
+[
+ {
+  "pair": ["cdu", "afd"],
+  "declared_by": "CDU",
+  "kind": "Unvereinbarkeitsbeschluss",
+  "quote": "Die CDU schließt Koalitionen sowie ähnliche Formen der Zusammenarbeit sowohl mit der Partei Die Linke als auch mit der Alternative für Deutschland aus.",
+  "source_url": "https://www.cdu.de/artikel/unvereinbarkeitsbeschluss",
+  "date": "2018-12-07",
+  "reaffirmed": "2025-02",
+  "still_current_2026": true,
+  "provisional": true,
+  "note": "CDU-Bundesparteitagsbeschluss (Hamburg 2018), seither von der Parteiführung wiederholt bekräftigt. Provisorisch kodiert — vor einer Nicht-Vorschau-Version quellengeprüft."
+ },
+ {
+  "pair": ["cdu", "linke"],
+  "declared_by": "CDU",
+  "kind": "Unvereinbarkeitsbeschluss",
+  "quote": "Die CDU schließt Koalitionen sowie ähnliche Formen der Zusammenarbeit sowohl mit der Partei Die Linke als auch mit der Alternative für Deutschland aus.",
+  "source_url": "https://www.cdu.de/artikel/unvereinbarkeitsbeschluss",
+  "date": "2018-12-07",
+  "reaffirmed": "2025-02",
+  "still_current_2026": true,
+  "provisional": true,
+  "note": "Derselbe Unvereinbarkeitsbeschluss nennt Die Linke; auf Länderebene teils aufgeweicht. Provisorisch kodiert."
+ }
+]

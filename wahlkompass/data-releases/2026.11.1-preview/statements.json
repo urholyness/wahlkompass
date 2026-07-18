@@ -15,7 +15,7 @@
     "text_de": "Der gesetzliche Mindestlohn soll auf 15 Euro pro Stunde angehoben werden.",
     "text_easy_de": "Wer arbeitet, soll mindestens 15 Euro in der Stunde bekommen.",
     "context_de": "Neutraler Hintergrund folgt in der redaktionellen Fassung.",
-    "admission_ref": "—"
+    "admission_ref": "t2-cdu-mindestlohn-15"
   },
   {
     "id": "tempolimit",
@@ -42,7 +42,7 @@
     "text_de": "Das Bürgergeld soll erhöht und die Sanktionen sollen abgebaut werden.",
     "text_easy_de": "Menschen ohne Arbeit sollen mehr Geld und weniger Strafen bekommen.",
     "context_de": "Neutraler Hintergrund folgt in der redaktionellen Fassung.",
-    "admission_ref": "—"
+    "admission_ref": "t1-2026-03-05-s62-a1-cdu-buergergeld"
   },
   {
     "id": "rente-63",
@@ -51,7 +51,7 @@
     "text_de": "Der abschlagsfreie Renteneintritt mit 63 nach 45 Beitragsjahren soll erhalten bleiben.",
     "text_easy_de": "Wer 45 Jahre gearbeitet hat, soll mit 63 ohne Abzüge in Rente gehen.",
     "context_de": "Neutraler Hintergrund folgt in der redaktionellen Fassung.",
-    "admission_ref": "—"
+    "admission_ref": "t2-cdu-rente-63"
   },
   {
     "id": "wehrpflicht",
@@ -69,7 +69,7 @@
     "text_de": "Deutschland soll weiterhin schwere Waffen an die Ukraine liefern.",
     "text_easy_de": "Deutschland soll der Ukraine weiter große Waffen geben.",
     "context_de": "Neutraler Hintergrund folgt in der redaktionellen Fassung.",
-    "admission_ref": "—"
+    "admission_ref": "t2-cdu-waffen-ukraine"
   },
   {
     "id": "asyl-drittstaaten",
@@ -78,7 +78,7 @@
     "text_de": "Asylverfahren sollen in sichere Drittstaaten außerhalb der EU ausgelagert werden.",
     "text_easy_de": "Über Asyl soll in anderen Ländern außerhalb der EU entschieden werden.",
     "context_de": "Neutraler Hintergrund folgt in der redaktionellen Fassung.",
-    "admission_ref": "—"
+    "admission_ref": "t2-cdu-asyl-drittstaaten"
   },
   {
     "id": "fachkraefte",
@@ -132,6 +132,6 @@
     "text_de": "Der verpflichtende Umstieg auf klimafreundliche Heizungen (Heizungsgesetz) soll zurückgenommen werden.",
     "text_easy_de": "Die Pflicht zu neuen, klimafreundlichen Heizungen soll wegfallen.",
     "context_de": "Neutraler Hintergrund folgt in der redaktionellen Fassung.",
-    "admission_ref": "—"
+    "admission_ref": "t1-2026-07-10-s90-a7-cdu-heizungsgesetz"
   }
 ]

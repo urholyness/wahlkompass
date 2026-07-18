@@ -8,7 +8,7 @@
   "preview": true,
   "preview_label_de": "technische Vorschau — echte Abstimmungsdaten, Verknüpfungen & Programm-Zitate provisorisch kodiert, noch nicht vom Beirat geprüft",
   "signature_verified": true,
-  "signed_payload": "{\"files\":{\"evidence.json\":\"fc8b3b0fdae9e66e2778559b70e85e6ad7ae19a36d2e2a875ac9b1affc2195ee\",\"exclusions.json\":\"4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945\",\"methodology.json\":\"87864d2c9d3d80934cc33e2ffe439d46f7e190fcc90727c12a03889ccb0f98f3\",\"parties.json\":\"a5a802c06791539c3a03c705c0c3831fae74174e24565fd3e9da664c01645b95\",\"positions.json\":\"e2b927a69e1926f621153c8dffd757114b88b1d513e5594b3f01cf19f37fe8df\",\"seats.json\":\"14d5ed5c3e2638c1cf85d50ae4be549b0ee15e7ed9aea93e2f4d2ca374c080cc\",\"statements.json\":\"0ebe53a80259045a75e2e246bd29a1a8eb0a3dbdf5c60b258ae8c118a6b5918f\"},\"legislature\":\"deu-bundestag-21\",\"release\":\"2026.11.1-preview\"}",
-  "signature_b64": "SAsPWrX3RaV7rjWCp8c6wkeQLhNqbPdvXdDZ29B/1cf1zIPDD6PB4aGmio5ScOTRF7l2VMNEaw1vTPj8TcW+Ag==",
+  "signed_payload": "{\"files\":{\"evidence.json\":\"32d6d9b09109ab588ae5092a6de894ace1e6ea732030e1324f1b0d9160383b24\",\"exclusions.json\":\"564099169a2a51e07354fa859165f79d841107b9dd8436aa3874a9671f39ec65\",\"methodology.json\":\"87864d2c9d3d80934cc33e2ffe439d46f7e190fcc90727c12a03889ccb0f98f3\",\"parties.json\":\"a5a802c06791539c3a03c705c0c3831fae74174e24565fd3e9da664c01645b95\",\"positions.json\":\"4d3b82270f819c64075c086ec3b7befa3005885e182b6d7a7fad98d37e043946\",\"seats.json\":\"6e95436a5a48eb8cfe98f9c873068e420bdc425200eaf7df52640edb8f48567e\",\"statements.json\":\"73a37f959bcd639d4122968c3569fdd4dff647d13dfe700f68f70982190e37ed\"},\"legislature\":\"deu-bundestag-21\",\"release\":\"2026.11.1-preview\"}",
+  "signature_b64": "6/fScHLF8EMDWBLG8jEGxGPlOH31CPgTX1bTvkOzw/xjHKPair4L2XSebN/2O8tMjZouen3Rd6PC020BlP43Bw==",
   "pubkey_b64": "nrxawm7tf2cEdXIr94CXSj/KLdoU3VvrCfEF3xIJ3cY="
 }

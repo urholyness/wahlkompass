@@ -64,6 +64,44 @@ button{font-family:inherit}
 .skel{background:linear-gradient(90deg,#eee 25%,#f5f5f5 50%,#eee 75%);background-size:200% 100%;animation:sk 1.2s infinite;border-radius:8px}
 @keyframes sk{0%{background-position:200% 0}100%{background-position:-200% 0}}
 @media (prefers-reduced-motion: reduce){.skel{animation:none}.prog>i{transition:none}.scale button{transition:none}}
+/* ---- desktop "precision terminal" ---- */
+.desknav{display:none}
+.mobnav{display:flex;gap:6px;overflow-x:auto;padding:10px 14px;border-bottom:1px solid var(--line);background:#fcfbf8;position:sticky;top:0;z-index:5}
+.mobnav a{all:unset;white-space:nowrap;padding:7px 12px;border-radius:20px;font:600 12px "Public Sans";color:var(--graphite);cursor:pointer;border:1px solid var(--line)}
+.mobnav a.on{background:var(--petrol);color:#fff;border-color:var(--petrol)}
+.matrix{width:100%;border-collapse:collapse;font-size:12px}
+.matrix th,.matrix td{border:1px solid var(--line);padding:0}
+.matrix thead th{background:var(--soft);font:600 11px "JetBrains Mono";color:var(--graphite);padding:6px 4px;text-align:center;position:sticky;top:0}
+.matrix tbody th{text-align:left;font:600 12px "Public Sans";padding:8px 10px;background:#fff;max-width:230px}
+.cellbox{width:100%;height:38px;display:flex;align-items:center;justify-content:center;cursor:pointer;position:relative}
+.pglyph{width:26px;height:26px;border-radius:50%;display:flex;align-items:center;justify-content:center;font:600 10px "JetBrains Mono"}
+.kmatrix{width:100%;border-collapse:collapse;font:600 11px "JetBrains Mono"}
+.kmatrix td,.kmatrix th{border:1px solid var(--line);padding:6px 5px;text-align:center}
+.kcard{border:1px solid var(--line);border-radius:12px;background:#fff;padding:14px;margin-top:10px}
+.meter{height:8px;border-radius:4px;background:#e8e5dc;position:relative;overflow:hidden}
+.meter>i{position:absolute;left:0;top:0;bottom:0;background:var(--petrol);border-radius:4px}
+.seatbar{height:20px;border-radius:4px;background:#eee;position:relative;display:flex;overflow:hidden}
+.seatbar .maj{position:absolute;top:-3px;bottom:-3px;width:2px;background:var(--ink);z-index:2}
+.dumbbell{position:relative;height:24px;margin:4px 0}
+.dumbbell .axis{position:absolute;left:0;right:0;top:11px;height:2px;background:#e0ddd4}
+.dumbbell .conn{position:absolute;top:11px;height:2px;background:var(--signal)}
+.dumbbell .said,.dumbbell .did{position:absolute;top:5px;width:14px;height:14px;border-radius:50%;font:600 8px "JetBrains Mono";display:flex;align-items:center;justify-content:center;color:#fff}
+.dumbbell .said{background:var(--graphite)}
+.dumbbell .did{background:var(--ink)}
+@media(min-width:900px){
+  body{background:#dedbd4}
+  .app{max-width:1180px;min-height:100vh}
+  .app.analysis{max-width:1180px}
+  .deskshell{display:grid;grid-template-columns:230px 1fr;min-height:calc(100vh - 34px)}
+  .deskshell.noNav{grid-template-columns:1fr}
+  .desknav{display:flex;flex-direction:column;gap:2px;border-right:1px solid var(--line);padding:18px 14px;background:#fcfbf8}
+  .desknav a{all:unset;display:flex;align-items:center;gap:8px;padding:9px 12px;border-radius:8px;font:600 13px "Public Sans";color:var(--graphite);cursor:pointer}
+  .desknav a.on{background:var(--petrol);color:#fff}
+  .desknav a:hover:not(.on){background:var(--soft)}
+  .deskmain{padding:26px 30px;overflow-x:auto}
+  .frage-wrap{max-width:560px;margin:0 auto}
+  .mobnav{display:none}
+}
 </style>
 </head>
 <body>
@@ -149,15 +187,41 @@ const el=(h)=>{const t=document.createElement("template");t.innerHTML=h.trim();r
 function chip(p){return `<span class="chip"><span class="sw" style="background:${p.color_hex}"></span>${p.short_name}</span>`;}
 
 // ---- render ----
+const ANALYSIS=["ergebnis","koalitionen","sagen-tun","themen","methodik"];
+const NAV=[["ergebnis","Ergebnis"],["koalitionen","Koalitionen"],["sagen-tun","Sagen vs. Tun"],["themen","Themen"],["methodik","Methodik"]];
+function screenOf(){
+  return S.screen==="frage"?screenFrage()
+    :S.screen==="koalitionen"?screenKoalitionen()
+    :S.screen==="sagen-tun"?screenSagenTun()
+    :S.screen==="themen"?screenThemen()
+    :S.screen==="ergebnis"?screenErgebnis()
+    :S.screen==="methodik"?screenMethodik()
+    :screenStart();
+}
+function deskNav(){
+  return `<nav class="desknav">
+    <div class="eyebrow" style="padding:0 12px 10px">Wahlkompass</div>
+    ${NAV.map(([k,l])=>`<a data-go="${k}" class="${S.screen===k?'on':''}">${l}</a>`).join("")}
+    <div class="spacer" style="min-height:20px"></div>
+    <div style="padding:10px 12px;border-top:1px solid var(--line)">${sealHtml()}</div>
+  </nav>`;
+}
 function render(){
   const app=document.getElementById("app"); app.innerHTML="";
+  app.className = "app" + (ANALYSIS.includes(S.screen)?" analysis":"");
   const banner = meta.preview ? `<div class="preview-banner"><b>VORSCHAU</b> ${meta.preview_label_de}</div>` : "";
-  const screen = S.screen==="frage" ? screenFrage()
-    : S.screen==="ergebnis" ? screenErgebnis()
-    : S.screen==="methodik" ? screenMethodik()
-    : screenStart();
-  const tpl=document.createElement("template"); tpl.innerHTML=(banner+screen).trim();
+  let body;
+  if(ANALYSIS.includes(S.screen)){
+    const mobnav=`<nav class="mobnav">${NAV.map(([k,l])=>`<a data-go="${k}" class="${S.screen===k?'on':''}">${l}</a>`).join("")}</nav>`;
+    body = `<div class="deskshell">${deskNav()}<main class="deskmain">${mobnav}${screenOf()}</main></div>`;
+  } else if(S.screen==="frage"){
+    body = `<div class="frage-wrap">${screenOf()}</div>`;
+  } else {
+    body = screenOf();
+  }
+  const tpl=document.createElement("template"); tpl.innerHTML=(banner+body).trim();
   app.append(...tpl.content.childNodes);
+  if(ANALYSIS.includes(S.screen)) location.hash = "/"+S.screen;
   bind();
   window.scrollTo(0,0);
 }
@@ -182,7 +246,7 @@ function screenStart(){
     <div class="spacer"></div>
     <div style="display:flex;flex-direction:column;gap:10px;margin-top:24px">
       <button class="btn primary" data-go="frage">Los geht's</button>
-      <button class="btn ghost" data-go="ergebnis">Nur Daten ansehen</button>
+      <button class="btn ghost" data-go="themen">Nur Daten ansehen</button>
     </div>
   </div>`;
 }
@@ -323,8 +387,147 @@ function screenMethodik(){
   </div>`;
 }
 
+// ---- shared helpers for analysis screens ----
+const partyById=id=>parties.find(p=>p.id===id);
+function topics(){ const m={}; statements.forEach(s=>{(m[s.topic]=m[s.topic]||[]).push(s);}); return m; }
+function needAnswers(what){
+  return `<div class="warn" style="margin-top:12px">Für ${what} brauchen wir Ihre Antworten. <span class="link" data-go="frage">Fragebogen starten →</span></div>`;
+}
+// position marker on a -1..+1 track (neutral ink marker; confidence -> opacity)
+function posCell(pid,slug){
+  const pos=posOf(pid,slug);
+  if(pos.p==null) return `<div class="cellbox"><span class="kbp" title="keine belegbare Position">—</span></div>`;
+  const x=(pos.p+1)/2*100, op=0.35+0.65*(pos.confidence||0);
+  const div=pos.divergent?'<span class="divdot" style="position:absolute;top:3px;right:3px"></span>':'';
+  return `<div class="cellbox" data-cell="${pid}:${slug}" title="p=${pos.p.toFixed(2)} · KI=${(pos.confidence||0).toFixed(2)}">
+    ${div}<div style="position:absolute;left:8px;right:8px;height:3px;background:#e8e5dc;border-radius:2px"></div>
+    <div style="position:absolute;left:calc(8px + ${x}% - ${x}*0.16px);width:10px;height:10px;border-radius:50%;background:var(--ink);opacity:${op}"></div></div>`;
+}
+
+function screenThemen(){
+  const T=topics();
+  let secs="";
+  for(const topic of Object.keys(T)){
+    let rows="";
+    for(const st of T[topic]){
+      const cells=parties.map(p=>`<td>${posCell(p.id,st.id)}</td>`).join("");
+      const open=S.openBeleg["themen:"+st.id];
+      rows+=`<tr><th>${st.text_de}</th>${cells}</tr>`;
+    }
+    secs+=`<div style="margin-top:22px"><div class="eyebrow" style="margin-bottom:8px">${topic}</div>
+      <div style="overflow-x:auto"><table class="matrix"><thead><tr><th style="text-align:left">Aussage</th>
+      ${parties.map(p=>`<th>${chip(p)}</th>`).join("")}</tr></thead><tbody>${rows}</tbody></table></div></div>`;
+  }
+  const detail = S.openCell ? `<div class="card" style="margin-top:16px;padding:14px">
+    <div style="display:flex;justify-content:space-between"><div>${chip(partyById(S.openCell.split(":")[0]))} · <b>${statements.find(s=>s.id===S.openCell.split(":")[1]).text_de}</b></div>
+    <span class="link" data-closecell="1">schließen ✕</span></div>${belegZug(posOf(...S.openCell.split(":")))}</div>` : "";
+  return `<div class="h2">Themen</div>
+    <p class="sub" style="margin-top:4px;font-size:13px">Positionen je Aussage und Partei. Marker = Position von Ablehnung (links) bis Zustimmung (rechts), Deckkraft = Konfidenz. Zelle anklicken für den Beleg-Zug. — = keine belegbare Position.</p>
+    ${detail}${secs}`;
+}
+
+function screenSagenTun(){
+  const div=[];
+  for(const p of parties) for(const st of statements){
+    const pos=posOf(p.id,st.id);
+    if(pos.divergent) div.push({pid:p.id,slug:st.id,pos});
+  }
+  let body;
+  if(!div.length){
+    body=`<div class="card" style="margin-top:14px;padding:16px"><div class="sub">In diesem Release gibt es noch keine belegte Divergenz zwischen Programm (Sagen) und Abstimmung (Tun). Sie erscheint automatisch, sobald für eine Partei beide Belegarten zur selben Aussage vorliegen und sich um mehr als 0,5 unterscheiden.</div></div>`;
+  } else {
+    body=div.map(d=>{
+      const said=(d.pos.p_said+1)/2*100, did=(d.pos.p_did+1)/2*100;
+      const l=Math.min(said,did), w=Math.abs(said-did);
+      const open=S.openBeleg["st:"+d.pid+":"+d.slug];
+      return `<div class="card" style="margin-top:10px;padding:14px">
+        <div style="display:flex;align-items:center;gap:10px">${chip(partyById(d.pid))}
+          <span style="font:600 13px 'Public Sans'">${statements.find(s=>s.id===d.slug).text_de}</span></div>
+        <div class="dumbbell" style="margin-top:10px"><div class="axis"></div>
+          <div class="conn" style="left:${l}%;width:${w}%"></div>
+          <div class="said" style="left:calc(${said}% - 7px)" title="Sagen (Programm)">S</div>
+          <div class="did" style="left:calc(${did}% - 7px)" title="Tun (Abstimmung)">T</div></div>
+        <div style="display:flex;justify-content:space-between;font:500 11px 'JetBrains Mono';color:var(--graphite)">
+          <span>lehnt ab</span><span>S ${d.pos.p_said.toFixed(2)} · T ${d.pos.p_did.toFixed(2)}</span><span>stimmt zu</span></div>
+        <div style="margin-top:8px"><span class="link" data-beleg="st:${d.pid}:${d.slug}">${open?'Belege ausblenden ▴':'Sagen &amp; Tun belegen ▾'}</span>
+        ${open?belegZug(d.pos):""}</div></div>`;
+    }).join("");
+  }
+  return `<div class="h2">Sagen vs. Tun</div>
+    <p class="sub" style="margin-top:4px;font-size:13px">Flagge, wenn |gesagt − getan| &gt; 0,5 — für alle Parteien gleich. <b>S</b> = Position im Wahlprogramm (T2), <b>T</b> = Verhalten in namentlichen Abstimmungen (T1).</p>
+    ${body}`;
+}
+
+function combos(arr,k){ if(k===0) return [[]]; if(arr.length<k) return []; const [h,...t]=arr; return combos(t,k-1).map(c=>[h,...c]).concat(combos(t,k)); }
+function coalitions(){
+  const seats=RELEASE.seats||{}, proj=seats.projection||{};
+  const majority=seats.majority||(Math.floor((seats.total||630)/2)+1);
+  const excl=new Set((RELEASE.exclusions||[]).map(e=>(e.pair||[]).slice().sort().join("|")));
+  const pids=Object.keys(proj).filter(p=>proj[p]>0);
+  const isExcl=c=>c.some((a,i)=>c.slice(i+1).some(b=>excl.has([a,b].sort().join("|"))));
+  const win=[];
+  for(let k=2;k<=4;k++) for(const c of combos(pids,k)){
+    const sum=c.reduce((s,p)=>s+proj[p],0);
+    if(sum<majority||isExcl(c)) continue;
+    if(!c.every(p=>(sum-proj[p])<majority)) continue;   // minimal winning
+    win.push({parties:c.slice().sort((a,b)=>proj[b]-proj[a]), seats:sum});
+  }
+  win.sort((a,b)=>a.parties.length-b.parties.length||b.seats-a.seats);
+  return {list:win, majority, total:seats.total||630, proj};
+}
+function coalitionMetrics(members){
+  const per=members.map(p=>({p,...matchScore(S.answers,p)})).filter(s=>s.S!=null);
+  if(!per.length) return null;
+  const proj=(RELEASE.seats||{}).projection||{};
+  let wsum=0,sc=0; per.forEach(s=>{const w=proj[s.p]||1; sc+=w*s.S; wsum+=w;});
+  const S_C=wsum?sc/wsum:null;
+  const h=Math.max(...per.map(s=>s.h||0));
+  // disagreement per statement among members with positions
+  const dis=[];
+  for(const st of statements){
+    const ps=members.map(m=>posOf(m,st.id).p).filter(v=>v!=null);
+    if(ps.length<2) continue;
+    const spread=Math.max(...ps)-Math.min(...ps);
+    dis.push({slug:st.id, spread});
+  }
+  dis.sort((a,b)=>b.spread-a.spread);
+  const meanSpread=dis.length?dis.reduce((s,d)=>s+d.spread,0)/dis.length:0;
+  const cohesion=1-meanSpread/2;   // spread in [0,2] -> cohesion in [0,1]
+  return {S_C, h, cohesion, top:dis.slice(0,3), n:per.length};
+}
+function screenKoalitionen(){
+  const {list,majority,total,proj}=coalitions();
+  const answered=Object.keys(S.answers).length;
+  const cards=list.map(c=>{
+    const m=answered?coalitionMetrics(c.parties):null;
+    const segs=c.parties.map(p=>`<div title="${partyById(p).short_name}: ${proj[p]}" style="width:${proj[p]/total*100}%;background:${partyById(p).color_hex}"></div>`).join("");
+    const majX=majority/total*100;
+    const match=m&&m.S_C!=null?`<div style="margin-top:10px"><div style="display:flex;justify-content:space-between;font:600 12px 'JetBrains Mono'"><span>Ihre Übereinstimmung S(C)</span><span>${Math.round(m.S_C*100)} % ± ${Math.round(m.h*100)}</span></div>
+      <div class="meter" style="margin-top:5px"><i style="width:${Math.round(m.S_C*100)}%"></i></div></div>
+      <div style="margin-top:10px;display:flex;justify-content:space-between;font:600 12px 'JetBrains Mono'"><span>Geschlossenheit Ω(C)</span><span>${Math.round(m.cohesion*100)} %</span></div>
+      <div class="meter" style="margin-top:5px"><i style="width:${Math.round(m.cohesion*100)}%;background:var(--graphite)"></i></div>
+      <div style="margin-top:10px;font-size:12px;color:var(--graphite)">Uneinig bei: ${m.top.map(t=>{const s=statements.find(x=>x.id===t.slug);return `<span class="tag" style="cursor:pointer" data-go2="themen">${s.text_de.slice(0,34)}…</span>`;}).join(" ")}</div>`:"";
+    return `<div class="kcard">
+      <div style="display:flex;flex-wrap:wrap;gap:8px;align-items:center">${c.parties.map(p=>chip(partyById(p))).join("")}
+        <span class="mono" style="margin-left:auto;font-weight:600">${c.seats} Sitze</span></div>
+      <div class="seatbar" style="margin-top:10px">${segs}<div class="maj" style="left:${majX}%"></div></div>
+      <div style="font:500 10px 'JetBrains Mono';color:var(--graphite);margin-top:4px">rechnerische Mehrheit ab ${majority} von ${total} · Balkenmarke = Mehrheit</div>
+      ${match}</div>`;
+  }).join("");
+  const src=(RELEASE.seats||{}).attribution;
+  const asof=(RELEASE.seats||{}).as_of;
+  return `<div class="h2">Koalitionen</div>
+    <p class="sub" style="margin-top:4px;font-size:13px">Rechnerisch mögliche Mehrheiten aus der aktuellen Sitzprojektion (${asof||"—"}). Beschreibend, keine Vorhersage — nur „rechnerisch möglich" bzw. „durch Beschluss ausgeschlossen".</p>
+    ${answered?"":needAnswers("Ihre Übereinstimmung mit einer Koalition S(C)")}
+    ${cards}
+    <div class="sub" style="margin-top:14px;font-size:11px">Sitzprojektion: ${src?`<a class="link" href="${src.source_url}" target="_blank" rel="noopener">${src.text}</a>`:"dawum.de"} · mechanische Umrechnung, 5%-Hürde. Ausschlüsse laden aus <span class="mono">exclusions.json</span>.</div>`;
+}
+
 function bind(){
   document.querySelectorAll("[data-go]").forEach(b=>b.onclick=()=>{S.screen=b.dataset.go;render();});
+  document.querySelectorAll("[data-go2]").forEach(b=>b.onclick=(e)=>{e.stopPropagation();S.screen=b.dataset.go2;render();});
+  document.querySelectorAll("[data-cell]").forEach(b=>b.onclick=()=>{S.openCell=b.dataset.cell;render();});
+  const cc=document.querySelector("[data-closecell]"); if(cc) cc.onclick=()=>{S.openCell=null;render();};
   document.querySelectorAll("[data-u]").forEach(b=>b.onclick=()=>{
     const st=statements[S.i]; const cur=S.answers[st.id]||{w:1};
     S.answers[st.id]={u:parseFloat(b.dataset.u), w:cur.w||1}; save();
@@ -370,7 +573,9 @@ function renderFailed(res){
 
 function boot(res, force){
   const f=res.files;
-  RELEASE={meta:Object.assign({}, res.meta, {signature_verified: !!res.ok}), statements:f.statements, parties:f.parties, positions:f.positions, evidence:f.evidence};
+  RELEASE={meta:Object.assign({}, res.meta, {signature_verified: !!res.ok}),
+    statements:f.statements, parties:f.parties, positions:f.positions, evidence:f.evidence,
+    seats:f.seats, exclusions:f.exclusions};
   ({meta, statements, parties, positions, evidence} = RELEASE);
   render();
 }
