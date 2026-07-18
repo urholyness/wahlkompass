@@ -1,0 +1,4 @@
+# Wahlkompass pipeline runtime deps (deterministic ingest + aggregation + sign).
+pypdf>=6.0
+cryptography>=42.0
+PyYAML>=6.0

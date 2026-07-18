@@ -48,16 +48,18 @@ def main():
     run("1d ingest: dawum seat projection", ["-m", "src.ingest.dawum"], PIPELINE)
     # 2. link candidates (recall-oriented; coded links.json maintained separately)
     run("2  link: vote<->statement candidates", ["-m", "src.ingest.link_candidates"], PIPELINE)
-    # 3. evidence assembly
-    run("3  evidence: assemble evidence_db + cells", ["-m", "src.ingest.build_evidence"], PIPELINE)
-    # 4. release build + sign
-    run("4  release: aggregate + sign", ["tools/release_builder.py"], ROOT)
-    # 5. reproduce (byte-exact)
-    run("5  verify: reproduce.py", ["tools/reproduce.py", f"data-releases/{TAG}"], ROOT)
-    # 6. tests (bias suite + units)
-    run("6  tests: §9 bias suite + units", ["-m", "unittest", "discover", "-s", "tests", "-q"], PIPELINE)
-    # 7. frontend
-    run("7  frontend: build static site", ["tools/build_frontend.py"], ROOT)
+    # 3. T2 quote verification (re-confirm each programme quote against the PDF)
+    run("3  T2: verify programme quotes vs PDF", ["-m", "src.ingest.t2_verify"], PIPELINE)
+    # 4. evidence assembly (coded links + verified T2 quotes)
+    run("4  evidence: assemble evidence_db + cells", ["-m", "src.ingest.build_evidence"], PIPELINE)
+    # 5. release build + sign
+    run("5  release: aggregate + sign", ["tools/release_builder.py"], ROOT)
+    # 6. reproduce (byte-exact)
+    run("6  verify: reproduce.py", ["tools/reproduce.py", f"data-releases/{TAG}"], ROOT)
+    # 7. tests (bias suite + units)
+    run("7  tests: §9 bias suite + units", ["-m", "unittest", "discover", "-s", "tests", "-q"], PIPELINE)
+    # 8. frontend
+    run("8  frontend: build static site", ["tools/build_frontend.py"], ROOT)
 
     print("\n" + "=" * 60)
     print("PIPELINE GREEN — deployable site at frontend/dist/")

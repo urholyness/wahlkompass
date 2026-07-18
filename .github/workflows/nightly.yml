@@ -1,0 +1,61 @@
+name: nightly-release
+
+# Rebuilds the signed data release from live sources every night and deploys it
+# to Cloudflare Pages. Deterministic only — the LLM coding step (programme-quote
+# extraction, vote-alignment coding) is NOT here; those are committed data
+# (pipeline/data/links, pipeline/data/t2) and change through a human-gated run.
+# This job re-ingests votes/polls/seats, re-verifies quotes against the PDFs,
+# re-aggregates, re-signs, checks reproduce.py + the bias suite, and redeploys.
+
+on:
+  schedule:
+    - cron: "17 2 * * *"      # 02:17 UTC nightly
+  workflow_dispatch: {}
+
+permissions:
+  contents: write             # commit the regenerated signed bundle back
+
+concurrency:
+  group: nightly-release
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: wahlkompass
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline (ingest -> verify -> release -> reproduce -> tests -> frontend)
+        env:
+          DIP_API_KEY: ${{ secrets.DIP_API_KEY }}
+          RELEASE_SIGNING_KEY_B64: ${{ secrets.RELEASE_SIGNING_KEY_B64 }}
+        run: python tools/run_pipeline.py
+
+      - name: Commit regenerated bundle
+        run: |
+          git config user.name "wahlkompass-ci"
+          git config user.email "ci@wahlkompass.local"
+          git add data-releases pipeline/data ':!pipeline/data/raw'
+          if git diff --cached --quiet; then
+            echo "no release changes"
+          else
+            git commit -m "nightly: regenerate signed release [skip ci]"
+            git push
+          fi
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy frontend/dist --project-name=wahlkompass --branch=main
